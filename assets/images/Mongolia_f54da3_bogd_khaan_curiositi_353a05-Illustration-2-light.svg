@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="light" data-semantic-intent="compare" data-relation-type="comparison" data-site-visual-identity="heritage-amber">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-family-body: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-heading: var(--font-family-headline);
+    --font-body: var(--font-family-body);
+    --font-size-h1: 64px;
+    --font-size-h2: 42px;
+    --font-size-h3: 29px;
+    --font-size-body: 21px;
+    --font-size-caption: 17px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #a16207;
+    --accent-2: #c2410c;
+    --accent-3: #b45309;
+    --accent-4: #b91c1c;
+    --accent-5: #92400e;
+    --accent-6: #0369a1;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --accent-1: #fbbf24;
+    --accent-2: #fb923c;
+    --accent-3: #f59e0b;
+    --accent-4: #fca5a5;
+    --accent-5: #d6a66f;
+    --accent-6: #7dd3fc;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --accent-1: #a16207;
+    --accent-2: #c2410c;
+    --accent-3: #b45309;
+    --accent-4: #b91c1c;
+    --accent-5: #92400e;
+    --accent-6: #0369a1;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg7cc21e90-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.04"/>
+    </pattern>
+    <filter id="svg7cc21e90-soft-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+    <radialGradient id="svg7cc21e90-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg7cc21e90-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg7cc21e90-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg7cc21e90-tug-rope-sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="50%" stop-color="var(--inverse-text)" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="svg7cc21e90-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg7cc21e90-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg7cc21e90-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect id="CANVAS_BG" width="100%" height="100%" fill="var(--background)"/>
+  <rect width="100%" height="100%" fill="url(#svg7cc21e90-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg7cc21e90-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-size="56" font-weight="800" fill="#0f172a" style="font-size: 69px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-1.2px;" data-final-font-size="69">
+    <tspan x="960.0" dy="70.47px">Palace Collection Diversity Types</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <ellipse cx="960" cy="332" rx="220" ry="58" fill="var(--panel)" fill-opacity="0.48" opacity="0.34"/>
+  <path d="M 162 322 Q 614 304 934 332" fill="none" stroke="var(--primary-text)" stroke-width="16" stroke-linecap="round" opacity="0.10"/>
+  <path d="M 1758 322 Q 1306 304 986 332" fill="none" stroke="var(--primary-text)" stroke-width="16" stroke-linecap="round" opacity="0.10"/>
+  <path d="M 200 322 Q 616 308 936 332" fill="none" stroke="var(--muted-text)" stroke-width="8" stroke-linecap="round" opacity="0.88"/>
+  <path d="M 1720 322 Q 1304 308 984 332" fill="none" stroke="var(--muted-text)" stroke-width="8" stroke-linecap="round" opacity="0.88"/>
+  <path d="M 862 316 L 934 329" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-linecap="round" opacity="0.22"/>
+  <path d="M 1058 316 L 986 329" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-linecap="round" opacity="0.22"/>
+  <circle cx="960" cy="332" r="24" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-width="3"/>
+  <path d="M 960 308 L 982 332 L 960 356 L 938 332 Z" fill="var(--primary-text)"/>
+  <path d="M 350 334 L 382 384" fill="none" stroke="var(--muted-text)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="382" cy="384" r="6" fill="var(--accent-1)"/>
+  <g transform="translate(292, 414)" filter="url(#svg7cc21e90-soft-shadow)">
+    <path d="M 46 0 L 74 -28 L 118 -28 Q 128 -28 132 -18 L 140 0 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-1)" stroke-width="3"/>
+    <rect id="ITEM_1_BG" x="-185" y="0" width="370" height="344" rx="22" fill="var(--panel)" fill-opacity="0.96" stroke="var(--accent-1)" stroke-width="3"/>
+    <rect x="-156" y="14" width="286" height="8" rx="4" fill="var(--accent-1)" fill-opacity="0.42"/>
+    <path d="M 60 28 L 154 28 L 130 318 L 72 318 Z" fill="var(--accent-1)" fill-opacity="0.07"/>
+    <circle id="ITEM_1_PAD" cx="0" cy="78" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-1)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+    <circle id="ITEM_1_PAD_INNER" cx="0" cy="78" r="32.76" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+    <circle cx="0" cy="78" r="32" fill="none" stroke="var(--accent-1)" stroke-width="2.25" stroke-dasharray="5 4" opacity="0.82" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+    <g id="ITEM_1_ICON" transform="translate(-31, 46)" data-icon-size="62" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+      <g transform="translate(-12.679999999999996,-12.679999999999996) scale(3.6399999999999997)" vector-effect="non-scaling-stroke" stroke-width="2.46" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M4 4h6v6h-6z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M14 4h6v6h-6z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M4 14h6v6h-6z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M17 17m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+      </g>
+    </g>
+    <text id="ITEM_1_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="38" font-weight="800" fill="var(--accent-1)" data-bg-id="ITEM_1_BG" data-max-lines="3" data-min-font-size="13" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+      <tspan x="0.0" dy="41.52px">Religious Artifacts</tspan>
+    </text>
+    <rect id="ITEM_1_HEAD_FRAME" x="-152" y="138" width="304" height="66" fill="none"/>
+    <text id="ITEM_1_BODY" x="0.0" y="204.0" text-anchor="middle" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_1_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+      <tspan x="0.0" dy="35.82px">Sacred sculptures and</tspan>
+      <tspan x="0.0" dy="26.45px">thangka paintings in shrines</tspan>
+    </text>
+    <rect id="ITEM_1_BODY_FRAME" x="-162" y="204" width="324" height="140" fill="none"/>
+  </g>
+  <path d="M 852 336 L 812 356" fill="none" stroke="var(--muted-text)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="812" cy="356" r="6" fill="var(--accent-2)"/>
+  <g transform="translate(722, 386)" filter="url(#svg7cc21e90-soft-shadow)">
+    <path d="M 46 0 L 74 -28 L 118 -28 Q 128 -28 132 -18 L 140 0 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-2)" stroke-width="3"/>
+    <rect id="ITEM_2_BG" x="-185" y="0" width="370" height="344" rx="22" fill="var(--panel)" fill-opacity="0.96" stroke="var(--accent-2)" stroke-width="3"/>
+    <rect x="-156" y="14" width="286" height="8" rx="4" fill="var(--accent-2)" fill-opacity="0.42"/>
+    <path d="M 60 28 L 154 28 L 130 318 L 72 318 Z" fill="var(--accent-2)" fill-opacity="0.07"/>
+    <circle id="ITEM_2_PAD" cx="0" cy="78" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-2)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+    <circle id="ITEM_2_PAD_INNER" cx="0" cy="78" r="32.76" fill="var(--accent-2)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+    <circle cx="0" cy="78" r="32" fill="none" stroke="var(--accent-2)" stroke-width="2.25" stroke-dasharray="5 4" opacity="0.82" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+    <g id="ITEM_2_ICON" transform="translate(-31, 46)" data-icon-size="62" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+      <g transform="translate(-7.609999999999996,-6.439999999999998) scale(2.34)">
+        <path d="M6.38815 7.21997L3.31815 8.82997C2.95815 9.01997 2.88815 9.50997 3.18815 9.79997L5.79815 12.27L6.38815 7.21997Z" fill="#F9C23C"/>
+        <path d="M18.5582 28.5H16.7782L17.9782 22.5H16.4782L15.2782 28.5H11.7781L12.9781 22.5H11.4781L10.2781 28.5H8.47812C7.74812 28.5 7.14812 29.02 7.00812 29.71C6.96812 29.86 7.09812 30 7.24812 30H19.7782C19.9382 30 20.0582 29.86 20.0282 29.71C19.8882 29.02 19.2782 28.5 18.5582 28.5Z" fill="#F9C23C"/>
+        <path d="M17.5681 6.22C17.4381 5.8 17.2681 5.4 17.0481 5.03H17.6681C18.9581 5.03 19.9981 3.99 19.9981 2.7C19.9981 2.32 19.6781 2 19.2981 2H11.8381C8.65813 2 6.05813 4.48 5.84813 7.61L4.55813 18.79C4.17813 22.1 6.75813 25 10.0881 25H23.8381L23.8348 24.99H29.1181C29.5181 24.99 29.8381 24.67 29.8381 24.27V15.12C29.8381 14.6 29.2881 14.25 28.8081 14.47L21.4662 17.8893L19.1682 11H19.164L17.5681 6.22Z" fill="#CA0B4A"/>
+        <path d="M10 10C10.5523 10 11 9.55228 11 9C11 8.44772 10.5523 8 10 8C9.44772 8 9 8.44772 9 9C9 9.55228 9.44772 10 10 10Z" fill="#212121"/>
+      </g>
+    </g>
+    <text id="ITEM_2_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="38" font-weight="800" fill="var(--accent-2)" data-bg-id="ITEM_2_BG" data-max-lines="3" data-min-font-size="13" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+      <tspan x="0.0" dy="41.52px">Natural History</tspan>
+    </text>
+    <rect id="ITEM_2_HEAD_FRAME" x="-152" y="138" width="304" height="66" fill="none"/>
+    <text id="ITEM_2_BODY" x="0.0" y="204.0" text-anchor="middle" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_2_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+      <tspan x="0.0" dy="35.82px">Over 200 taxidermy specimens</tspan>
+      <tspan x="0.0" dy="26.45px">from global regions</tspan>
+    </text>
+    <rect id="ITEM_2_BODY_FRAME" x="-162" y="204" width="324" height="140" fill="none"/>
+  </g>
+  <path d="M 1068 336 L 1108 356" fill="none" stroke="var(--muted-text)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="1108" cy="356" r="6" fill="var(--accent-3)"/>
+  <g transform="translate(1198, 386)" filter="url(#svg7cc21e90-soft-shadow)">
+    <path d="M -46 0 L -74 -28 L -118 -28 Q -128 -28 -132 -18 L -140 0 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-3)" stroke-width="3"/>
+    <rect id="ITEM_3_BG" x="-185" y="0" width="370" height="344" rx="22" fill="var(--panel)" fill-opacity="0.96" stroke="var(--accent-3)" stroke-width="3"/>
+    <rect x="-130" y="14" width="286" height="8" rx="4" fill="var(--accent-3)" fill-opacity="0.42"/>
+    <path d="M -60 28 L -154 28 L -130 318 L -72 318 Z" fill="var(--accent-3)" fill-opacity="0.07"/>
+    <circle id="ITEM_3_PAD" cx="0" cy="78" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-3)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+    <circle id="ITEM_3_PAD_INNER" cx="0" cy="78" r="32.76" fill="var(--accent-3)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+    <circle cx="0" cy="78" r="32" fill="none" stroke="var(--accent-3)" stroke-width="2.25" stroke-dasharray="5 4" opacity="0.82" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+    <g id="ITEM_3_ICON" transform="translate(-31, 46)" data-icon-size="62" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+      <g transform="translate(-6.439999999999998,-6.439999999999998) scale(2.34)">
+        <path d="M8.98608 5.28838H7.59613V2.99713H13.3337C13.569 2.99713 13.76 3.18838 13.76 3.42401C13.7596 4.08666 13.4146 4.66834 12.8948 4.99896H15.5625C15.8034 4.99896 15.9981 5.19459 15.9981 5.43521C15.9985 6.5066 15.4516 7.44985 14.6219 8.00018H17.2045C17.4323 8.00018 17.6165 8.18518 17.6165 8.41268C17.6171 10.6289 15.8234 12.4252 13.6102 12.4252H10.9852V8.50959H8.98608V5.28838Z" fill="#1C1C1C"/>
+        <path d="M28.0025 6.6477V5.4852C28.0025 5.21707 28.2197 4.99957 28.4874 4.99957C29.3225 4.99957 29.9996 5.6777 29.9996 6.51395V8.5027C29.9996 9.88332 28.8818 11.0027 27.5032 11.0027H26.3492C26.1526 11.0027 25.9934 11.1621 25.9934 11.3589V16.0002H23.9962V9.50395C23.9962 8.12332 25.114 7.00395 26.4927 7.00395H27.6467C27.8433 7.00395 28.0025 6.84457 28.0025 6.6477Z" fill="#1C1C1C"/>
+        <path d="M3.71346 4.72456C3.85076 3.75018 4.68708 3.00018 5.69816 3.00018H7.4663C7.4663 4.10893 6.56881 5.00768 5.46162 5.00768H3.95499C3.80458 5.00768 3.69223 4.87331 3.71346 4.72456Z" fill="#1C1C1C"/>
+        <path d="M18.9758 23.1746V15.3865L23.1249 15.2252V22.254L23.1006 22.2627L19.226 26.1427C19.0663 26.3033 18.9764 26.5202 18.9764 26.7465V27.684C18.9764 27.859 18.8347 28.0002 18.6606 28.0002H17.2944C17.1196 28.0002 16.9786 27.8583 16.9786 27.684V26.7465C16.9786 25.9846 17.275 25.2677 17.813 24.729L18.6949 23.8508C18.8747 23.6715 18.9758 23.4283 18.9758 23.1746Z" fill="#6D4534"/>
+        <path d="M4.21463 23.4171C4.36317 23.5658 4.60408 23.5658 4.75263 23.4171L5.62577 22.5415C5.77431 22.3927 5.77431 22.1515 5.62577 22.0027L5.23445 21.6108C5.07842 21.454 4.99042 21.2415 4.99042 21.0202V18.6615C4.99042 18.2952 5.28687 17.999 5.65199 17.999H12.9885V15.999H5.65199C4.18343 15.999 2.99323 17.1908 2.99323 18.6615V21.0202C2.99323 21.7777 3.28781 22.4896 3.82268 23.0252L4.21463 23.4171Z" fill="#6D4534"/>
+        <path d="M16.0105 12.0002H23.05C25.7637 12.0002 27.9631 14.2027 27.9631 16.9202V24.0996C27.9631 24.6827 27.7646 25.2483 27.4008 25.704L24.1666 29.7521C24.0417 29.909 23.852 30.0002 23.6517 30.0002H22.4346C22.2436 30.0002 22.135 29.7821 22.2493 29.629L24.488 26.6402C24.7994 26.2246 24.9673 25.7196 24.9673 25.2002C24.9673 24.4446 24.6122 23.7333 24.0087 23.2802L21.4959 21.3933C21.1564 21.1383 20.7433 21.0002 20.3188 21.0002H12.3145C11.6192 21.0002 10.9545 20.8558 10.3497 20.594C10.2518 20.5521 10.1382 20.574 10.0627 20.6496L9.18326 21.5302C9.0522 21.6621 8.98292 21.8396 8.99041 22.0271C8.9979 22.199 9.07716 22.3602 9.19886 22.4821L10.4615 23.7558C10.6181 23.9121 10.8303 24.0002 11.0513 24.0002H11.5075C11.7715 24.0002 11.9856 24.2146 11.9856 24.479V25.5215C11.9856 25.7858 11.7715 26.0002 11.5075 26.0002H11.0513C10.2948 26.0002 9.58395 25.7052 9.04907 25.1696L7.80395 23.914C7.29716 23.4058 6.99384 22.7215 6.99259 22.0033C6.99134 21.2902 7.26845 20.6196 7.7715 20.1158L8.41309 19.4733C8.50734 19.379 8.51483 19.229 8.43182 19.1246C7.8932 18.4471 7.52559 17.6227 7.40014 16.7115L6.29045 8.66708C6.26362 8.4752 6.06452 8.35958 5.8854 8.43208L4.23674 9.09729L2.5 8.5L2.97298 6.94618L6.34226 3.29458C6.39156 3.24145 6.4184 3.17208 6.4184 3.1002V2.2702C6.4184 2.05708 6.65369 1.92833 6.83282 2.0427L8.84873 3.55333C9.31558 3.9202 9.68755 4.25645 9.96029 4.74833L12.9985 10.2252C13.6058 11.3208 14.7592 12.0002 16.0105 12.0002Z" fill="#A56953"/>
+        <path d="M5.4993 7C5.22343 7 5 6.78408 5 6.51749V5.98251C5 5.71592 5.22343 5.5 5.4993 5.5C5.77516 5.5 5.99859 5.71592 5.99859 5.98251V6.51749C5.99859 6.78408 5.77516 7 5.4993 7Z" fill="#1C1C1C"/>
+        <path d="M2.9982 6.9184C2.6618 7.2809 2.25924 7.69715 2.25924 7.69715C2.03955 7.95402 1.94967 8.3034 2.02769 8.6434C2.18247 9.3184 2.86651 9.6509 3.5081 9.39215L4.27702 9.08152L2.9982 6.9184Z" fill="#E39D89"/>
+      </g>
+    </g>
+    <text id="ITEM_3_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="38" font-weight="800" fill="var(--accent-3)" data-bg-id="ITEM_3_BG" data-max-lines="3" data-min-font-size="13" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+      <tspan x="0.0" dy="41.52px">Diplomatic Gifts</tspan>
+    </text>
+    <rect id="ITEM_3_HEAD_FRAME" x="-152" y="138" width="304" height="66" fill="none"/>
+    <text id="ITEM_3_BODY" x="0.0" y="204.0" text-anchor="middle" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_3_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+      <tspan x="0.0" dy="35.82px">British carriages and</tspan>
+      <tspan x="0.0" dy="26.45px">Chinese court treasures</tspan>
+    </text>
+    <rect id="ITEM_3_BODY_FRAME" x="-162" y="204" width="324" height="140" fill="none"/>
+  </g>
+  <path d="M 1570 334 L 1538 384" fill="none" stroke="var(--muted-text)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="1538" cy="384" r="6" fill="var(--accent-4)"/>
+  <g transform="translate(1628, 414)" filter="url(#svg7cc21e90-soft-shadow)">
+    <path d="M -46 0 L -74 -28 L -118 -28 Q -128 -28 -132 -18 L -140 0 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-4)" stroke-width="3"/>
+    <rect id="ITEM_4_BG" x="-185" y="0" width="370" height="344" rx="22" fill="var(--panel)" fill-opacity="0.96" stroke="var(--accent-4)" stroke-width="3"/>
+    <rect x="-130" y="14" width="286" height="8" rx="4" fill="var(--accent-4)" fill-opacity="0.42"/>
+    <path d="M -60 28 L -154 28 L -130 318 L -72 318 Z" fill="var(--accent-4)" fill-opacity="0.07"/>
+    <circle id="ITEM_4_PAD" cx="0" cy="78" r="42" fill="var(--icon-pad-bg)" stroke="var(--accent-1)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+    <circle id="ITEM_4_PAD_INNER" cx="0" cy="78" r="32.76" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+    <circle cx="0" cy="78" r="32" fill="none" stroke="var(--accent-4)" stroke-width="2.25" stroke-dasharray="5 4" opacity="0.82" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+    <g id="ITEM_4_ICON" transform="translate(-31, 46)" data-icon-size="62" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+      <g transform="translate(-5.148965517241378,-5.148965517241377) scale(0.14120689655172414)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M441.65 24.393a9 9 0 0 0-1.452.08c-4.125.547-9.426 3.87-11.367 11.46c-5.247 20.526-12.76 40.182-17.077 50.79c.086.108.178.21.264.318c6.13 7.756 11.292 17.36 15.593 27.788c.75 1.816 1.46 3.66 2.157 5.518c5.272-.53 10.743-1.793 16.45-3.975c5.046-13.438 7.054-23.478 7.08-35.225c.025-12.816-2.37-28.172-6.112-51.424c-.447-2.777-1.324-3.7-2.34-4.394c-.763-.52-1.835-.894-3.194-.933zM56.648 30.627c-4.033.01-7.61.662-9.5 1.457c-.97.408-1.215.48-1.326.486c-.508 14.077 3.406 30.818 10.277 44.497c6.895 13.727 16.732 23.946 25.94 27.115c21.892 7.53 54.657 9.57 90.7-15.656c-18.006-6.55-32.917-9.786-46.672-14.436c-17.293-5.846-32.997-15.124-46.416-35.773c-1.404-2.16-11.79-7.233-21.25-7.653a38 38 0 0 0-1.753-.037M286.503 86.06q-6.796.005-13.514.065c-24.478.218-48.16.99-71.243 2.25l-5.096 4.39a170 170 0 0 1-8.145 6.59c68.666 4.997 135.053 6.64 210.28.03c-.297-.395-.593-.807-.89-1.182c-4.478-5.666-8.872-8.65-11.84-9.428c-34.768-1.863-67.832-2.738-99.552-2.714zm-123.61 29.007c-9.457 4.496-18.745 7.532-27.705 9.42c6.326 8.607 13.46 17.135 21.297 24.94c20.7 20.617 45.453 35.555 71.22 35.358L422.29 169.97c-.812-14.37-4.874-32.65-11.32-48.277a136 136 0 0 0-2.258-5.142c-88.857 8.45-165.386 5.506-245.848-1.128l.03-.355zm-84.03 7.015l-24.727.656c-.194.28-.545.824-1.055 2.14c-1.08 2.79-2.008 7.784-2.23 13.94c-.443 12.314 1.66 29.28 6.026 46.006c4.367 16.728 11.03 33.32 18.975 45.23c7.814 11.716 16.262 18.076 24.17 18.694l10.555-.96l-3.46-32.505c-14.402-1.814-26.805-12.138-26.805-26.59c0-15.955 15.114-26.88 31.347-26.88c16.234 0 31.348 10.925 31.348 26.88c0 11.39-7.71 20.214-18.027 24.33l3.525 33.135l94.957-8.633c-20.206-3.435-38.645-21.4-48.62-50.564c-11.286-6.858-21.688-15.45-31.056-24.778c-11.12-11.074-20.865-23.257-29.04-35.244c-13.365.387-25.55-1.62-35.882-4.856zm372.52 11.656a81 81 0 0 1-16.054 4.024c3.787 14.243 5.774 28.595 5.237 40.92l-.347 7.976l-31.387 2.39a477 477 0 0 1 6.043 31.077l32.873-2.988c18.517-18.74 21.183-37.714 16.378-56.412c-2.415-9.398-6.998-18.61-12.746-26.987zm-339.726 46.075c-8.45 0-13.347 5.084-13.347 8.88c0 3.793 4.896 8.875 13.347 8.875s13.348-5.082 13.348-8.876c0-3.795-4.896-8.88-13.348-8.88zm278.887 10.627l-95.22 7.25c26.347 58.248 31.033 115.17 23.38 170.486c22.613 2.476 44.69 3.89 60.373.932c8.888-1.678 15.438-4.64 19.492-8.598s6.427-8.995 6.376-18.035c-.278-49.916-2.173-100.274-14.402-152.035zm-190.56 8.082c8.255 13.282 18.5 20.036 26.857 21.33c6.08.94 11.3-.463 16.108-4.647c3.426-2.98 6.64-7.613 8.975-14.21l-23.6 1.796l-.297.003c-9.715.095-19.078-1.46-28.04-4.27zm76.203.625l-5.112.388c-2.987 12.56-8.576 22.517-16.31 29.248a37.8 37.8 0 0 1-11.782 6.97l46.49-4.228c-3.662-10.72-8.076-21.508-13.286-32.378M130.66 264.04l-17.927 1.628c4.787 61.848 3.29 124.66-6.496 188.85l17.793 2.713c10.02-65.73 11.533-130.037 6.63-193.19zm271.593 116.155l-10.367 3.98c-15.544 5.968-36.597 5.06-52.77 3.743l-12.793-1.043l3.38 12.383l8.24 30.184c-3.815 8.488-6.973 15.055-8.16 22.76c-1.275 8.288.454 16.908 4.99 27.24c1.728 3.937 4.332 4.995 6.076 5.748c1.742.752 3.262 1.103 4.89 1.404c3.253.6 6.896.86 11.095.967c8.397.216 18.84-.275 29.324-1.31c10.482-1.035 20.903-2.592 29.34-4.723c4.22-1.065 7.92-2.224 11.247-3.87c3.33-1.644 7.684-3.568 8.9-10.155c2.61-14.132-6.05-25.697-13.43-34.572c-5.61-6.748-11.366-12.007-13.825-14.16l-6.14-38.575zM387.83 404.11l1.8 11.306l-35.613 4.56l-3.614-13.24c11.506.588 24.607.396 37.428-2.627zm10.566 29.925a99.4 99.4 0 0 1 9.982 10.4c5.098 6.133 8.577 13.233 9.316 17.446c-1.512.652-3.593 1.435-6.6 2.194c-6.995 1.766-16.85 3.29-26.704 4.264c-9.855.973-19.81 1.416-27.092 1.23c-3.22-.084-5.614-.338-7.33-.597c-2.53-6.463-2.982-10.203-2.393-14.03c.553-3.59 2.7-8.704 5.653-15.42l45.168-5.485z" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <text id="ITEM_4_HEAD" x="0.0" y="138.0" text-anchor="middle" font-size="38" font-weight="800" fill="var(--accent-1)" data-bg-id="ITEM_4_BG" data-max-lines="3" data-min-font-size="13" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+      <tspan x="0.0" dy="41.52px">Elephant Regalia</tspan>
+    </text>
+    <rect id="ITEM_4_HEAD_FRAME" x="-152" y="138" width="304" height="66" fill="none"/>
+    <text id="ITEM_4_BODY" x="0.0" y="204.0" text-anchor="middle" font-size="24" fill="var(--primary-text)" data-bg-id="ITEM_4_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+      <tspan x="0.0" dy="35.82px">Ornate harnesses and</tspan>
+      <tspan x="0.0" dy="26.45px">textiles for royal elephants</tspan>
+    </text>
+    <rect id="ITEM_4_BODY_FRAME" x="-162" y="204" width="324" height="140" fill="none"/>
+  </g>
+  <text id="SOURCE_NOTE" x="134.0" y="1058.0" fill="var(--muted-text)" opacity="0.88" style="font-family: var(--font-family); font-size: 20px;">Source: Introduction</text>
+</svg>

@@ -1,0 +1,2827 @@
+{
+  "generated_at_utc": "2026-07-25T11:53:39.960611Z",
+  "summary": {
+    "total_pages_with_permalink": 965,
+    "visible_pages": 772,
+    "hidden_pages": 193,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1663,
+    "inline_internal_target_page_count": 772,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 705,
+    "visible_pages_without_inline_outbound_links": 67,
+    "average_inline_inbound_links_per_visible_page": 2.15,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 772,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Belgium_5cb4c9",
+        "title": "Why Belgium Keeps Its Strangest Objects",
+        "permalink": "/why-belgium-keeps-its-strangest-objects/"
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "Where Benin's Strangest Collections Are Still Alive",
+        "permalink": "/where-benins-strangest-collections-are/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f",
+        "title": "Where Burkina Faso Keeps Its Sacred Mysteries",
+        "permalink": "/where-burkina-faso-keeps-its-sacred/"
+      },
+      {
+        "basename": "Cameroon_73a7dd",
+        "title": "Where Cameroon's Strangest Collections Still Hold Power",
+        "permalink": "/where-cameroons-strangest-collections/"
+      },
+      {
+        "basename": "Chad_6c6b1b",
+        "title": "Where Chad Keeps Its Strangest Stories",
+        "permalink": "/where-chad-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Chad_6c6b1b_ennedi_desert_rock_a_59bf03",
+        "title": "Ennedi Art",
+        "permalink": "/ennedi-art/"
+      },
+      {
+        "basename": "Chad_6c6b1b_sao_giants_terracott_cec003",
+        "title": "Sao Legends",
+        "permalink": "/sao-legends/"
+      },
+      {
+        "basename": "Chad_6c6b1b_toumai_human_origins_bf5be0",
+        "title": "Toumai",
+        "permalink": "/toumai/"
+      },
+      {
+        "basename": "Cuba_c484b1_afro_cuban_sacred_co_8cbee6",
+        "title": "Sacred Collections",
+        "permalink": "/sacred-collections/"
+      },
+      {
+        "basename": "Cuba_c484b1_matanzas_pharmacy_99f0f7",
+        "title": "Matanzas Pharmacy",
+        "permalink": "/matanzas-pharmacy/"
+      },
+      {
+        "basename": "Cuba_c484b1_napoleon_relics_hava_661021",
+        "title": "Napoleon Relics",
+        "permalink": "/napoleon-relics/"
+      },
+      {
+        "basename": "Czech_Republic_0c207e",
+        "title": "Why Are Czech Collections So Strangely Compelling?",
+        "permalink": "/czech-republic/"
+      },
+      {
+        "basename": "El_Salvador_9b83b7",
+        "title": "Where El Salvador Keeps Its Strangest History",
+        "permalink": "/where-el-salvador-keeps-its-strangest/"
+      },
+      {
+        "basename": "Eritrea_18740a",
+        "title": "Where Eritrea Keeps Its Strangest Collections",
+        "permalink": "/where-eritrea-keeps-its-strangest/"
+      },
+      {
+        "basename": "Fiji_bbb7ef",
+        "title": "Where Fiji Keeps Its Strangest Stories",
+        "permalink": "/where-fiji-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Fiji_bbb7ef_fiji_cannibal_legend_ae8785",
+        "title": "Most Famous Cannibal Stories",
+        "permalink": "/most-famous-cannibal-stories/"
+      },
+      {
+        "basename": "Fiji_bbb7ef_fiji_museum_objects_a9dc2e",
+        "title": "Museum Objects",
+        "permalink": "/museum-objects/"
+      },
+      {
+        "basename": "Fiji_bbb7ef_levuka_living_museum_5d0de9",
+        "title": "Historic Levuka",
+        "permalink": "/historic-levuka/"
+      },
+      {
+        "basename": "Finland_c909b1",
+        "title": "Where Finland Keeps Its Strangest Stories",
+        "permalink": "/where-finland-keeps-its-strangest/"
+      },
+      {
+        "basename": "Germany_17d53e",
+        "title": "Why Germany's Strangest Museums Feel So Serious",
+        "permalink": "/why-germanys-strangest-museums-feel-so/"
+      },
+      {
+        "basename": "Greece_4902a4",
+        "title": "Where Greece Keeps Its Strangest Stories",
+        "permalink": "/where-greece-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Guinea-Bissau_b07cb9",
+        "title": "Where Guinea Bissau Keeps Its Strangest Histories",
+        "permalink": "/where-guinea-bissau-keeps-its-strangest/"
+      },
+      {
+        "basename": "Iran_889224_iran_doll_collection_7078dc",
+        "title": "Doll Collections",
+        "permalink": "/doll-collections/"
+      },
+      {
+        "basename": "Iran_889224_iran_medical_history_bb9ea4",
+        "title": "Medical History",
+        "permalink": "/medical-history/"
+      },
+      {
+        "basename": "Iran_889224_zanjan_saltmen_a9d5b2",
+        "title": "Saltmen",
+        "permalink": "/saltmen/"
+      },
+      {
+        "basename": "Iraq_1aed9e_incantation_bowls_62df8f",
+        "title": "Magic Bowls",
+        "permalink": "/magic-bowls/"
+      },
+      {
+        "basename": "Ireland_eb2131",
+        "title": "Where Ireland's Oddest Stories Come Alive",
+        "permalink": "/where-irelands-oddest-stories-come-alive/"
+      },
+      {
+        "basename": "Laos_7998be_ethnic_collections_0ad4fa",
+        "title": "Living Traditions",
+        "permalink": "/living-traditions/"
+      },
+      {
+        "basename": "Laos_7998be_plain_of_jars_c28018",
+        "title": "Plain of Jars",
+        "permalink": "/plain-of-jars/"
+      },
+      {
+        "basename": "Laos_7998be_uxo_war_memory_674217",
+        "title": "UXO Museums",
+        "permalink": "/uxo-museums/"
+      },
+      {
+        "basename": "Malaysia_ff3ea3",
+        "title": "Where Malaysia Keeps Its Strangest Stories",
+        "permalink": "/where-malaysia-keeps-its-strangest/"
+      },
+      {
+        "basename": "Mali_daa6a4_kore_puppets_perform_7622e3",
+        "title": "Puppets",
+        "permalink": "/puppets/"
+      },
+      {
+        "basename": "Mali_daa6a4_timbuktu_manuscript_9f95b4",
+        "title": "Manuscripts",
+        "permalink": "/manuscripts/"
+      },
+      {
+        "basename": "Malta_1a591a",
+        "title": "Where Malta Keeps Its Strangest Stories",
+        "permalink": "/where-malta-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Mauritania_85fa35",
+        "title": "Where Mauritania Keeps Its Strangest Stories",
+        "permalink": "/where-mauritania-keeps-its-strangest/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_chuuk_lagoon_wrecks_2d2101",
+        "title": "Chuuk Wrecks",
+        "permalink": "/chuuk-wrecks/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_nan_madol_mysteries_218134",
+        "title": "Nan Madol",
+        "permalink": "/nan-madol/"
+      },
+      {
+        "basename": "Micronesia_Federated_30e9e8_yap_stone_money_bank_65c9b6",
+        "title": "Stone Money",
+        "permalink": "/stone-money/"
+      },
+      {
+        "basename": "Moldova_9791bc",
+        "title": "Where Moldova Keeps Its Strangest Stories",
+        "permalink": "/where-moldova-keeps-its-strangest/"
+      },
+      {
+        "basename": "Monaco_35ab1c",
+        "title": "Where Does Monaco Keep Its Strangest Things?",
+        "permalink": "/where-does-monaco-keep-its-strangest/"
+      },
+      {
+        "basename": "Namibia_bfe79d",
+        "title": "Where Namibia Keeps Its Strangest Stories",
+        "permalink": "/where-namibia-keeps-its-strangest/"
+      },
+      {
+        "basename": "Nicaragua_481264",
+        "title": "Where Nicaragua Keeps Its Strangest Stories",
+        "permalink": "/where-nicaragua-keeps-its-strangest/"
+      },
+      {
+        "basename": "Oman_c14c36_natural_history_curi_72ac64",
+        "title": "Natural Oddities",
+        "permalink": "/natural-oddities-ca410c/"
+      },
+      {
+        "basename": "Oman_c14c36_private_heritage_mus_0070ee",
+        "title": "Private Museums",
+        "permalink": "/private-museums/"
+      },
+      {
+        "basename": "Oman_c14c36_protective_silver_am_6e5852",
+        "title": "Silver Amulets",
+        "permalink": "/silver-amulets/"
+      },
+      {
+        "basename": "Pakistan_82d220",
+        "title": "Where Does Pakistan Keep Its Strangest Objects?",
+        "permalink": "/where-does-pakistan-keep-its-strangest/"
+      },
+      {
+        "basename": "Papua_New_Guinea_90e80c",
+        "title": "Where Papua New Guinea Keeps Its Strangest Objects",
+        "permalink": "/where-papua-new-guinea-keeps-its/"
+      },
+      {
+        "basename": "Paraguay_71a452",
+        "title": "Where Paraguay Keeps Its Strangest Stories",
+        "permalink": "/where-paraguay-keeps-its-strangest/"
+      },
+      {
+        "basename": "Peru_36c572_andean_mummies_displ_42dc08",
+        "title": "Andean Mummies",
+        "permalink": "/andean-mummies/"
+      },
+      {
+        "basename": "Peru_36c572_moche_erotic_ceramic_1d8460",
+        "title": "Erotic Ceramics",
+        "permalink": "/erotic-ceramics/"
+      },
+      {
+        "basename": "Peru_36c572_peru_medical_body_co_528038",
+        "title": "Medical Oddities",
+        "permalink": "/medical-oddities-3618f7/"
+      },
+      {
+        "basename": "Rwanda_7266a1",
+        "title": "What Makes Rwanda's Museums So Unusual?",
+        "permalink": "/what-makes-rwandas-museums-so-unusual/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2",
+        "title": "Where Sao Tome Keeps Its Strangest Stories",
+        "permalink": "/sao-tome-and-principe/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2_plantation_open_air_aa678a",
+        "title": "Plantation Ruins",
+        "permalink": "/plantation-ruins/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2_sao_sebastiao_fort_m_eb29e4",
+        "title": "Fort Museum",
+        "permalink": "/fort-museum/"
+      },
+      {
+        "basename": "Sao_Tome_and_Princip_3437b2_turtle_conservation_405a8f",
+        "title": "Turtle Museums",
+        "permalink": "/turtle-museums/"
+      },
+      {
+        "basename": "South_Korea_7536d5",
+        "title": "What Makes South Korea's Museums So Unusual?",
+        "permalink": "/what-makes-south-koreas-museums-so/"
+      },
+      {
+        "basename": "Suriname_b17fc6",
+        "title": "Where Suriname Keeps Its Strangest Histories",
+        "permalink": "/where-suriname-keeps-its-strangest/"
+      },
+      {
+        "basename": "Togo_30949d_akodessewa_market_71c90f",
+        "title": "Akodessewa Market",
+        "permalink": "/akodessewa-market/"
+      },
+      {
+        "basename": "Togo_30949d_national_museum_togo_3c0125",
+        "title": "National Museum",
+        "permalink": "/national-museum-160a3c/"
+      },
+      {
+        "basename": "Togo_30949d_palais_lome_8df362",
+        "title": "Palais de Lomé",
+        "permalink": "/palais-de-lomé/"
+      },
+      {
+        "basename": "Tunisia_edf404",
+        "title": "Where Tunisia's Strangest Histories Come Alive",
+        "permalink": "/where-tunisias-strangest-histories-come/"
+      },
+      {
+        "basename": "United_Kingdom_d25561_medical_museum_ethic_183cd6",
+        "title": "Medical Ethics",
+        "permalink": "/medical-ethics-3e380b/"
+      },
+      {
+        "basename": "United_Kingdom_d25561_witchcraft_lived_bel_c2c84b",
+        "title": "Witchcraft",
+        "permalink": "/witchcraft-f2d896/"
+      },
+      {
+        "basename": "United_States_f5f19f",
+        "title": "What Makes America's Strangest Museums Worth Visiting?",
+        "permalink": "/united-states/"
+      },
+      {
+        "basename": "United_States_f5f19f_tragic_history_touri_273587",
+        "title": "Dark Tourism",
+        "permalink": "/dark-tourism/"
+      },
+      {
+        "basename": "United_States_f5f19f_ufo_cryptid_museums_b0923c",
+        "title": "UFOs and Cryptids",
+        "permalink": "/ufos-and-cryptids/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Afghanistan_c69153",
+        "title": "What Makes Afghanistan's Collections So Unusual?",
+        "permalink": "/what-makes-afghanistans-collections-so/"
+      },
+      {
+        "basename": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "title": "Bactrian Gold",
+        "permalink": "/bactrian-gold/"
+      },
+      {
+        "basename": "Afghanistan_c69153_kabul_museum_surviva_0ee781",
+        "title": "Museum Survival",
+        "permalink": "/museum-survival/"
+      },
+      {
+        "basename": "Afghanistan_c69153_mes_aynak_rescue_arc_4e1034",
+        "title": "Mes Aynak",
+        "permalink": "/mes-aynak/"
+      },
+      {
+        "basename": "Albania_79b9d2",
+        "title": "Where Albania Preserves Its Strangest History",
+        "permalink": "/where-albania-preserves-its-strangest/"
+      },
+      {
+        "basename": "Albania_79b9d2_spac_prison_memory_16eeef",
+        "title": "Spaç Prison",
+        "permalink": "/spaç-prison/"
+      },
+      {
+        "basename": "Albania_79b9d2_theth_lock_in_tower_346ae8",
+        "title": "Theth Tower",
+        "permalink": "/theth-tower/"
+      },
+      {
+        "basename": "Albania_79b9d2_tirana_dictatorship_32a475",
+        "title": "Tirana Museums",
+        "permalink": "/tirana-museums/"
+      },
+      {
+        "basename": "Algeria_bd6acc",
+        "title": "Where Algeria Keeps Its Strangest Histories",
+        "permalink": "/where-algeria-keeps-its-strangest/"
+      },
+      {
+        "basename": "Algeria_bd6acc_algiers_ritual_objec_60ef05",
+        "title": "Ritual Objects",
+        "permalink": "/ritual-objects/"
+      },
+      {
+        "basename": "Algeria_bd6acc_tassili_rock_art_myt_e39e4a",
+        "title": "Tassili",
+        "permalink": "/tassili/"
+      },
+      {
+        "basename": "Algeria_bd6acc_tin_hinan_burial_34e94b",
+        "title": "Tin Hinan",
+        "permalink": "/tin-hinan/"
+      },
+      {
+        "basename": "Andorra_9d3bd1",
+        "title": "Where Andorra Keeps Its Strangest Surviving Objects",
+        "permalink": "/where-andorra-keeps-its-strangest/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_folklore_hou_77e3cd",
+        "title": "Folklore Sites",
+        "permalink": "/folklore-sites/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_microminiatu_a2a7b4",
+        "title": "Microminiatures",
+        "permalink": "/microminiatures/"
+      },
+      {
+        "basename": "Andorra_9d3bd1_andorra_sacred_colle_38a422",
+        "title": "Sacred Objects",
+        "permalink": "/sacred-objects/"
+      },
+      {
+        "basename": "Angola_a42522",
+        "title": "Where Angola Keeps Its Strangest Stories",
+        "permalink": "/where-angola-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Angola_a42522_dundo_masks_restitut_7355c5",
+        "title": "Dundo Museum",
+        "permalink": "/dundo-museum/"
+      },
+      {
+        "basename": "Angola_a42522_luanda_masks_context_7f9fe8",
+        "title": "Luanda Masks",
+        "permalink": "/luanda-masks/"
+      },
+      {
+        "basename": "Angola_a42522_slavery_museum_memor_d77096",
+        "title": "Slavery Museum",
+        "permalink": "/slavery-museum/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518",
+        "title": "Where Antigua's Strangest Histories Are Preserved",
+        "permalink": "/antigua-and-barbuda/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_green_castle_standin_30c415",
+        "title": "Standing Stones",
+        "permalink": "/standing-stones/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_museum_archaeologica_98e92f",
+        "title": "Museum Finds",
+        "permalink": "/museum-finds/"
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518_nelsons_dockyard_emp_0f9546",
+        "title": "Naval Dockyard",
+        "permalink": "/naval-dockyard/"
+      },
+      {
+        "basename": "Argentina_354bf9",
+        "title": "What Makes Argentina's Strangest Museums Matter?",
+        "permalink": "/what-makes-argentinas-strangest-museums/"
+      },
+      {
+        "basename": "Argentina_354bf9_argentina_prison_mus_254e8c",
+        "title": "Prison Museums",
+        "permalink": "/prison-museums/"
+      },
+      {
+        "basename": "Argentina_354bf9_llullaillaco_display_04727e",
+        "title": "Inca Children",
+        "permalink": "/inca-children/"
+      },
+      {
+        "basename": "Argentina_354bf9_medical_forensic_col_09ba02",
+        "title": "Medical Museums",
+        "permalink": "/medical-museums/"
+      },
+      {
+        "basename": "Armenia_5f4599",
+        "title": "Where Armenia Keeps Its Strangest Treasures",
+        "permalink": "/where-armenia-keeps-its-strangest/"
+      },
+      {
+        "basename": "Armenia_5f4599_armenian_archaeologi_b86097",
+        "title": "Ancient Oddities",
+        "permalink": "/ancient-oddities/"
+      },
+      {
+        "basename": "Armenia_5f4599_parajanov_transforme_606d83",
+        "title": "Parajanov",
+        "permalink": "/parajanov/"
+      },
+      {
+        "basename": "Armenia_5f4599_sacred_relics_and_bo_51b270",
+        "title": "Sacred Objects",
+        "permalink": "/sacred-objects-47c856/"
+      },
+      {
+        "basename": "Australia_ceafb5",
+        "title": "Where Australia Keeps Its Strangest Things",
+        "permalink": "/where-australia-keeps-its-strangest/"
+      },
+      {
+        "basename": "Australia_ceafb5_crime_prisons_dark_t_94b534",
+        "title": "Crime and Prisons",
+        "permalink": "/crime-and-prisons/"
+      },
+      {
+        "basename": "Australia_ceafb5_medical_specimens_et_a6c594",
+        "title": "Medical Collections",
+        "permalink": "/medical-collections/"
+      },
+      {
+        "basename": "Australia_ceafb5_mona_curiosity_cabin_744d60",
+        "title": "MONA",
+        "permalink": "/mona/"
+      },
+      {
+        "basename": "Austria_593905",
+        "title": "Why Does Austria Preserve Such Strange Things?",
+        "permalink": "/why-does-austria-preserve-such-strange/"
+      },
+      {
+        "basename": "Austria_593905_ambras_curiosity_mus_6bfe6d",
+        "title": "Ambras",
+        "permalink": "/ambras/"
+      },
+      {
+        "basename": "Austria_593905_narrenturm_pathology_f4d52e",
+        "title": "Narrenturm",
+        "permalink": "/narrenturm/"
+      },
+      {
+        "basename": "Austria_593905_riegersburg_witch_tr_d36ad6",
+        "title": "Witch Trials",
+        "permalink": "/witch-trials/"
+      },
+      {
+        "basename": "Azerbaijan_213598",
+        "title": "Where Azerbaijan Keeps Its Strangest Stories",
+        "permalink": "/where-azerbaijan-keeps-its-strangest/"
+      },
+      {
+        "basename": "Azerbaijan_213598_absheron_fire_sites_9f0df8",
+        "title": "Fire Sites",
+        "permalink": "/fire-sites/"
+      },
+      {
+        "basename": "Azerbaijan_213598_gobustan_rock_art_d53d07",
+        "title": "Gobustan",
+        "permalink": "/gobustan/"
+      },
+      {
+        "basename": "Azerbaijan_213598_miniature_books_coll_0f20a4",
+        "title": "Tiny Books",
+        "permalink": "/tiny-books/"
+      },
+      {
+        "basename": "Bahrain_3ae11c",
+        "title": "Where Bahrain Keeps Its Strangest Surviving Objects",
+        "permalink": "/where-bahrain-keeps-its-strangest/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_dilmun_graves_landsc_9fe8a3",
+        "title": "Dilmun Graves",
+        "permalink": "/dilmun-graves/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_miniature_qurans_man_080038",
+        "title": "Sacred Manuscripts",
+        "permalink": "/sacred-manuscripts/"
+      },
+      {
+        "basename": "Bahrain_3ae11c_qalat_archaeology_la_34bdd8",
+        "title": "Qal at Layers",
+        "permalink": "/qal-at-layers/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37",
+        "title": "Where Bangladesh Keeps Its Strangest Things",
+        "permalink": "/where-bangladesh-keeps-its-strangest/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_folk_belief_collecti_593b9c",
+        "title": "Folk Belief",
+        "permalink": "/folk-belief/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_scientific_curiosity_efb96a",
+        "title": "Science Oddities",
+        "permalink": "/science-oddities/"
+      },
+      {
+        "basename": "Bangladesh_fa6c37_taka_museum_money_po_c7321c",
+        "title": "Money Museum",
+        "permalink": "/money-museum/"
+      },
+      {
+        "basename": "Barbados_93409a",
+        "title": "Where Barbados Keeps Its Strangest Stories",
+        "permalink": "/where-barbados-keeps-its-strangest/"
+      },
+      {
+        "basename": "Barbados_93409a_museum_prison_folklo_b39f32",
+        "title": "Museum and Duppies",
+        "permalink": "/museum-and-duppies/"
+      },
+      {
+        "basename": "Barbados_93409a_national_armoury_can_afbcb7",
+        "title": "National Armoury",
+        "permalink": "/national-armoury/"
+      },
+      {
+        "basename": "Barbados_93409a_nidhe_israel_mikvah_5148b8",
+        "title": "Nidhe Israel",
+        "permalink": "/nidhe-israel/"
+      },
+      {
+        "basename": "Belarus_027a12",
+        "title": "Where Belarus Keeps Its Strangest Stories",
+        "permalink": "/where-belarus-keeps-its-strangest/"
+      },
+      {
+        "basename": "Belarus_027a12_berestye_medieval_to_985a13",
+        "title": "Berestye",
+        "permalink": "/berestye/"
+      },
+      {
+        "basename": "Belarus_027a12_folklore_museums_6877ef",
+        "title": "Folklore",
+        "permalink": "/folklore/"
+      },
+      {
+        "basename": "Belarus_027a12_vetka_sacred_objects_19c5f9",
+        "title": "Sacred Vetka",
+        "permalink": "/sacred-vetka/"
+      },
+      {
+        "basename": "Belgium_5cb4c9",
+        "title": "Why Belgium Keeps Its Strangest Objects",
+        "permalink": "/why-belgium-keeps-its-strangest-objects/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_binche_living_masks_acc516",
+        "title": "Living Masks",
+        "permalink": "/living-masks/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_medical_psychiatric_e1273e",
+        "title": "Bodies and Minds",
+        "permalink": "/bodies-and-minds/"
+      },
+      {
+        "basename": "Belgium_5cb4c9_occult_fantastic_spe_6d6bc7",
+        "title": "Occult Spectacle",
+        "permalink": "/occult-spectacle/"
+      },
+      {
+        "basename": "Belize_42ab0c",
+        "title": "Where Belize Keeps Its Strangest Stories",
+        "permalink": "/where-belize-keeps-its-strangest-stories/"
+      },
+      {
+        "basename": "Belize_42ab0c_atm_cave_collection_09dcce",
+        "title": "ATM Cave",
+        "permalink": "/atm-cave/"
+      },
+      {
+        "basename": "Belize_42ab0c_mitchell_hedges_skul_587107",
+        "title": "Crystal Skull",
+        "permalink": "/crystal-skull/"
+      },
+      {
+        "basename": "Belize_42ab0c_museum_belize_prison_12f9d3",
+        "title": "Prison Museum",
+        "permalink": "/prison-museum/"
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "Where Benin's Strangest Collections Are Still Alive",
+        "permalink": "/where-benins-strangest-collections-are/"
+      },
+      {
+        "basename": "Benin_373616_abomey_royal_symbols_06f27d",
+        "title": "Royal Abomey",
+        "permalink": "/royal-abomey/"
+      },
+      {
+        "basename": "Benin_373616_ouidah_living_vodun_267fa8",
+        "title": "Sacred Ouidah",
+        "permalink": "/sacred-ouidah/"
+      },
+      {
+        "basename": "Benin_373616_ouidah_slavery_memor_8f8a5d",
+        "title": "Memory Route",
+        "permalink": "/memory-route/"
+      },
+      {
+        "basename": "Bhutan_bb2254",
+        "title": "Where Bhutan Keeps Its Strangest Objects",
+        "permalink": "/where-bhutan-keeps-its-strangest-objects/"
+      },
+      {
+        "basename": "Bhutan_bb2254_bhutan_talking_stamp_1b8113",
+        "title": "Talking Stamps",
+        "permalink": "/talking-stamps/"
+      },
+      {
+        "basename": "Bhutan_bb2254_chimi_lhakhang_symbo_c80b8d",
+        "title": "Fertility Symbols",
+        "permalink": "/fertility-symbols/"
+      },
+      {
+        "basename": "Bhutan_bb2254_ogyen_choling_collec_39a831",
+        "title": "Ogyen Choling",
+        "permalink": "/ogyen-choling/"
+      },
+      {
+        "basename": "Bolivia_a001af",
+        "title": "Where Bolivia Keeps Its Strangest Objects",
+        "permalink": "/where-bolivia-keeps-its-strangest/"
+      },
+      {
+        "basename": "Bolivia_a001af_bolivia_ritual_marke_f5fec0",
+        "title": "Ritual Markets",
+        "permalink": "/ritual-markets/"
+      },
+      {
+        "basename": "Bolivia_a001af_coca_museum_drug_myt_657ed3",
+        "title": "Coca Museum",
+        "permalink": "/coca-museum/"
+      },
+      {
+        "basename": "Bolivia_a001af_oruro_masks_and_skul_89edbf",
+        "title": "Oruro Devils",
+        "permalink": "/oruro-devils/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f",
+        "title": "Where Bosnia Keeps Its Strangest Histories",
+        "permalink": "/bosnia-and-herzegovina/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_sarajevo_haggadah_tr_6c0d13",
+        "title": "Haggadah",
+        "permalink": "/haggadah/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_underground_survival_cd6e62",
+        "title": "Underground Sites",
+        "permalink": "/underground-sites/"
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
+        "title": "War Childhood",
+        "permalink": "/war-childhood/"
+      },
+      {
+        "basename": "Botswana_180c89",
+        "title": "Where Botswana Keeps Its Strangest Heritage",
+        "permalink": "/where-botswana-keeps-its-strangest/"
+      },
+      {
+        "basename": "Botswana_180c89_human_remains_ethics_e180b2",
+        "title": "Human Remains",
+        "permalink": "/human-remains/"
+      },
+      {
+        "basename": "Botswana_180c89_motopi_pan_meteorite_61ab04",
+        "title": "Motopi Pan",
+        "permalink": "/motopi-pan/"
+      },
+      {
+        "basename": "Botswana_180c89_tsodilo_sacred_lands_081a7d",
+        "title": "Tsodilo Hills",
+        "permalink": "/tsodilo-hills/"
+      },
+      {
+        "basename": "Brazil_37497a",
+        "title": "What Makes Brazil's Strangest Collections Matter?",
+        "permalink": "/what-makes-brazils-strangest-collections/"
+      },
+      {
+        "basename": "Brazil_37497a_afro_brazilian_sacre_85343a",
+        "title": "Our Sacred",
+        "permalink": "/our-sacred/"
+      },
+      {
+        "basename": "Brazil_37497a_psychiatric_museums_ac2e98",
+        "title": "Mind Museums",
+        "permalink": "/mind-museums/"
+      },
+      {
+        "basename": "Brazil_37497a_varginha_ufo_tourism_46f49f",
+        "title": "Varginha UFO",
+        "permalink": "/varginha-ufo/"
+      },
+      {
+        "basename": "Brunei_130e4a",
+        "title": "Where Brunei Keeps Its Strangest Treasures",
+        "permalink": "/where-brunei-keeps-its-strangest/"
+      },
+      {
+        "basename": "Brunei_130e4a_brunei_shipwreck_car_ba9c7f",
+        "title": "Shipwreck Cargo",
+        "permalink": "/shipwreck-cargo/"
+      },
+      {
+        "basename": "Brunei_130e4a_royal_regalia_specta_a5d69a",
+        "title": "Royal Regalia",
+        "permalink": "/royal-regalia/"
+      },
+      {
+        "basename": "Brunei_130e4a_sacred_relics_proven_f9ca20",
+        "title": "Sacred Relics",
+        "permalink": "/sacred-relics/"
+      },
+      {
+        "basename": "Bulgaria_5c7772",
+        "title": "Where Bulgaria Keeps Its Strangest Stories",
+        "permalink": "/where-bulgaria-keeps-its-strangest/"
+      },
+      {
+        "basename": "Bulgaria_5c7772_baba_vanga_museums_a271db",
+        "title": "Baba Vanga",
+        "permalink": "/baba-vanga/"
+      },
+      {
+        "basename": "Bulgaria_5c7772_socialist_bulgaria_m_f31c4a",
+        "title": "Socialist Past",
+        "permalink": "/socialist-past/"
+      },
+      {
+        "basename": "Bulgaria_5c7772_vampire_burials_arch_8b3784",
+        "title": "Vampire Graves",
+        "permalink": "/vampire-graves/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f",
+        "title": "Where Burkina Faso Keeps Its Sacred Mysteries",
+        "permalink": "/where-burkina-faso-keeps-its-sacred/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f_living_masks_ceremon_15fd74",
+        "title": "Living Masks",
+        "permalink": "/living-masks-f8f190/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f_manega_sacred_memory_f490b2",
+        "title": "Manega",
+        "permalink": "/manega/"
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f_public_museums_herit_b7708a",
+        "title": "Public Museums",
+        "permalink": "/public-museums/"
+      },
+      {
+        "basename": "Burundi_461758",
+        "title": "Where Burundi Keeps Its Strangest Cultural Treasures",
+        "permalink": "/where-burundi-keeps-its-strangest/"
+      },
+      {
+        "basename": "Burundi_461758_gishora_royal_drums_b99d47",
+        "title": "Royal Drums",
+        "permalink": "/royal-drums/"
+      },
+      {
+        "basename": "Burundi_461758_gitega_museum_object_906cfb",
+        "title": "Gitega Museum",
+        "permalink": "/gitega-museum/"
+      },
+      {
+        "basename": "Burundi_461758_sacred_groves_archiv_d1e52f",
+        "title": "Sacred Groves",
+        "permalink": "/sacred-groves/"
+      },
+      {
+        "basename": "Cambodia_314ccd",
+        "title": "What Makes Cambodia's Collections So Unusual?",
+        "permalink": "/what-makes-cambodias-collections-so/"
+      },
+      {
+        "basename": "Cambodia_314ccd_buried_buddhas_repat_f2525c",
+        "title": "Sacred Objects",
+        "permalink": "/sacred-objects-a5ab8e/"
+      },
+      {
+        "basename": "Cambodia_314ccd_genocide_memorial_di_3d55a8",
+        "title": "Memorial Sites",
+        "permalink": "/memorial-sites/"
+      },
+      {
+        "basename": "Cambodia_314ccd_landmines_and_detect_5b133b",
+        "title": "Landmines",
+        "permalink": "/landmines/"
+      },
+      {
+        "basename": "Cameroon_73a7dd",
+        "title": "Where Cameroon's Strangest Collections Still Hold Power",
+        "permalink": "/where-cameroons-strangest-collections/"
+      },
+      {
+        "basename": "Cameroon_73a7dd_bafut_war_trophies_1ace2a",
+        "title": "Bafut Heritage",
+        "permalink": "/bafut-heritage/"
+      },
+      {
+        "basename": "Cameroon_73a7dd_foumban_royal_museum_92f09c",
+        "title": "Foumban Museum",
+        "permalink": "/foumban-museum/"
+      },
+      {
+        "basename": "Cameroon_73a7dd_secret_palace_object_417b64",
+        "title": "Secret Objects",
+        "permalink": "/secret-objects/"
+      },
+      {
+        "basename": "Canada_cd6a7b",
+        "title": "What Makes Canada's Strangest Museums Worth Visiting?",
+        "permalink": "/what-makes-canadas-strangest-museums/"
+      },
+      {
+        "basename": "Canada_cd6a7b_curiosity_cabinets_c_3a4ab7",
+        "title": "Curiosity Cabinets",
+        "permalink": "/curiosity-cabinets/"
+      },
+      {
+        "basename": "Canada_cd6a7b_dark_institutions_ca_cb361d",
+        "title": "Dark Institutions",
+        "permalink": "/dark-institutions/"
+      },
+      {
+        "basename": "Canada_cd6a7b_shag_harbour_ufo_67f2ee",
+        "title": "Shag Harbour",
+        "permalink": "/shag-harbour/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Afghanistan_c69153",
+        "title": "What Makes Afghanistan's Collections So Unusual?",
+        "permalink": "/what-makes-afghanistans-collections-so/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Albania_79b9d2",
+        "title": "Where Albania Preserves Its Strangest History",
+        "permalink": "/where-albania-preserves-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Algeria_bd6acc",
+        "title": "Where Algeria Keeps Its Strangest Histories",
+        "permalink": "/where-algeria-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Andorra_9d3bd1",
+        "title": "Where Andorra Keeps Its Strangest Surviving Objects",
+        "permalink": "/where-andorra-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Angola_a42522",
+        "title": "Where Angola Keeps Its Strangest Stories",
+        "permalink": "/where-angola-keeps-its-strangest-stories/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Antigua_and_Barbuda_0f8518",
+        "title": "Where Antigua's Strangest Histories Are Preserved",
+        "permalink": "/antigua-and-barbuda/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Argentina_354bf9",
+        "title": "What Makes Argentina's Strangest Museums Matter?",
+        "permalink": "/what-makes-argentinas-strangest-museums/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Armenia_5f4599",
+        "title": "Where Armenia Keeps Its Strangest Treasures",
+        "permalink": "/where-armenia-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Australia_ceafb5",
+        "title": "Where Australia Keeps Its Strangest Things",
+        "permalink": "/where-australia-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Austria_593905",
+        "title": "Why Does Austria Preserve Such Strange Things?",
+        "permalink": "/why-does-austria-preserve-such-strange/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Azerbaijan_213598",
+        "title": "Where Azerbaijan Keeps Its Strangest Stories",
+        "permalink": "/where-azerbaijan-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bahrain_3ae11c",
+        "title": "Where Bahrain Keeps Its Strangest Surviving Objects",
+        "permalink": "/where-bahrain-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bangladesh_fa6c37",
+        "title": "Where Bangladesh Keeps Its Strangest Things",
+        "permalink": "/where-bangladesh-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Barbados_93409a",
+        "title": "Where Barbados Keeps Its Strangest Stories",
+        "permalink": "/where-barbados-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Belarus_027a12",
+        "title": "Where Belarus Keeps Its Strangest Stories",
+        "permalink": "/where-belarus-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Belgium_5cb4c9",
+        "title": "Why Belgium Keeps Its Strangest Objects",
+        "permalink": "/why-belgium-keeps-its-strangest-objects/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Belize_42ab0c",
+        "title": "Where Belize Keeps Its Strangest Stories",
+        "permalink": "/where-belize-keeps-its-strangest-stories/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Benin_373616",
+        "title": "Where Benin's Strangest Collections Are Still Alive",
+        "permalink": "/where-benins-strangest-collections-are/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bhutan_bb2254",
+        "title": "Where Bhutan Keeps Its Strangest Objects",
+        "permalink": "/where-bhutan-keeps-its-strangest-objects/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bolivia_a001af",
+        "title": "Where Bolivia Keeps Its Strangest Objects",
+        "permalink": "/where-bolivia-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bosnia_and_Herzegovi_552c9f",
+        "title": "Where Bosnia Keeps Its Strangest Histories",
+        "permalink": "/bosnia-and-herzegovina/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Botswana_180c89",
+        "title": "Where Botswana Keeps Its Strangest Heritage",
+        "permalink": "/where-botswana-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Brazil_37497a",
+        "title": "What Makes Brazil's Strangest Collections Matter?",
+        "permalink": "/what-makes-brazils-strangest-collections/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Brunei_130e4a",
+        "title": "Where Brunei Keeps Its Strangest Treasures",
+        "permalink": "/where-brunei-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Bulgaria_5c7772",
+        "title": "Where Bulgaria Keeps Its Strangest Stories",
+        "permalink": "/where-bulgaria-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Burkina_Faso_f61e5f",
+        "title": "Where Burkina Faso Keeps Its Sacred Mysteries",
+        "permalink": "/where-burkina-faso-keeps-its-sacred/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Burundi_461758",
+        "title": "Where Burundi Keeps Its Strangest Cultural Treasures",
+        "permalink": "/where-burundi-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cambodia_314ccd",
+        "title": "What Makes Cambodia's Collections So Unusual?",
+        "permalink": "/what-makes-cambodias-collections-so/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cameroon_73a7dd",
+        "title": "Where Cameroon's Strangest Collections Still Hold Power",
+        "permalink": "/where-cameroons-strangest-collections/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Canada_cd6a7b",
+        "title": "What Makes Canada's Strangest Museums Worth Visiting?",
+        "permalink": "/what-makes-canadas-strangest-museums/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cape_Verde_556906",
+        "title": "Where Cape Verde Keeps Its Strangest Stories",
+        "permalink": "/where-cape-verde-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Central_African_Repu_358788",
+        "title": "Where Central Africa Keeps Its Strangest Treasures",
+        "permalink": "/central-african-republic/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Chile_349507",
+        "title": "What Makes Chile's Strangest Collections Matter?",
+        "permalink": "/what-makes-chiles-strangest-collections/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "China_d2eaf2",
+        "title": "What Makes China's Strangest Museums So Unusual?",
+        "permalink": "/what-makes-chinas-strangest-museums-so/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Colombia_2f7373",
+        "title": "Inside Colombia's Strangest Museums and Collections",
+        "permalink": "/inside-colombias-strangest-museums-and/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Comoros_e5bb59",
+        "title": "Where Comoros Keeps Its Strangest Stories",
+        "permalink": "/where-comoros-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Congo_77f256",
+        "title": "Where Congo's Strangest Collections Keep Their Secrets",
+        "permalink": "/where-congos-strangest-collections-keep/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Costa_Rica_fe586b",
+        "title": "Where Costa Rica Keeps Its Strangest Stories",
+        "permalink": "/where-costa-rica-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Croatia_d7e045",
+        "title": "Where Croatia Keeps Its Strangest Stories",
+        "permalink": "/where-croatia-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cyprus_852add",
+        "title": "Where Cyprus Keeps Its Strangest Treasures",
+        "permalink": "/where-cyprus-keeps-its-strangest/",
+        "inline_inbound_count": 4
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Albania_79b9d2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Algeria_bd6acc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Andorra_9d3bd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Angola_a42522",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Antigua_and_Barbuda_0f8518",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Argentina_354bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Armenia_5f4599",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Australia_ceafb5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Austria_593905",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Azerbaijan_213598",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bahrain_3ae11c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bangladesh_fa6c37",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Barbados_93409a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belarus_027a12",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belgium_5cb4c9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Belize_42ab0c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Benin_373616",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bhutan_bb2254",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bolivia_a001af",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bosnia_and_Herzegovi_552c9f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Botswana_180c89",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Brazil_37497a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Brunei_130e4a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Bulgaria_5c7772",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Burkina_Faso_f61e5f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Burundi_461758",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cambodia_314ccd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cameroon_73a7dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Canada_cd6a7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cape_Verde_556906",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Central_African_Repu_358788",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Chad_6c6b1b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Chile_349507",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "China_d2eaf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Colombia_2f7373",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Comoros_e5bb59",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Congo_77f256",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Costa_Rica_fe586b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Croatia_d7e045",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cuba_c484b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Cyprus_852add",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Czech_Republic_0c207e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "DR_Congo_b690cb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Denmark_89da12",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Djibouti_60a8b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Dominica_bc1cd4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Dominican_Republic_dba665",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ecuador_09f199",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Egypt_1c39ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "El_Salvador_9b83b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Equatorial_Guinea_ae2c01",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Eritrea_18740a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Estonia_f0a96d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Eswatini_16cc7f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ethiopia_3d91f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Fiji_bbb7ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Finland_c909b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "France_e3772a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Gabon_a06dcd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Gambia_7c3997",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Georgia_9113c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Germany_17d53e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ghana_317dba",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Greece_4902a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Grenada_dbf2a2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guatemala_11760e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guinea-Bissau_b07cb9",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guinea_b47b54",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Guyana_bc88a2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Haiti_a4842f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Honduras_5aa588",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Hungary_f14e46",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iceland_b3c92e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "India_967ce3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Indonesia_35536a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iran_889224",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Iraq_1aed9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ireland_eb2131",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Israel_4c197d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Italy_ad79ef",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ivory_Coast_0c79b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Jamaica_5eedd6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Japan_fcf29f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Jordan_674027",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kazakhstan_2f36b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kenya_a84f56",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kiribati_3f57ad",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kuwait_93295b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Kyrgyzstan_c78791",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Laos_7998be",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Latvia_c5f5bb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lebanon_5caa7f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lesotho_93b12b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Liberia_1ed5dd",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Libya_55949d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Liechtenstein_b0ddce",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Lithuania_74a788",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Luxembourg_507672",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Madagascar_f92bcb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malawi_0ce65b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malaysia_ff3ea3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Maldives_213cb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mali_daa6a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Malta_1a591a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Marshall_Islands_ccbdc0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mauritania_85fa35",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mauritius_26160d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mexico_41937b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Micronesia_Federated_30e9e8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Moldova_9791bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Monaco_35ab1c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mongolia_f54da3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Montenegro_479fb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Morocco_32e087",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Mozambique_a40a9b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Myanmar_928b7c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Namibia_bfe79d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nauru_f648c7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nepal_0e1d58",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Netherlands_fb61c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "New_Zealand_3d3336",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nicaragua_481264",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Niger_6687e1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Nigeria_9742d0",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "North_Korea_ccbbbb",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "North_Macedonia_cece1d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Norway_988455",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Oman_c14c36",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Pakistan_82d220",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Palau_e5e0b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Panama_1e36b3",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Papua_New_Guinea_90e80c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Paraguay_71a452",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Peru_36c572",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Philippines_806736",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Poland_5ff03b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Portugal_a49519",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Qatar_83ef3e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Romania_d6b897",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Russia_6754fe",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Rwanda_7266a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Kitts_and_Nevi_a66de5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Lucia_85ac35",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saint_Vincent_and_th_3bce2a",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Samoa_f56806",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "San_Marino_8ff2c5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sao_Tome_and_Princip_3437b2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Saudi_Arabia_8bf7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Senegal_d8973b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Serbia_6d31bf",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Seychelles_3d2d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sierra_Leone_817b0d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Singapore_20c0b7",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Slovakia_b6c149",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Slovenia_d1aa05",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Solomon_Islands_6f943d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Somalia_4dfdf1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Africa_3b27c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Korea_7536d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "South_Sudan_80ac9c",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Spain_20a8df",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sri_Lanka_db33ad",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sudan_1193ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Suriname_b17fc6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Sweden_72ddd2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Switzerland_77dcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Syria_3ed104",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tajikistan_279c77",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tanzania_7e380b",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Thailand_a2b7c1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "The_Bahamas_f765dc",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Timor-Leste_2d79f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Togo_30949d",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tonga_e8a123",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Trinidad_and_Tobago_a73120",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tunisia_edf404",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Turkey_d7153e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Turkmenistan_1f8dc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Tuvalu_9a2248",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uganda_e92904",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Ukraine_c951ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_Arab_Emirates_c92b89",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_Kingdom_d25561",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "United_States_f5f19f",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uruguay_66b989",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Uzbekistan_db800e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Vanuatu_d16ad2",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Venezuela_9d4ac4",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Vietnam_681101",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Yemen_ac33d6",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Zambia_dcf25e",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Zimbabwe_5922f5",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_index",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_kabul_museum_surviva_0ee781",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_mes_aynak_rescue_arc_4e1034",
+        "type": "child"
+      },
+      {
+        "from": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "to": "Afghanistan_c69153",
+        "type": "parent"
+      },
+      {
+        "from": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "to": "Afghanistan_c69153_kabul_museum_surviva_0ee781",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "to": "Afghanistan_c69153_mes_aynak_rescue_arc_4e1034",
+        "type": "sibling"
+      },
+      {
+        "from": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "to": "Afghanistan_c69153",
+        "type": "ancestor"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_mes_aynak_rescue_arc_4e1034",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153",
+        "to": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_kabul_museum_surviva_0ee781",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_kabul_museum_surviva_0ee781",
+        "to": "Afghanistan_c69153_bactrian_gold_myster_1f4ecb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Afghanistan_c69153_mes_aynak_rescue_arc_4e1034",
+        "to": "Afghanistan_c69153",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2",
+        "to": "Albania_79b9d2_spac_prison_memory_16eeef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2",
+        "to": "Albania_79b9d2_theth_lock_in_tower_346ae8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_spac_prison_memory_16eeef",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_theth_lock_in_tower_346ae8",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_tirana_dictatorship_32a475",
+        "to": "Albania_79b9d2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Albania_79b9d2_tirana_dictatorship_32a475",
+        "to": "Albania_79b9d2_spac_prison_memory_16eeef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Algeria_bd6acc",
+        "to": "Algeria_bd6acc_tassili_rock_art_myt_e39e4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Algeria_bd6acc",
+        "to": "Algeria_bd6acc_tin_hinan_burial_34e94b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Algeria_bd6acc_tin_hinan_burial_34e94b",
+        "to": "Algeria_bd6acc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Algeria_bd6acc_algiers_ritual_objec_60ef05",
+        "to": "Algeria_bd6acc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Algeria_bd6acc_tassili_rock_art_myt_e39e4a",
+        "to": "Algeria_bd6acc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1",
+        "to": "Andorra_9d3bd1_andorra_microminiatu_a2a7b4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_folklore_hou_77e3cd",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_microminiatu_a2a7b4",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Andorra_9d3bd1_andorra_sacred_colle_38a422",
+        "to": "Andorra_9d3bd1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522",
+        "to": "Angola_a42522_dundo_masks_restitut_7355c5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522",
+        "to": "Angola_a42522_slavery_museum_memor_d77096",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_dundo_masks_restitut_7355c5",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_luanda_masks_context_7f9fe8",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Angola_a42522_slavery_museum_memor_d77096",
+        "to": "Angola_a42522",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antigua_and_Barbuda_0f8518",
+        "to": "Antigua_and_Barbuda_0f8518_green_castle_standin_30c415",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antigua_and_Barbuda_0f8518",
+        "to": "Antigua_and_Barbuda_0f8518_nelsons_dockyard_emp_0f9546",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antigua_and_Barbuda_0f8518_green_castle_standin_30c415",
+        "to": "Antigua_and_Barbuda_0f8518",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antigua_and_Barbuda_0f8518_museum_archaeologica_98e92f",
+        "to": "Antigua_and_Barbuda_0f8518",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Antigua_and_Barbuda_0f8518_nelsons_dockyard_emp_0f9546",
+        "to": "Antigua_and_Barbuda_0f8518",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_medical_forensic_col_09ba02",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9",
+        "to": "Argentina_354bf9_argentina_prison_mus_254e8c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_argentina_prison_mus_254e8c",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_llullaillaco_display_04727e",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Argentina_354bf9_medical_forensic_col_09ba02",
+        "to": "Argentina_354bf9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599",
+        "to": "Armenia_5f4599_parajanov_transforme_606d83",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599",
+        "to": "Armenia_5f4599_sacred_relics_and_bo_51b270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_armenian_archaeologi_b86097",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_parajanov_transforme_606d83",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Armenia_5f4599_sacred_relics_and_bo_51b270",
+        "to": "Armenia_5f4599",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5",
+        "to": "Australia_ceafb5_medical_specimens_et_a6c594",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5",
+        "to": "Australia_ceafb5_mona_curiosity_cabin_744d60",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_crime_prisons_dark_t_94b534",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_medical_specimens_et_a6c594",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Australia_ceafb5_mona_curiosity_cabin_744d60",
+        "to": "Australia_ceafb5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905",
+        "to": "Austria_593905_ambras_curiosity_mus_6bfe6d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905",
+        "to": "Austria_593905_narrenturm_pathology_f4d52e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_ambras_curiosity_mus_6bfe6d",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_narrenturm_pathology_f4d52e",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Austria_593905_riegersburg_witch_tr_d36ad6",
+        "to": "Austria_593905",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598",
+        "to": "Azerbaijan_213598_gobustan_rock_art_d53d07",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598",
+        "to": "Azerbaijan_213598_absheron_fire_sites_9f0df8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598",
+        "to": "Azerbaijan_213598_miniature_books_coll_0f20a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_gobustan_rock_art_d53d07",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_absheron_fire_sites_9f0df8",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Azerbaijan_213598_miniature_books_coll_0f20a4",
+        "to": "Azerbaijan_213598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc",
+        "to": "The_Bahamas_f765dc_junkanoo_living_coll_085568",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc",
+        "to": "The_Bahamas_f765dc_shipwreck_treasure_a_88a66e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_pirates_nassau_fact_c4787f",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_junkanoo_living_coll_085568",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "The_Bahamas_f765dc_shipwreck_treasure_a_88a66e",
+        "to": "The_Bahamas_f765dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c",
+        "to": "Bahrain_3ae11c_dilmun_graves_landsc_9fe8a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_dilmun_graves_landsc_9fe8a3",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_miniature_qurans_man_080038",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bahrain_3ae11c_qalat_archaeology_la_34bdd8",
+        "to": "Bahrain_3ae11c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37",
+        "to": "Bangladesh_fa6c37_folk_belief_collecti_593b9c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_folk_belief_collecti_593b9c",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_scientific_curiosity_efb96a",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bangladesh_fa6c37_taka_museum_money_po_c7321c",
+        "to": "Bangladesh_fa6c37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a",
+        "to": "Barbados_93409a_nidhe_israel_mikvah_5148b8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a",
+        "to": "Barbados_93409a_national_armoury_can_afbcb7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_nidhe_israel_mikvah_5148b8",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_museum_prison_folklo_b39f32",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Barbados_93409a_national_armoury_can_afbcb7",
+        "to": "Barbados_93409a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12",
+        "to": "Belarus_027a12_folklore_museums_6877ef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12",
+        "to": "Belarus_027a12_berestye_medieval_to_985a13",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12_folklore_museums_6877ef",
+        "to": "Belarus_027a12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12_berestye_medieval_to_985a13",
+        "to": "Belarus_027a12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12_berestye_medieval_to_985a13",
+        "to": "Belarus_027a12_folklore_museums_6877ef",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belarus_027a12_vetka_sacred_objects_19c5f9",
+        "to": "Belarus_027a12",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_binche_living_masks_acc516",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_medical_psychiatric_e1273e",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belgium_5cb4c9_occult_fantastic_spe_6d6bc7",
+        "to": "Belgium_5cb4c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c",
+        "to": "Belize_42ab0c_mitchell_hedges_skul_587107",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_atm_cave_collection_09dcce",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_mitchell_hedges_skul_587107",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Belize_42ab0c_museum_belize_prison_12f9d3",
+        "to": "Belize_42ab0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Benin_373616_ouidah_living_vodun_267fa8",
+        "to": "Benin_373616",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Benin_373616_abomey_royal_symbols_06f27d",
+        "to": "Benin_373616",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Benin_373616_ouidah_slavery_memor_8f8a5d",
+        "to": "Benin_373616",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254",
+        "to": "Bhutan_bb2254_ogyen_choling_collec_39a831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254",
+        "to": "Bhutan_bb2254_bhutan_talking_stamp_1b8113",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254",
+        "to": "Bhutan_bb2254_chimi_lhakhang_symbo_c80b8d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254_bhutan_talking_stamp_1b8113",
+        "to": "Bhutan_bb2254",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254_chimi_lhakhang_symbo_c80b8d",
+        "to": "Bhutan_bb2254",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bhutan_bb2254_ogyen_choling_collec_39a831",
+        "to": "Bhutan_bb2254",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af",
+        "to": "Bolivia_a001af_bolivia_ritual_marke_f5fec0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af",
+        "to": "Bolivia_a001af_coca_museum_drug_myt_657ed3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af_bolivia_ritual_marke_f5fec0",
+        "to": "Bolivia_a001af",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af_coca_museum_drug_myt_657ed3",
+        "to": "Bolivia_a001af",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af_coca_museum_drug_myt_657ed3",
+        "to": "Bolivia_a001af_bolivia_ritual_marke_f5fec0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bolivia_a001af_oruro_masks_and_skul_89edbf",
+        "to": "Bolivia_a001af",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bosnia_and_Herzegovi_552c9f",
+        "to": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bosnia_and_Herzegovi_552c9f",
+        "to": "Bosnia_and_Herzegovi_552c9f_sarajevo_haggadah_tr_6c0d13",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bosnia_and_Herzegovi_552c9f_sarajevo_haggadah_tr_6c0d13",
+        "to": "Bosnia_and_Herzegovi_552c9f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bosnia_and_Herzegovi_552c9f_underground_survival_cd6e62",
+        "to": "Bosnia_and_Herzegovi_552c9f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
+        "to": "Bosnia_and_Herzegovi_552c9f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Botswana_180c89",
+        "to": "Botswana_180c89_tsodilo_sacred_lands_081a7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Botswana_180c89",
+        "to": "Botswana_180c89_motopi_pan_meteorite_61ab04",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Botswana_180c89_human_remains_ethics_e180b2",
+        "to": "Botswana_180c89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Botswana_180c89_motopi_pan_meteorite_61ab04",
+        "to": "Botswana_180c89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Botswana_180c89_tsodilo_sacred_lands_081a7d",
+        "to": "Botswana_180c89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brazil_37497a",
+        "to": "Brazil_37497a_afro_brazilian_sacre_85343a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brazil_37497a_psychiatric_museums_ac2e98",
+        "to": "Brazil_37497a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brazil_37497a_afro_brazilian_sacre_85343a",
+        "to": "Brazil_37497a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brazil_37497a_varginha_ufo_tourism_46f49f",
+        "to": "Brazil_37497a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brunei_130e4a",
+        "to": "Brunei_130e4a_royal_regalia_specta_a5d69a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brunei_130e4a_brunei_shipwreck_car_ba9c7f",
+        "to": "Brunei_130e4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brunei_130e4a_royal_regalia_specta_a5d69a",
+        "to": "Brunei_130e4a",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
