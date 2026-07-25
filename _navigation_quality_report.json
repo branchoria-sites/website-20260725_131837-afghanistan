@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-25T11:53:39.960611Z",
+  "generated_at_utc": "2026-07-25T16:41:30.309665Z",
   "summary": {
     "total_pages_with_permalink": 965,
     "visible_pages": 772,
@@ -9,13 +9,13 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 1663,
+    "inline_internal_edge_count": 1654,
     "inline_internal_target_page_count": 772,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 705,
-    "visible_pages_without_inline_outbound_links": 67,
-    "average_inline_inbound_links_per_visible_page": 2.15,
+    "visible_pages_with_inline_outbound_links": 701,
+    "visible_pages_without_inline_outbound_links": 71,
+    "average_inline_inbound_links_per_visible_page": 2.14,
     "unresolved_inline_internal_target_count": 0,
     "related_report_edge_count": 0,
     "related_report_cross_root_edge_count": 0,
@@ -186,11 +186,6 @@
         "permalink": "/uxo-museums/"
       },
       {
-        "basename": "Malaysia_ff3ea3",
-        "title": "Where Malaysia Keeps Its Strangest Stories",
-        "permalink": "/where-malaysia-keeps-its-strangest/"
-      },
-      {
         "basename": "Mali_daa6a4_kore_puppets_perform_7622e3",
         "title": "Puppets",
         "permalink": "/puppets/"
@@ -316,6 +311,21 @@
         "permalink": "/turtle-museums/"
       },
       {
+        "basename": "Senegal_d8973b",
+        "title": "Where Senegal Keeps Its Strangest Stories",
+        "permalink": "/where-senegal-keeps-its-strangest/"
+      },
+      {
+        "basename": "Senegal_d8973b_ritual_masks_after_c_11d1ec",
+        "title": "Ritual Masks",
+        "permalink": "/ritual-masks/"
+      },
+      {
+        "basename": "Solomon_Islands_6f943d_ancestral_skulls_rep_bc580f",
+        "title": "Ancestral Skulls",
+        "permalink": "/ancestral-skulls/"
+      },
+      {
         "basename": "South_Korea_7536d5",
         "title": "What Makes South Korea's Museums So Unusual?",
         "permalink": "/what-makes-south-koreas-museums-so/"
@@ -324,6 +334,11 @@
         "basename": "Suriname_b17fc6",
         "title": "Where Suriname Keeps Its Strangest Histories",
         "permalink": "/where-suriname-keeps-its-strangest/"
+      },
+      {
+        "basename": "The_Bahamas_f765dc",
+        "title": "Where The Bahamas Keeps Its Strangest Stories",
+        "permalink": "/where-the-bahamas-keeps-its-strangest/"
       },
       {
         "basename": "Togo_30949d_akodessewa_market_71c90f",
@@ -369,6 +384,11 @@
         "basename": "United_States_f5f19f_ufo_cryptid_museums_b0923c",
         "title": "UFOs and Cryptids",
         "permalink": "/ufos-and-cryptids/"
+      },
+      {
+        "basename": "Vanuatu_d16ad2",
+        "title": "Where Vanuatu Keeps Its Strangest Stories",
+        "permalink": "/where-vanuatu-keeps-its-strangest/"
       }
     ],
     "visible_without_related_report_panel": [
@@ -2507,16 +2527,6 @@
         "type": "inline_internal"
       },
       {
-        "from": "The_Bahamas_f765dc",
-        "to": "The_Bahamas_f765dc_junkanoo_living_coll_085568",
-        "type": "inline_internal"
-      },
-      {
-        "from": "The_Bahamas_f765dc",
-        "to": "The_Bahamas_f765dc_shipwreck_treasure_a_88a66e",
-        "type": "inline_internal"
-      },
-      {
         "from": "The_Bahamas_f765dc_pirates_nassau_fact_c4787f",
         "to": "The_Bahamas_f765dc",
         "type": "inline_internal"
@@ -2819,6 +2829,16 @@
       {
         "from": "Brunei_130e4a_royal_regalia_specta_a5d69a",
         "to": "Brunei_130e4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Brunei_130e4a_sacred_relics_proven_f9ca20",
+        "to": "Brunei_130e4a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Bulgaria_5c7772",
+        "to": "Bulgaria_5c7772_baba_vanga_museums_a271db",
         "type": "inline_internal"
       }
     ],

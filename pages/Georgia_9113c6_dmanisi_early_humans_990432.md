@@ -280,8 +280,8 @@ Before the discoveries at Dmanisi, many researchers believed that early humans o
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/soviet-memory/' | relative_url }}"><span class="article-branch-link-short">Soviet Memory</span><span class="article-branch-link-heading">Who Controls Stalin&#x27;s Memory in Georgia?</span></a></li>
-<li><a href="{{ '/where-georgia-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Georgia Keeps Its Strangest Stories</span></a></li>
 <li><a href="{{ '/silk-museum/' | relative_url }}"><span class="article-branch-link-short">Silk Museum</span><span class="article-branch-link-heading">Inside Tbilisi&#x27;s Cabinet of Cocoons</span></a></li>
+<li><a href="{{ '/where-georgia-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Georgia Keeps Its Strangest Stories</span></a></li>
 </ul>
 </section>
 </div>

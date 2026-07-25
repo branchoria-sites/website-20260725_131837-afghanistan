@@ -285,9 +285,9 @@ Naihehe Cave, in the Sigatoka Valley on Viti Levu, is widely promoted as Fiji's 
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/where-fiji-keeps-its-strangest-stories/' | relative_url }}"><span class="article-branch-link-short">Where Fiji Keeps Its Strangest Stories</span></a></li>
 <li><a href="{{ '/historic-levuka/' | relative_url }}"><span class="article-branch-link-short">Historic Levuka</span><span class="article-branch-link-heading">Why Does Levuka Feel Like a Living Museum?</span></a></li>
 <li><a href="{{ '/museum-objects/' | relative_url }}"><span class="article-branch-link-short">Museum Objects</span><span class="article-branch-link-heading">What Do Fiji Museum&#x27;s Strangest Objects Mean?</span></a></li>
+<li><a href="{{ '/where-fiji-keeps-its-strangest-stories/' | relative_url }}"><span class="article-branch-link-short">Where Fiji Keeps Its Strangest Stories</span></a></li>
 </ul>
 </section>
 </div>

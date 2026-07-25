@@ -282,8 +282,8 @@ The State Silk Museum in Tbilisi is one of [Georgia]({{ 'where-georgia-keeps-its
 <h3>Closest pages</h3>
 <ul>
 <li><a href="{{ '/soviet-memory/' | relative_url }}"><span class="article-branch-link-short">Soviet Memory</span><span class="article-branch-link-heading">Who Controls Stalin&#x27;s Memory in Georgia?</span></a></li>
-<li><a href="{{ '/where-georgia-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Georgia Keeps Its Strangest Stories</span></a></li>
 <li><a href="{{ '/dmanisi/' | relative_url }}"><span class="article-branch-link-short">Dmanisi</span><span class="article-branch-link-heading">Why Dmanisi Changed the Human Story</span></a></li>
+<li><a href="{{ '/where-georgia-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Georgia Keeps Its Strangest Stories</span></a></li>
 </ul>
 </section>
 </div>

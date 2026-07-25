@@ -231,12 +231,12 @@ breadcrumb_links:
   short_title: Micronesian Curiosities
 sibling_links:
 - basename: Micronesia_Federated_30e9e8_chuuk_lagoon_wrecks_2d2101
-  title: Chuuk Wrecks | Where Micronesia Keeps Its Strangest Heritage
+  title: Chuuk Wrecks | Micronesia Federated States of
   permalink: /chuuk-wrecks/
   short_title: Chuuk Wrecks
   heading_title: Is Chuuk Lagoon a Museum or War Grave?
 - basename: Micronesia_Federated_30e9e8_yap_stone_money_bank_65c9b6
-  title: Stone Money | Where Micronesia Keeps Its Strangest Heritage
+  title: Stone Money | Micronesia Federated States of
   permalink: /stone-money/
   short_title: Stone Money
   heading_title: How Does Yap's Giant Stone Money Work?
@@ -248,13 +248,13 @@ up_link:
 has_inline_related_reports_panel: true
 prev_link:
   basename: Micronesia_Federated_30e9e8_chuuk_lagoon_wrecks_2d2101
-  title: Chuuk Wrecks | Where Micronesia Keeps Its Strangest Heritage
+  title: Chuuk Wrecks | Micronesia Federated States of
   permalink: /chuuk-wrecks/
   short_title: Chuuk Wrecks
   heading_title: Is Chuuk Lagoon a Museum or War Grave?
 next_link:
   basename: Micronesia_Federated_30e9e8_yap_stone_money_bank_65c9b6
-  title: Stone Money | Where Micronesia Keeps Its Strangest Heritage
+  title: Stone Money | Micronesia Federated States of
   permalink: /stone-money/
   short_title: Stone Money
   heading_title: How Does Yap's Giant Stone Money Work?

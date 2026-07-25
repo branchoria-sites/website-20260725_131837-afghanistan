@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T12:53:45",
+  "generated_at": "2026-07-25T17:41:35",
   "passed": true,
   "baseline": {
     "article_pages": 965,
-    "amazon_specific_pages": 770,
+    "amazon_specific_pages": 772,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 0,
     "ebay_fallback_pages": 0,
@@ -5655,7 +5655,7 @@
         "ebay_fallback": false
       },
       "Venezuela_9d4ac4_dreaming_stones_art_0fbb48": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false
@@ -5673,7 +5673,7 @@
         "ebay_fallback": false
       },
       "Venezuela_9d4ac4_sacred_museum_caraca_04ff07": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": false,
         "ebay_fallback": false

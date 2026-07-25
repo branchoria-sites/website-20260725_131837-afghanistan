@@ -1225,9 +1225,9 @@ The Fiji Museum, in Suva’s Thurston Gardens, is the country’s principal muse
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/most-famous-cannibal-stories/' | relative_url }}"><span class="article-branch-link-short">Most Famous Cannibal Stories</span><span class="article-branch-link-heading">How Much of Fiji&#x27;s Cannibal Lore Is Verifiable?</span></a></li>
 <li><a href="{{ '/historic-levuka/' | relative_url }}"><span class="article-branch-link-short">Historic Levuka</span><span class="article-branch-link-heading">Why Does Levuka Feel Like a Living Museum?</span></a></li>
 <li><a href="{{ '/museum-objects/' | relative_url }}"><span class="article-branch-link-short">Museum Objects</span><span class="article-branch-link-heading">What Do Fiji Museum&#x27;s Strangest Objects Mean?</span></a></li>
+<li><a href="{{ '/most-famous-cannibal-stories/' | relative_url }}"><span class="article-branch-link-short">Most Famous Cannibal Stories</span><span class="article-branch-link-heading">How Much of Fiji&#x27;s Cannibal Lore Is Verifiable?</span></a></li>
 </ul>
 </section>
 </div>

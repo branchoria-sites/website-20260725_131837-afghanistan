@@ -1236,9 +1236,9 @@ Several broad traditions overlap:
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/curiosity-cabinets-cb5205/' | relative_url }}"><span class="article-branch-link-short">Curiosity Cabinets</span><span class="article-branch-link-heading">Can You Trust Spain&#x27;s Private Oddity Museums?</span></a></li>
 <li><a href="{{ '/witch-trials-33a04a/' | relative_url }}"><span class="article-branch-link-short">Witch Trials</span><span class="article-branch-link-heading">Were There Really Witches at Zugarramurdi?</span></a></li>
 <li><a href="{{ '/mummies-6f71af/' | relative_url }}"><span class="article-branch-link-short">Mummies</span><span class="article-branch-link-heading">When Does a Mummy Become a Museum Attraction?</span></a></li>
+<li><a href="{{ '/curiosity-cabinets-cb5205/' | relative_url }}"><span class="article-branch-link-short">Curiosity Cabinets</span><span class="article-branch-link-heading">Can You Trust Spain&#x27;s Private Oddity Museums?</span></a></li>
 </ul>
 </section>
 </div>

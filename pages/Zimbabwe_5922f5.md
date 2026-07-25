@@ -401,6 +401,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-25 06:11:39'
 sibling_links:
 - basename: Antigua_and_Barbuda_0f8518
   title: Antigua Curiosities
@@ -1197,11 +1198,10 @@ next_link:
   title: Strange Russia
   permalink: /why-are-russias-strangest-collections-so/
   short_title: Strange Russia
-date: '2026-07-25 06:11:39 '
 header:
-  og_image: /assets/images/Zimbabwe_5922f5-Illustration-1-social.jpg
-  preview_image: /assets/images/Zimbabwe_5922f5-Illustration-1.webp
-image: /assets/images/Zimbabwe_5922f5-Illustration-1-social.jpg
+  og_image: /assets/images/Zimbabwe_5922f5-overview-social.jpg
+  preview_image: /assets/images/Zimbabwe_5922f5-overview.webp
+image: /assets/images/Zimbabwe_5922f5-overview-social.jpg
 ---
 
 ## Introduction
@@ -1210,7 +1210,7 @@ For visitors interested in strange history, Zimbabwe is less a destination for m
 
 
 
-<img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" alt="Where Zimbabwe&#x27;s Strangest Histories Come... illustration 1" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Zimbabwe_5922f5-overview.webp" | relative_url }}" alt="Overview image for Where Zimbabwe&#x27;s Strangest Histories Come..." loading="eager" decoding="sync" fetchpriority="high">
 
 
 
@@ -1242,7 +1242,7 @@ Visitors to the Great Zimbabwe site museum can see archaeological material recov
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8hVNqEkvpQw" title="The Lost City of Great Zimbabwe | Archaeology | Episode 4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8hVNqEkvpQw" target="_blank" rel="noopener noreferrer">The Lost City of Great Zimbabwe | Archaeology | Episode 4</a></p><p class="youtube-embed-meta">Channel: Historical Docs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8hVNqEkvpQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8hVNqEkvpQw">Open on YouTube</a></p></div></div></div>
+<img src="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" alt="Where Zimbabwe&#x27;s Strangest Histories Come... illustration 1" data-theme-src-dark="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zimbabwe_5922f5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Museums where archaeology becomes a mystery story
 
@@ -1278,7 +1278,7 @@ For visitors interested in unusual collections, this is one of Zimbabwe’s most
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G-6uKth3JQ0" title="Great Zimbabwe, Zimbabwe | Africa’s Cultural Landmarks" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G-6uKth3JQ0" target="_blank" rel="noopener noreferrer">Great Zimbabwe, Zimbabwe | Africa’s Cultural Landmarks</a></p><p class="youtube-embed-meta">Channel: The Met</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G-6uKth3JQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G-6uKth3JQ0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUceyl4zcCg" title="What Is The Great Zimbabwe Chevron Pattern? - Archaeology Quest" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUceyl4zcCg" target="_blank" rel="noopener noreferrer">What Is The Great Zimbabwe Chevron Pattern? - Archaeology Quest</a></p><p class="youtube-embed-meta">Channel: Archaeology Quest</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUceyl4zcCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUceyl4zcCg">Open on YouTube</a></p></div></div></div>
 
 ## What makes Zimbabwe’s curiosity culture distinctive?
 
@@ -1305,6 +1305,11 @@ Zimbabwe therefore offers a different model of the strange museum. Its most comp
 The strongest places to explore this side of Zimbabwe are heritage museums and archaeological sites rather than dedicated “mystery museums”. The Great Zimbabwe site museum, regional NMMZ museums and the Natural History Museum of Zimbabwe provide the clearest public access to unusual collections connected with archaeology, nature and cultural history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nmmz.co.zw/visit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nmmz.co.zw">[NMMZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nmmz.co.zw</span><span class="citation-popover-snippet">Open source on nmmz.co.zw.</span></span></span>
 
 For curious travellers, the reward is a form of discovery that goes beyond the unusual object itself. Zimbabwe’s collections ask visitors to consider how societies remember their origins, how myths form around ancient places, and how a single carved stone, animal specimen or archaeological fragment can become part of a much larger story.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8hVNqEkvpQw" title="The Lost City of Great Zimbabwe | Archaeology | Episode 4" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8hVNqEkvpQw" target="_blank" rel="noopener noreferrer">The Lost City of Great Zimbabwe | Archaeology | Episode 4</a></p><p class="youtube-embed-meta">Channel: Historical Docs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8hVNqEkvpQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8hVNqEkvpQw">Open on YouTube</a></p></div></div></div>
+
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">

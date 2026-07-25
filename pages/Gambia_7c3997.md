@@ -1225,9 +1225,9 @@ The site belongs to the Bojang family, one of Bakau’s founding families, rathe
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/stone-circles/' | relative_url }}"><span class="article-branch-link-short">Stone Circles</span><span class="article-branch-link-heading">Who Built The Gambia&#x27;s Ancient Stone Circles?</span></a></li>
 <li><a href="{{ '/tanji-museum/' | relative_url }}"><span class="article-branch-link-short">Tanji Museum</span><span class="article-branch-link-heading">How Tanji Preserves Everyday Gambian Life</span></a></li>
 <li><a href="{{ '/kachikally/' | relative_url }}"><span class="article-branch-link-short">Kachikally</span><span class="article-branch-link-heading">Why Are Kachikally&#x27;s Crocodiles Considered Sacred?</span></a></li>
+<li><a href="{{ '/stone-circles/' | relative_url }}"><span class="article-branch-link-short">Stone Circles</span><span class="article-branch-link-heading">Who Built The Gambia&#x27;s Ancient Stone Circles?</span></a></li>
 </ul>
 </section>
 </div>
@@ -1248,7 +1248,7 @@ Claims about exact crocodile numbers vary considerably across guidebooks and pro
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q-usuuE9Bkg" title="Exploring West Africa | Kachikally Crocodile Pool and Museum | Bakau, The Gambia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q-usuuE9Bkg" target="_blank" rel="noopener noreferrer">Exploring West Africa | Kachikally Crocodile Pool and Museum | Bakau, The Gambia</a></p><p class="youtube-embed-meta">Channel: African Diaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q-usuuE9Bkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q-usuuE9Bkg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5tPm1HqRIo" title="National Museum of The Gambia | My Magazine | My Gambia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5tPm1HqRIo" target="_blank" rel="noopener noreferrer">National Museum of The Gambia | My Magazine | My Gambia</a></p><p class="youtube-embed-meta">Channel: MyGambia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5tPm1HqRIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5tPm1HqRIo">Open on YouTube</a></p></div></div></div>
 
 ## Wassu and Kerbatch: museums beside ancient graves
 
@@ -1306,7 +1306,7 @@ These are not “oddity museums” in a playful sense. Their relevance to strang
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5tPm1HqRIo" title="National Museum of The Gambia | My Magazine | My Gambia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5tPm1HqRIo" target="_blank" rel="noopener noreferrer">National Museum of The Gambia | My Magazine | My Gambia</a></p><p class="youtube-embed-meta">Channel: MyGambia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5tPm1HqRIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5tPm1HqRIo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RU45NwQoeNU" title="Exploring Kachikally Crocodile Pool | Bakau - Gambia" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RU45NwQoeNU" target="_blank" rel="noopener noreferrer">Exploring Kachikally Crocodile Pool | Bakau - Gambia</a></p><p class="youtube-embed-meta">Channel: GamTube</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RU45NwQoeNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RU45NwQoeNU">Open on YouTube</a></p></div></div></div>
 
 ## Belief, folklore and museum credibility
 
@@ -1341,7 +1341,7 @@ For visitors seeking conventional displays of witchcraft, cryptids, UFOs or medi
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xYzp3BKzcJQ" title="Kachikally Crocodile Pool | My Gambia | My Magazine" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xYzp3BKzcJQ" target="_blank" rel="noopener noreferrer">Kachikally Crocodile Pool | My Gambia | My Magazine</a></p><p class="youtube-embed-meta">Channel: MyGambia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xYzp3BKzcJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xYzp3BKzcJQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fhn9rBKBO04" title="Fort Bullen | My Gambia | My Magazine" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fhn9rBKBO04" target="_blank" rel="noopener noreferrer">Fort Bullen | My Gambia | My Magazine</a></p><p class="youtube-embed-meta">Channel: MyGambia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fhn9rBKBO04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fhn9rBKBO04">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">

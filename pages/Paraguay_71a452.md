@@ -1145,6 +1145,10 @@ sibling_links:
   title: Curious Austria
   permalink: /why-does-austria-preserve-such-strange/
   short_title: Curious Austria
+- basename: Iceland_b3c92e
+  title: Curious Iceland
+  permalink: /why-does-iceland-museumise-the/
+  short_title: Curious Iceland
 - basename: Germany_17d53e
   title: Strange Germany
   permalink: /why-germanys-strangest-museums-feel-so/

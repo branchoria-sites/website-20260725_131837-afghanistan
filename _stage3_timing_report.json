@@ -1,358 +1,358 @@
 {
   "version": 1,
-  "page_count": 224,
-  "total_page_seconds": 755.0881,
-  "average_page_seconds": 3.3709,
+  "page_count": 95,
+  "total_page_seconds": 333.9304,
+  "average_page_seconds": 3.5151,
   "phase_totals_seconds": {
-    "content_assembly": 515.8483,
-    "media_svg": 138.5511,
-    "monetization": 50.7503,
-    "quality_write": 15.7462,
-    "youtube": 10.7672,
-    "preparation": 9.5594,
-    "content_cleanup_final": 7.3765,
-    "internal_links": 6.365,
-    "content_cleanup_initial": 0.1228
+    "content_assembly": 213.5788,
+    "media_svg": 67.761,
+    "monetization": 23.9466,
+    "youtube": 8.3664,
+    "quality_write": 7.7423,
+    "preparation": 5.9229,
+    "content_cleanup_final": 3.5146,
+    "internal_links": 3.042,
+    "content_cleanup_initial": 0.0566
   },
   "slowest_pages": [
     {
       "base_name": "DR_Congo_b690cb_ishango_bone_mystery_06cb4b",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 9.0732,
+      "total_seconds": 8.9693,
       "phases": {
-        "preparation": 0.0218,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0205,
-        "content_cleanup_final": 0.0165,
-        "media_svg": 0.7242,
-        "youtube": 0.0208,
-        "content_assembly": 2.0155,
-        "monetization": 6.205,
-        "quality_write": 0.0486
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0298,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.6439,
+        "youtube": 0.0146,
+        "content_assembly": 1.6511,
+        "monetization": 6.5423,
+        "quality_write": 0.0414
       }
     },
     {
-      "base_name": "The_Bahamas_f765dc",
+      "base_name": "Belgium_5cb4c9",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 7.0535,
+      "total_seconds": 6.6722,
       "phases": {
-        "preparation": 0.08,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0524,
-        "content_cleanup_final": 0.0793,
-        "media_svg": 0.2095,
-        "youtube": 2.5104,
-        "content_assembly": 3.0538,
-        "monetization": 0.9454,
-        "quality_write": 0.1214
+        "preparation": 0.0686,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0286,
+        "content_cleanup_final": 0.0433,
+        "media_svg": 0.3891,
+        "youtube": 2.3856,
+        "content_assembly": 2.8043,
+        "monetization": 0.851,
+        "quality_write": 0.1008
       }
     },
     {
       "base_name": "Armenia_5f4599_armenian_archaeologi_b86097",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 7.0387,
+      "total_seconds": 6.1433,
       "phases": {
-        "preparation": 0.0231,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0348,
-        "content_cleanup_final": 0.0433,
-        "media_svg": 0.9101,
-        "youtube": 2.8046,
-        "content_assembly": 2.1014,
-        "monetization": 1.0633,
-        "quality_write": 0.0575
-      }
-    },
-    {
-      "base_name": "The_Bahamas_f765dc_pirates_nassau_fact_c4787f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 6.2751,
-      "phases": {
-        "preparation": 0.0223,
+        "preparation": 0.0154,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0359,
-        "content_cleanup_final": 0.0337,
-        "media_svg": 0.8325,
-        "youtube": 2.4768,
-        "content_assembly": 1.9537,
-        "monetization": 0.8734,
-        "quality_write": 0.0462
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.6701,
+        "youtube": 2.418,
+        "content_assembly": 1.8909,
+        "monetization": 1.0662,
+        "quality_write": 0.0407
       }
     },
     {
-      "base_name": "Yemen_ac33d6_sanaa_living_heritag_bf921b",
+      "base_name": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 4.9787,
+      "total_seconds": 6.0516,
       "phases": {
-        "preparation": 0.0192,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0076,
-        "content_cleanup_final": 0.0386,
-        "media_svg": 0.6657,
-        "youtube": 0.0135,
-        "content_assembly": 1.9766,
-        "monetization": 2.2027,
-        "quality_write": 0.0542
-      }
-    },
-    {
-      "base_name": "Liberia_1ed5dd",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.9278,
-      "phases": {
-        "preparation": 0.1166,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0358,
-        "content_cleanup_final": 0.0634,
-        "media_svg": 0.9299,
-        "youtube": 0.0216,
-        "content_assembly": 3.4963,
-        "monetization": 0.1452,
-        "quality_write": 0.1186
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4_dreaming_stones_art_0fbb48",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 4.9176,
-      "phases": {
-        "preparation": 0.0318,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0545,
-        "content_cleanup_final": 0.0281,
-        "media_svg": 0.7206,
-        "youtube": 0.0141,
-        "content_assembly": 2.2163,
-        "monetization": 1.7846,
-        "quality_write": 0.0673
-      }
-    },
-    {
-      "base_name": "Tunisia_edf404",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.6156,
-      "phases": {
-        "preparation": 0.1003,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0495,
-        "content_cleanup_final": 0.037,
-        "media_svg": 1.1411,
-        "youtube": 0.0088,
-        "content_assembly": 3.0164,
-        "monetization": 0.1366,
-        "quality_write": 0.1254
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0365,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.7343,
+        "youtube": 2.3755,
+        "content_assembly": 1.8959,
+        "monetization": 0.9199,
+        "quality_write": 0.0453
       }
     },
     {
       "base_name": "Spain_20a8df",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.4977,
+      "total_seconds": 4.7605,
       "phases": {
-        "preparation": 0.1022,
-        "content_cleanup_initial": 0.0014,
-        "internal_links": 0.041,
-        "content_cleanup_final": 0.061,
-        "media_svg": 1.1706,
-        "youtube": 0.0189,
-        "content_assembly": 2.7633,
-        "monetization": 0.1562,
-        "quality_write": 0.183
-      }
-    },
-    {
-      "base_name": "Haiti_a4842f",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.4603,
-      "phases": {
-        "preparation": 0.1175,
-        "content_cleanup_initial": 0.0013,
-        "internal_links": 0.0361,
-        "content_cleanup_final": 0.063,
-        "media_svg": 0.6249,
-        "youtube": 0.0133,
-        "content_assembly": 3.3254,
-        "monetization": 0.142,
-        "quality_write": 0.1369
-      }
-    },
-    {
-      "base_name": "Iceland_b3c92e",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.4537,
-      "phases": {
-        "preparation": 0.1223,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0692,
-        "content_cleanup_final": 0.0602,
-        "media_svg": 0.6774,
-        "youtube": 0.0145,
-        "content_assembly": 3.2355,
-        "monetization": 0.1225,
-        "quality_write": 0.1515
-      }
-    },
-    {
-      "base_name": "Mauritius_26160d",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.4423,
-      "phases": {
-        "preparation": 0.1795,
+        "preparation": 0.092,
         "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0422,
-        "content_cleanup_final": 0.0697,
-        "media_svg": 0.8345,
-        "youtube": 0.0102,
-        "content_assembly": 3.0873,
-        "monetization": 0.1171,
-        "quality_write": 0.1011
+        "internal_links": 0.0523,
+        "content_cleanup_final": 0.0507,
+        "media_svg": 1.4159,
+        "youtube": 0.0121,
+        "content_assembly": 2.7689,
+        "monetization": 0.2312,
+        "quality_write": 0.1366
       }
     },
     {
-      "base_name": "Somalia_4dfdf1",
+      "base_name": "United_States_f5f19f",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.3321,
+      "total_seconds": 4.2918,
       "phases": {
-        "preparation": 0.1469,
-        "content_cleanup_initial": 0.0019,
-        "internal_links": 0.0755,
-        "content_cleanup_final": 0.0782,
-        "media_svg": 0.5721,
-        "youtube": 0.0182,
-        "content_assembly": 3.126,
-        "monetization": 0.1627,
-        "quality_write": 0.1505
-      }
-    },
-    {
-      "base_name": "Turkey_d7153e",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.2825,
-      "phases": {
-        "preparation": 0.1002,
+        "preparation": 0.1431,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.048,
-        "content_cleanup_final": 0.0308,
-        "media_svg": 1.065,
-        "youtube": 0.0144,
-        "content_assembly": 2.7967,
-        "monetization": 0.1295,
-        "quality_write": 0.0972
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.2439,
-      "phases": {
-        "preparation": 0.1064,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0639,
-        "content_cleanup_final": 0.0825,
-        "media_svg": 0.8619,
-        "youtube": 0.0164,
-        "content_assembly": 2.9271,
-        "monetization": 0.0764,
-        "quality_write": 0.1082
+        "internal_links": 0.0334,
+        "content_cleanup_final": 0.0551,
+        "media_svg": 0.9045,
+        "youtube": 0.0109,
+        "content_assembly": 2.8903,
+        "monetization": 0.1645,
+        "quality_write": 0.0892
       }
     },
     {
       "base_name": "Sweden_72ddd2",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.1536,
+      "total_seconds": 4.276,
       "phases": {
-        "preparation": 0.0831,
+        "preparation": 0.0955,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0357,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 1.4385,
+        "youtube": 0.0092,
+        "content_assembly": 2.435,
+        "monetization": 0.1149,
+        "quality_write": 0.1213
+      }
+    },
+    {
+      "base_name": "Venezuela_9d4ac4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2663,
+      "phases": {
+        "preparation": 0.1099,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.034,
+        "content_cleanup_final": 0.0509,
+        "media_svg": 0.9763,
+        "youtube": 0.0184,
+        "content_assembly": 2.8673,
+        "monetization": 0.1109,
+        "quality_write": 0.0981
+      }
+    },
+    {
+      "base_name": "Turkey_d7153e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.16,
+      "phases": {
+        "preparation": 0.0911,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0312,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 1.1482,
+        "youtube": 0.0149,
+        "content_assembly": 2.5353,
+        "monetization": 0.2016,
+        "quality_write": 0.1099
+      }
+    },
+    {
+      "base_name": "Norway_988455",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1372,
+      "phases": {
+        "preparation": 0.0843,
         "content_cleanup_initial": 0.0011,
-        "internal_links": 0.0323,
-        "content_cleanup_final": 0.0244,
-        "media_svg": 1.1233,
-        "youtube": 0.0171,
-        "content_assembly": 2.6315,
-        "monetization": 0.1442,
-        "quality_write": 0.0966
+        "internal_links": 0.0314,
+        "content_cleanup_final": 0.1016,
+        "media_svg": 0.9525,
+        "youtube": 0.0168,
+        "content_assembly": 2.7108,
+        "monetization": 0.1292,
+        "quality_write": 0.1095
       }
     },
     {
-      "base_name": "Seychelles_3d2d7b",
+      "base_name": "Iraq_1aed9e",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.0819,
+      "total_seconds": 4.1159,
       "phases": {
-        "preparation": 0.082,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.041,
-        "content_cleanup_final": 0.0583,
-        "media_svg": 0.9223,
-        "youtube": 0.014,
-        "content_assembly": 2.7471,
-        "monetization": 0.1126,
-        "quality_write": 0.104
+        "preparation": 0.0828,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0329,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.814,
+        "youtube": 0.0107,
+        "content_assembly": 2.3492,
+        "monetization": 0.7224,
+        "quality_write": 0.0824
       }
     },
     {
-      "base_name": "Slovenia_d1aa05",
+      "base_name": "Uganda_e92904",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.0103,
+      "total_seconds": 4.0945,
       "phases": {
-        "preparation": 0.0916,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0401,
-        "content_cleanup_final": 0.0616,
-        "media_svg": 0.0973,
-        "youtube": 0.0147,
-        "content_assembly": 3.4006,
-        "monetization": 0.1844,
-        "quality_write": 0.1192
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4_sacred_museum_caraca_04ff07",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.9921,
-      "phases": {
-        "preparation": 0.0382,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0086,
-        "content_cleanup_final": 0.0208,
-        "media_svg": 0.8347,
-        "youtube": 0.0209,
-        "content_assembly": 2.3856,
-        "monetization": 0.6251,
-        "quality_write": 0.0576
-      }
-    },
-    {
-      "base_name": "Togo_30949d",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.9409,
-      "phases": {
-        "preparation": 0.1004,
+        "preparation": 0.1094,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0306,
-        "content_cleanup_final": 0.024,
-        "media_svg": 0.0954,
-        "youtube": 0.0126,
-        "content_assembly": 3.428,
-        "monetization": 0.1315,
-        "quality_write": 0.1181
+        "internal_links": 0.0355,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 1.0325,
+        "youtube": 0.0156,
+        "content_assembly": 2.6816,
+        "monetization": 0.1055,
+        "quality_write": 0.0918
+      }
+    },
+    {
+      "base_name": "Libya_55949d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.069,
+      "phases": {
+        "preparation": 0.0829,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0403,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 1.1016,
+        "youtube": 0.0117,
+        "content_assembly": 2.5946,
+        "monetization": 0.0949,
+        "quality_write": 0.1039
+      }
+    },
+    {
+      "base_name": "Niger_6687e1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0195,
+      "phases": {
+        "preparation": 0.077,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0319,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 1.1904,
+        "youtube": 0.0173,
+        "content_assembly": 2.455,
+        "monetization": 0.0984,
+        "quality_write": 0.1071
+      }
+    },
+    {
+      "base_name": "Portugal_a49519",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.014,
+      "phases": {
+        "preparation": 0.0747,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0323,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 1.0339,
+        "youtube": 0.0211,
+        "content_assembly": 2.5614,
+        "monetization": 0.1274,
+        "quality_write": 0.1106
+      }
+    },
+    {
+      "base_name": "Iran_889224",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0026,
+      "phases": {
+        "preparation": 0.0997,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0417,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 1.0906,
+        "youtube": 0.0168,
+        "content_assembly": 2.5222,
+        "monetization": 0.1068,
+        "quality_write": 0.087
+      }
+    },
+    {
+      "base_name": "Tunisia_edf404",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.946,
+      "phases": {
+        "preparation": 0.0915,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0315,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 1.0717,
+        "youtube": 0.0139,
+        "content_assembly": 2.4526,
+        "monetization": 0.1746,
+        "quality_write": 0.0862
+      }
+    },
+    {
+      "base_name": "Luxembourg_507672",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9395,
+      "phases": {
+        "preparation": 0.0741,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0394,
+        "content_cleanup_final": 0.0552,
+        "media_svg": 0.911,
+        "youtube": 0.0206,
+        "content_assembly": 2.6108,
+        "monetization": 0.1001,
+        "quality_write": 0.1276
+      }
+    },
+    {
+      "base_name": "Mauritius_26160d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9235,
+      "phases": {
+        "preparation": 0.075,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0466,
+        "media_svg": 1.0566,
+        "youtube": 0.012,
+        "content_assembly": 2.463,
+        "monetization": 0.0934,
+        "quality_write": 0.1452
+      }
+    },
+    {
+      "base_name": "Micronesia_Federated_30e9e8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9159,
+      "phases": {
+        "preparation": 0.0833,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0329,
+        "content_cleanup_final": 0.0651,
+        "media_svg": 0.8547,
+        "youtube": 0.0166,
+        "content_assembly": 2.6052,
+        "monetization": 0.1504,
+        "quality_write": 0.107
       }
     }
   ],
@@ -361,3808 +361,1615 @@
       "base_name": "Armenia_5f4599_armenian_archaeologi_b86097",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 7.0387,
+      "total_seconds": 6.1433,
       "phases": {
-        "preparation": 0.0231,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0348,
-        "content_cleanup_final": 0.0433,
-        "media_svg": 0.9101,
-        "youtube": 2.8046,
-        "content_assembly": 2.1014,
-        "monetization": 1.0633,
-        "quality_write": 0.0575
-      }
-    },
-    {
-      "base_name": "The_Bahamas_f765dc_junkanoo_living_coll_085568",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0062,
-      "phases": {
-        "preparation": 0.019,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0521,
-        "content_cleanup_final": 0.043,
-        "media_svg": 0.7234,
-        "youtube": 0.0105,
-        "content_assembly": 1.9581,
-        "monetization": 0.1548,
-        "quality_write": 0.045
-      }
-    },
-    {
-      "base_name": "The_Bahamas_f765dc",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 7.0535,
-      "phases": {
-        "preparation": 0.08,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0524,
-        "content_cleanup_final": 0.0793,
-        "media_svg": 0.2095,
-        "youtube": 2.5104,
-        "content_assembly": 3.0538,
-        "monetization": 0.9454,
-        "quality_write": 0.1214
-      }
-    },
-    {
-      "base_name": "The_Bahamas_f765dc_shipwreck_treasure_a_88a66e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7626,
-      "phases": {
-        "preparation": 0.0213,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0119,
-        "content_cleanup_final": 0.02,
-        "media_svg": 0.6207,
-        "youtube": 0.0087,
-        "content_assembly": 1.8853,
-        "monetization": 0.1471,
-        "quality_write": 0.0472
-      }
-    },
-    {
-      "base_name": "The_Bahamas_f765dc_pirates_nassau_fact_c4787f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 6.2751,
-      "phases": {
-        "preparation": 0.0223,
+        "preparation": 0.0154,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0359,
-        "content_cleanup_final": 0.0337,
-        "media_svg": 0.8325,
-        "youtube": 2.4768,
-        "content_assembly": 1.9537,
-        "monetization": 0.8734,
-        "quality_write": 0.0462
-      }
-    },
-    {
-      "base_name": "Belgium_5cb4c9",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3167,
-      "phases": {
-        "preparation": 0.077,
-        "content_cleanup_initial": 0.0014,
-        "internal_links": 0.0415,
-        "content_cleanup_final": 0.0377,
-        "media_svg": 0.3636,
-        "youtube": 0.0107,
-        "content_assembly": 2.6087,
-        "monetization": 0.0706,
-        "quality_write": 0.1056
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.6701,
+        "youtube": 2.418,
+        "content_assembly": 1.8909,
+        "monetization": 1.0662,
+        "quality_write": 0.0407
       }
     },
     {
       "base_name": "Belize_42ab0c_mitchell_hedges_skul_587107",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.7388,
+      "total_seconds": 2.6234,
       "phases": {
-        "preparation": 0.0164,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0272,
-        "content_cleanup_final": 0.0172,
-        "media_svg": 0.6564,
-        "youtube": 0.012,
-        "content_assembly": 1.8622,
-        "monetization": 0.0953,
-        "quality_write": 0.0517
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0331,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.6896,
+        "youtube": 0.0086,
+        "content_assembly": 1.7221,
+        "monetization": 0.0842,
+        "quality_write": 0.0388
       }
     },
     {
-      "base_name": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
-      "level": 2,
+      "base_name": "Belgium_5cb4c9",
+      "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 2.8197,
+      "total_seconds": 6.6722,
       "phases": {
-        "preparation": 0.0166,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0229,
-        "content_cleanup_final": 0.0168,
-        "media_svg": 0.6885,
-        "youtube": 0.0168,
-        "content_assembly": 1.919,
-        "monetization": 0.0891,
-        "quality_write": 0.0498
+        "preparation": 0.0686,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0286,
+        "content_cleanup_final": 0.0433,
+        "media_svg": 0.3891,
+        "youtube": 2.3856,
+        "content_assembly": 2.8043,
+        "monetization": 0.851,
+        "quality_write": 0.1008
       }
     },
     {
       "base_name": "Brazil_37497a_varginha_ufo_tourism_46f49f",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.8102,
+      "total_seconds": 2.6617,
       "phases": {
-        "preparation": 0.0162,
+        "preparation": 0.0277,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0237,
-        "content_cleanup_final": 0.0251,
-        "media_svg": 0.6579,
-        "youtube": 0.0119,
-        "content_assembly": 1.9299,
-        "monetization": 0.0928,
-        "quality_write": 0.0525
+        "internal_links": 0.0198,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.59,
+        "youtube": 0.0101,
+        "content_assembly": 1.8529,
+        "monetization": 0.0944,
+        "quality_write": 0.0437
       }
     },
     {
       "base_name": "Brunei_130e4a_brunei_shipwreck_car_ba9c7f",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.7978,
+      "total_seconds": 2.4977,
       "phases": {
-        "preparation": 0.0224,
+        "preparation": 0.0166,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0217,
-        "content_cleanup_final": 0.0319,
-        "media_svg": 0.6573,
-        "youtube": 0.0084,
-        "content_assembly": 1.8999,
-        "monetization": 0.1062,
-        "quality_write": 0.0498
+        "internal_links": 0.0224,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.599,
+        "youtube": 0.0074,
+        "content_assembly": 1.7049,
+        "monetization": 0.0855,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0516,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0365,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.7343,
+        "youtube": 2.3755,
+        "content_assembly": 1.8959,
+        "monetization": 0.9199,
+        "quality_write": 0.0453
       }
     },
     {
       "base_name": "Bulgaria_5c7772_socialist_bulgaria_m_f31c4a",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.7789,
+      "total_seconds": 2.6278,
       "phases": {
-        "preparation": 0.0225,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0195,
-        "content_cleanup_final": 0.0137,
-        "media_svg": 0.6542,
-        "youtube": 0.013,
-        "content_assembly": 1.9022,
-        "monetization": 0.1053,
-        "quality_write": 0.0482
-      }
-    },
-    {
-      "base_name": "Cameroon_73a7dd",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1612,
-      "phases": {
-        "preparation": 0.0803,
-        "content_cleanup_initial": 0.0009,
-        "internal_links": 0.0349,
-        "content_cleanup_final": 0.0389,
-        "media_svg": 0.1422,
-        "youtube": 0.0219,
-        "content_assembly": 2.6594,
-        "monetization": 0.0666,
-        "quality_write": 0.116
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.02,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.5919,
+        "youtube": 0.0085,
+        "content_assembly": 1.8195,
+        "monetization": 0.1072,
+        "quality_write": 0.0452
       }
     },
     {
       "base_name": "Canada_cd6a7b_shag_harbour_ufo_67f2ee",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.8403,
+      "total_seconds": 2.6567,
       "phases": {
-        "preparation": 0.0328,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0347,
-        "content_cleanup_final": 0.0245,
-        "media_svg": 0.6703,
-        "youtube": 0.0134,
-        "content_assembly": 1.9095,
-        "monetization": 0.0986,
-        "quality_write": 0.0559
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0229,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.6573,
+        "youtube": 0.0179,
+        "content_assembly": 1.7564,
+        "monetization": 0.1072,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "Cameroon_73a7dd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9661,
+      "phases": {
+        "preparation": 0.0909,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0355,
+        "content_cleanup_final": 0.0358,
+        "media_svg": 0.1548,
+        "youtube": 0.024,
+        "content_assembly": 2.4634,
+        "monetization": 0.0717,
+        "quality_write": 0.0892
       }
     },
     {
       "base_name": "Canada_cd6a7b_curiosity_cabinets_c_3a4ab7",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.7997,
+      "total_seconds": 2.576,
       "phases": {
-        "preparation": 0.0165,
+        "preparation": 0.0159,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0284,
-        "content_cleanup_final": 0.0117,
-        "media_svg": 0.6597,
-        "youtube": 0.0105,
-        "content_assembly": 1.9157,
-        "monetization": 0.0977,
-        "quality_write": 0.0592
+        "internal_links": 0.0255,
+        "content_cleanup_final": 0.0115,
+        "media_svg": 0.656,
+        "youtube": 0.0095,
+        "content_assembly": 1.7254,
+        "monetization": 0.0853,
+        "quality_write": 0.0467
       }
     },
     {
       "base_name": "Central_African_Repu_358788_musical_archives_ins_684f88",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.8971,
+      "total_seconds": 2.6377,
       "phases": {
-        "preparation": 0.0164,
+        "preparation": 0.0237,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0266,
-        "content_cleanup_final": 0.0308,
-        "media_svg": 0.6966,
-        "youtube": 0.0104,
-        "content_assembly": 1.9689,
-        "monetization": 0.1043,
-        "quality_write": 0.0427
-      }
-    },
-    {
-      "base_name": "Chile_349507_atacama_meteorite_ar_30b564",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7713,
-      "phases": {
-        "preparation": 0.0196,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0251,
-        "content_cleanup_final": 0.0231,
-        "media_svg": 0.6909,
-        "youtube": 0.0109,
-        "content_assembly": 1.8521,
+        "internal_links": 0.0289,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.636,
+        "youtube": 0.0099,
+        "content_assembly": 1.7507,
         "monetization": 0.1058,
-        "quality_write": 0.0435
+        "quality_write": 0.0588
       }
     },
     {
       "base_name": "Chile_349507",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.3677,
+      "total_seconds": 3.1218,
       "phases": {
-        "preparation": 0.0873,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0313,
-        "content_cleanup_final": 0.0614,
-        "media_svg": 0.3425,
-        "youtube": 0.0138,
-        "content_assembly": 2.65,
-        "monetization": 0.0589,
-        "quality_write": 0.1219
+        "preparation": 0.0745,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0306,
+        "content_cleanup_final": 0.0505,
+        "media_svg": 0.3383,
+        "youtube": 0.0186,
+        "content_assembly": 2.4626,
+        "monetization": 0.0511,
+        "quality_write": 0.0949
+      }
+    },
+    {
+      "base_name": "Chile_349507_atacama_meteorite_ar_30b564",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5982,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0326,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.6193,
+        "youtube": 0.0102,
+        "content_assembly": 1.7496,
+        "monetization": 0.0878,
+        "quality_write": 0.0545
       }
     },
     {
       "base_name": "Colombia_2f7373_san_bernardo_mummies_737188",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.8258,
+      "total_seconds": 2.6437,
       "phases": {
-        "preparation": 0.0172,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0192,
-        "content_cleanup_final": 0.0269,
-        "media_svg": 0.6651,
-        "youtube": 0.0099,
-        "content_assembly": 1.9462,
-        "monetization": 0.098,
-        "quality_write": 0.0429
-      }
-    },
-    {
-      "base_name": "Costa_Rica_fe586b_diquis_stone_spheres_01d11b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8398,
-      "phases": {
-        "preparation": 0.0203,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0293,
-        "content_cleanup_final": 0.0197,
-        "media_svg": 0.6911,
-        "youtube": 0.0086,
-        "content_assembly": 1.9313,
-        "monetization": 0.091,
-        "quality_write": 0.0482
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0203,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.6358,
+        "youtube": 0.0091,
+        "content_assembly": 1.8086,
+        "monetization": 0.0866,
+        "quality_write": 0.0397
       }
     },
     {
       "base_name": "Congo_77f256",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.2191,
+      "total_seconds": 2.955,
       "phases": {
-        "preparation": 0.0737,
+        "preparation": 0.0719,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0368,
-        "content_cleanup_final": 0.0635,
-        "media_svg": 0.092,
-        "youtube": 0.0111,
-        "content_assembly": 2.7477,
-        "monetization": 0.065,
-        "quality_write": 0.1288
+        "internal_links": 0.031,
+        "content_cleanup_final": 0.0434,
+        "media_svg": 0.0729,
+        "youtube": 0.0159,
+        "content_assembly": 2.5569,
+        "monetization": 0.0641,
+        "quality_write": 0.0983
+      }
+    },
+    {
+      "base_name": "Costa_Rica_fe586b_diquis_stone_spheres_01d11b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6377,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0342,
+        "content_cleanup_final": 0.0123,
+        "media_svg": 0.6123,
+        "youtube": 0.0092,
+        "content_assembly": 1.8174,
+        "monetization": 0.0853,
+        "quality_write": 0.0374
       }
     },
     {
       "base_name": "Croatia_d7e045",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.4369,
+      "total_seconds": 3.0027,
       "phases": {
-        "preparation": 0.0752,
-        "content_cleanup_initial": 0.0019,
-        "internal_links": 0.0272,
-        "content_cleanup_final": 0.0723,
-        "media_svg": 0.1584,
-        "youtube": 0.0174,
-        "content_assembly": 2.889,
-        "monetization": 0.0725,
-        "quality_write": 0.1231
+        "preparation": 0.0738,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0252,
+        "content_cleanup_final": 0.0644,
+        "media_svg": 0.14,
+        "youtube": 0.0153,
+        "content_assembly": 2.4982,
+        "monetization": 0.0704,
+        "quality_write": 0.1148
       }
     },
     {
       "base_name": "Denmark_89da12_museum_obscurum_hoax_e3fff9",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.512,
+      "total_seconds": 3.5539,
       "phases": {
-        "preparation": 0.0173,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0248,
-        "content_cleanup_final": 0.0176,
-        "media_svg": 0.7479,
-        "youtube": 0.0225,
-        "content_assembly": 1.9815,
-        "monetization": 0.6562,
-        "quality_write": 0.0436
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0224,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.6169,
+        "youtube": 0.0095,
+        "content_assembly": 1.6647,
+        "monetization": 1.1686,
+        "quality_write": 0.0408
       }
     },
     {
       "base_name": "Djibouti_60a8b0_awello_stone_tombs_f4a41a",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.4898,
+      "total_seconds": 3.0648,
       "phases": {
-        "preparation": 0.0221,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0291,
-        "content_cleanup_final": 0.0186,
-        "media_svg": 0.6598,
-        "youtube": 0.0144,
-        "content_assembly": 1.8781,
-        "monetization": 0.8229,
-        "quality_write": 0.0443
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0215,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.6239,
+        "youtube": 0.0095,
+        "content_assembly": 1.5575,
+        "monetization": 0.7597,
+        "quality_write": 0.0428
       }
     },
     {
       "base_name": "Dominican_Republic_dba665_castillo_mundo_king_ad4cac",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.33,
+      "total_seconds": 2.99,
       "phases": {
-        "preparation": 0.0207,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.021,
-        "content_cleanup_final": 0.0163,
-        "media_svg": 0.7146,
-        "youtube": 0.0161,
-        "content_assembly": 1.8887,
-        "monetization": 0.6107,
-        "quality_write": 0.0414
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0192,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.5706,
+        "youtube": 0.0075,
+        "content_assembly": 1.617,
+        "monetization": 0.7077,
+        "quality_write": 0.0378
       }
     },
     {
-      "base_name": "Gambia_7c3997_stone_circles_burial_68c6ba",
-      "level": 2,
+      "base_name": "Ethiopia_3d91f7",
+      "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 2.5928,
+      "total_seconds": 3.5504,
       "phases": {
-        "preparation": 0.0178,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0208,
-        "content_cleanup_final": 0.0194,
-        "media_svg": 0.6253,
-        "youtube": 0.0086,
-        "content_assembly": 1.7256,
-        "monetization": 0.1272,
-        "quality_write": 0.0479
+        "preparation": 0.0692,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0278,
+        "content_cleanup_final": 0.0621,
+        "media_svg": 0.9112,
+        "youtube": 0.0163,
+        "content_assembly": 2.2709,
+        "monetization": 0.0928,
+        "quality_write": 0.0994
       }
     },
     {
       "base_name": "DR_Congo_b690cb_ishango_bone_mystery_06cb4b",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 9.0732,
+      "total_seconds": 8.9693,
       "phases": {
-        "preparation": 0.0218,
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0298,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.6439,
+        "youtube": 0.0146,
+        "content_assembly": 1.6511,
+        "monetization": 6.5423,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Gambia_7c3997",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7797,
+      "phases": {
+        "preparation": 0.0756,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0402,
+        "content_cleanup_final": 0.0534,
+        "media_svg": 0.8389,
+        "youtube": 0.0113,
+        "content_assembly": 2.5365,
+        "monetization": 0.1093,
+        "quality_write": 0.1138
+      }
+    },
+    {
+      "base_name": "Gambia_7c3997_stone_circles_burial_68c6ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7638,
+      "phases": {
+        "preparation": 0.0152,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0205,
-        "content_cleanup_final": 0.0165,
-        "media_svg": 0.7242,
-        "youtube": 0.0208,
-        "content_assembly": 2.0155,
-        "monetization": 6.205,
-        "quality_write": 0.0486
+        "internal_links": 0.0199,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.6527,
+        "youtube": 0.0095,
+        "content_assembly": 1.8684,
+        "monetization": 0.1231,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "Fiji_bbb7ef",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8135,
+      "phases": {
+        "preparation": 0.0694,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.036,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 0.9282,
+        "youtube": 0.0384,
+        "content_assembly": 2.4855,
+        "monetization": 0.105,
+        "quality_write": 0.1081
       }
     },
     {
       "base_name": "Fiji_bbb7ef_fiji_cannibal_legend_ae8785",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.005,
+      "total_seconds": 2.9633,
       "phases": {
-        "preparation": 0.0189,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0298,
-        "content_cleanup_final": 0.0196,
-        "media_svg": 0.6436,
-        "youtube": 0.0097,
-        "content_assembly": 1.9684,
-        "monetization": 0.2457,
-        "quality_write": 0.0687
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0202,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.6262,
+        "youtube": 0.0099,
+        "content_assembly": 2.0297,
+        "monetization": 0.1846,
+        "quality_write": 0.054
       }
     },
     {
       "base_name": "Gabon_a06dcd_bwiti_objects_iboga_fcc1a6",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.433,
+      "total_seconds": 2.9917,
       "phases": {
-        "preparation": 0.0157,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0257,
-        "content_cleanup_final": 0.0234,
-        "media_svg": 0.6186,
-        "youtube": 0.009,
-        "content_assembly": 2.489,
-        "monetization": 0.1931,
-        "quality_write": 0.0581
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0356,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.6122,
+        "youtube": 0.0135,
+        "content_assembly": 2.1063,
+        "monetization": 0.1433,
+        "quality_write": 0.0364
       }
     },
     {
       "base_name": "Gabon_a06dcd_ancestor_reliquaries_964371",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.7543,
+      "total_seconds": 2.9875,
       "phases": {
         "preparation": 0.0183,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0383,
-        "content_cleanup_final": 0.0184,
-        "media_svg": 0.8942,
-        "youtube": 0.0247,
-        "content_assembly": 2.5592,
-        "monetization": 0.1456,
-        "quality_write": 0.0552
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0323,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.7182,
+        "youtube": 0.009,
+        "content_assembly": 2.0134,
+        "monetization": 0.133,
+        "quality_write": 0.0389
       }
     },
     {
       "base_name": "Guinea_b47b54_buried_stone_figures_e33a66",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.5421,
+      "total_seconds": 2.6172,
       "phases": {
-        "preparation": 0.031,
+        "preparation": 0.0155,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0218,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.6434,
+        "youtube": 0.0099,
+        "content_assembly": 1.7348,
+        "monetization": 0.1345,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "Greece_4902a4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6093,
+      "phases": {
+        "preparation": 0.0887,
         "content_cleanup_initial": 0.0009,
-        "internal_links": 0.0576,
-        "content_cleanup_final": 0.0357,
-        "media_svg": 0.8335,
-        "youtube": 0.0113,
-        "content_assembly": 2.306,
-        "monetization": 0.2047,
-        "quality_write": 0.0615
+        "internal_links": 0.038,
+        "content_cleanup_final": 0.0615,
+        "media_svg": 0.7122,
+        "youtube": 0.0102,
+        "content_assembly": 2.4687,
+        "monetization": 0.1222,
+        "quality_write": 0.1068
       }
     },
     {
       "base_name": "Iceland_b3c92e",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.4537,
+      "total_seconds": 3.4758,
       "phases": {
-        "preparation": 0.1223,
+        "preparation": 0.0714,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0692,
-        "content_cleanup_final": 0.0602,
-        "media_svg": 0.6774,
-        "youtube": 0.0145,
-        "content_assembly": 3.2355,
-        "monetization": 0.1225,
-        "quality_write": 0.1515
+        "internal_links": 0.0413,
+        "content_cleanup_final": 0.0519,
+        "media_svg": 0.5207,
+        "youtube": 0.0102,
+        "content_assembly": 2.5283,
+        "monetization": 0.1109,
+        "quality_write": 0.1404
       }
     },
     {
       "base_name": "Iceland_b3c92e_westfjords_sea_monst_35ac8b",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.4538,
+      "total_seconds": 2.6324,
       "phases": {
-        "preparation": 0.0234,
+        "preparation": 0.022,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0339,
-        "content_cleanup_final": 0.0184,
-        "media_svg": 0.7247,
-        "youtube": 0.0106,
-        "content_assembly": 2.4074,
-        "monetization": 0.1844,
-        "quality_write": 0.0508
+        "internal_links": 0.0269,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.65,
+        "youtube": 0.0172,
+        "content_assembly": 1.7267,
+        "monetization": 0.1329,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Georgia_9113c6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8618,
+      "phases": {
+        "preparation": 0.0708,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 0.0423,
+        "content_cleanup_final": 0.0641,
+        "media_svg": 0.9752,
+        "youtube": 0.008,
+        "content_assembly": 2.4743,
+        "monetization": 0.1223,
+        "quality_write": 0.1034
       }
     },
     {
       "base_name": "Georgia_9113c6_state_silk_museum_828650",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.4239,
+      "total_seconds": 2.7303,
       "phases": {
-        "preparation": 0.0255,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0318,
-        "content_cleanup_final": 0.0234,
-        "media_svg": 0.7323,
-        "youtube": 0.0178,
-        "content_assembly": 2.3657,
-        "monetization": 0.1708,
-        "quality_write": 0.0561
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.64,
+        "youtube": 0.0092,
+        "content_assembly": 1.7961,
+        "monetization": 0.1776,
+        "quality_write": 0.044
       }
     },
     {
       "base_name": "Georgia_9113c6_dmanisi_early_humans_990432",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.5842,
+      "total_seconds": 2.6208,
       "phases": {
-        "preparation": 0.0213,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0327,
-        "content_cleanup_final": 0.0216,
-        "media_svg": 0.7665,
-        "youtube": 0.0088,
-        "content_assembly": 2.4736,
-        "monetization": 0.1838,
-        "quality_write": 0.0756
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0237,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.6305,
+        "youtube": 0.0087,
+        "content_assembly": 1.7593,
+        "monetization": 0.1253,
+        "quality_write": 0.0404
       }
     },
     {
       "base_name": "Haiti_a4842f",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.4603,
+      "total_seconds": 3.4537,
       "phases": {
-        "preparation": 0.1175,
+        "preparation": 0.0922,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0415,
+        "content_cleanup_final": 0.0449,
+        "media_svg": 0.5672,
+        "youtube": 0.0101,
+        "content_assembly": 2.4787,
+        "monetization": 0.1119,
+        "quality_write": 0.1062
+      }
+    },
+    {
+      "base_name": "Iran_889224",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0026,
+      "phases": {
+        "preparation": 0.0997,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0417,
+        "content_cleanup_final": 0.0369,
+        "media_svg": 1.0906,
+        "youtube": 0.0168,
+        "content_assembly": 2.5222,
+        "monetization": 0.1068,
+        "quality_write": 0.087
+      }
+    },
+    {
+      "base_name": "Iraq_1aed9e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1159,
+      "phases": {
+        "preparation": 0.0828,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0329,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.814,
+        "youtube": 0.0107,
+        "content_assembly": 2.3492,
+        "monetization": 0.7224,
+        "quality_write": 0.0824
+      }
+    },
+    {
+      "base_name": "Israel_4c197d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4683,
+      "phases": {
+        "preparation": 0.0769,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0287,
+        "content_cleanup_final": 0.0359,
+        "media_svg": 0.6898,
+        "youtube": 0.008,
+        "content_assembly": 2.4416,
+        "monetization": 0.0982,
+        "quality_write": 0.0888
+      }
+    },
+    {
+      "base_name": "Jamaica_5eedd6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8478,
+      "phases": {
+        "preparation": 0.0632,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0274,
+        "content_cleanup_final": 0.0414,
+        "media_svg": 1.008,
+        "youtube": 0.0097,
+        "content_assembly": 2.4922,
+        "monetization": 0.121,
+        "quality_write": 0.0845
+      }
+    },
+    {
+      "base_name": "Kiribati_3f57ad",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5297,
+      "phases": {
+        "preparation": 0.0815,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0317,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.6786,
+        "youtube": 0.0088,
+        "content_assembly": 2.4814,
+        "monetization": 0.1284,
+        "quality_write": 0.0921
+      }
+    },
+    {
+      "base_name": "Latvia_c5f5bb",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7596,
+      "phases": {
+        "preparation": 0.1004,
         "content_cleanup_initial": 0.0013,
-        "internal_links": 0.0361,
-        "content_cleanup_final": 0.063,
-        "media_svg": 0.6249,
-        "youtube": 0.0133,
-        "content_assembly": 3.3254,
-        "monetization": 0.142,
-        "quality_write": 0.1369
+        "internal_links": 0.0323,
+        "content_cleanup_final": 0.0514,
+        "media_svg": 0.7897,
+        "youtube": 0.01,
+        "content_assembly": 2.5523,
+        "monetization": 0.1284,
+        "quality_write": 0.094
       }
     },
     {
       "base_name": "Liberia_1ed5dd",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.9278,
+      "total_seconds": 3.6917,
       "phases": {
-        "preparation": 0.1166,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0358,
-        "content_cleanup_final": 0.0634,
-        "media_svg": 0.9299,
-        "youtube": 0.0216,
-        "content_assembly": 3.4963,
-        "monetization": 0.1452,
-        "quality_write": 0.1186
+        "preparation": 0.0778,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0316,
+        "content_cleanup_final": 0.0479,
+        "media_svg": 0.9276,
+        "youtube": 0.0104,
+        "content_assembly": 2.407,
+        "monetization": 0.0955,
+        "quality_write": 0.0931
+      }
+    },
+    {
+      "base_name": "Libya_55949d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.069,
+      "phases": {
+        "preparation": 0.0829,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0403,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 1.1016,
+        "youtube": 0.0117,
+        "content_assembly": 2.5946,
+        "monetization": 0.0949,
+        "quality_write": 0.1039
+      }
+    },
+    {
+      "base_name": "Lesotho_93b12b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5097,
+      "phases": {
+        "preparation": 0.0816,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0522,
+        "content_cleanup_final": 0.0447,
+        "media_svg": 0.6354,
+        "youtube": 0.014,
+        "content_assembly": 2.4391,
+        "monetization": 0.1152,
+        "quality_write": 0.127
       }
     },
     {
       "base_name": "Lithuania_74a788",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.8863,
+      "total_seconds": 3.0505,
       "phases": {
-        "preparation": 0.1075,
-        "content_cleanup_initial": 0.0016,
-        "internal_links": 0.0502,
-        "content_cleanup_final": 0.0484,
-        "media_svg": 0.1607,
-        "youtube": 0.0093,
-        "content_assembly": 3.2723,
-        "monetization": 0.1303,
-        "quality_write": 0.106
+        "preparation": 0.1023,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0393,
+        "content_cleanup_final": 0.0418,
+        "media_svg": 0.1349,
+        "youtube": 0.0083,
+        "content_assembly": 2.5219,
+        "monetization": 0.1018,
+        "quality_write": 0.0991
+      }
+    },
+    {
+      "base_name": "Luxembourg_507672",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9395,
+      "phases": {
+        "preparation": 0.0741,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0394,
+        "content_cleanup_final": 0.0552,
+        "media_svg": 0.911,
+        "youtube": 0.0206,
+        "content_assembly": 2.6108,
+        "monetization": 0.1001,
+        "quality_write": 0.1276
+      }
+    },
+    {
+      "base_name": "Malawi_0ce65b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5804,
+      "phases": {
+        "preparation": 0.0872,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 0.0367,
+        "content_cleanup_final": 0.0476,
+        "media_svg": 0.6848,
+        "youtube": 0.0138,
+        "content_assembly": 2.5103,
+        "monetization": 0.104,
+        "quality_write": 0.0949
+      }
+    },
+    {
+      "base_name": "Malaysia_ff3ea3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8406,
+      "phases": {
+        "preparation": 0.0825,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 0.0386,
+        "content_cleanup_final": 0.0709,
+        "media_svg": 0.9363,
+        "youtube": 0.0104,
+        "content_assembly": 2.476,
+        "monetization": 0.1193,
+        "quality_write": 0.105
+      }
+    },
+    {
+      "base_name": "Mali_daa6a4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5745,
+      "phases": {
+        "preparation": 0.1747,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.037,
+        "content_cleanup_final": 0.0497,
+        "media_svg": 0.696,
+        "youtube": 0.0101,
+        "content_assembly": 2.4719,
+        "monetization": 0.0304,
+        "quality_write": 0.1041
       }
     },
     {
       "base_name": "Malta_1a591a_crocodiles_catacombs_c2d687",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.315,
+      "total_seconds": 2.6505,
       "phases": {
-        "preparation": 0.0271,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0294,
-        "content_cleanup_final": 0.0361,
-        "media_svg": 0.752,
-        "youtube": 0.0096,
-        "content_assembly": 2.2191,
-        "monetization": 0.1983,
-        "quality_write": 0.0429
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0245,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.6353,
+        "youtube": 0.0168,
+        "content_assembly": 1.7394,
+        "monetization": 0.1347,
+        "quality_write": 0.0578
       }
     },
     {
       "base_name": "Marshall_Islands_ccbdc0_stick_charts_wave_na_d5ae53",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.2442,
+      "total_seconds": 2.7766,
       "phases": {
-        "preparation": 0.0251,
-        "content_cleanup_initial": 0.0003,
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0004,
         "internal_links": 0.017,
-        "content_cleanup_final": 0.0151,
-        "media_svg": 0.7444,
-        "youtube": 0.0128,
-        "content_assembly": 2.2005,
-        "monetization": 0.1842,
-        "quality_write": 0.0449
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.6165,
+        "youtube": 0.0115,
+        "content_assembly": 1.9097,
+        "monetization": 0.1328,
+        "quality_write": 0.0442
       }
     },
     {
       "base_name": "Mauritius_26160d",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.4423,
+      "total_seconds": 3.9235,
       "phases": {
-        "preparation": 0.1795,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0422,
-        "content_cleanup_final": 0.0697,
-        "media_svg": 0.8345,
-        "youtube": 0.0102,
-        "content_assembly": 3.0873,
-        "monetization": 0.1171,
-        "quality_write": 0.1011
+        "preparation": 0.075,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0466,
+        "media_svg": 1.0566,
+        "youtube": 0.012,
+        "content_assembly": 2.463,
+        "monetization": 0.0934,
+        "quality_write": 0.1452
+      }
+    },
+    {
+      "base_name": "Micronesia_Federated_30e9e8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9159,
+      "phases": {
+        "preparation": 0.0833,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0329,
+        "content_cleanup_final": 0.0651,
+        "media_svg": 0.8547,
+        "youtube": 0.0166,
+        "content_assembly": 2.6052,
+        "monetization": 0.1504,
+        "quality_write": 0.107
       }
     },
     {
       "base_name": "Micronesia_Federated_30e9e8_nan_madol_mysteries_218134",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.7911,
+      "total_seconds": 3.4306,
       "phases": {
-        "preparation": 0.0208,
+        "preparation": 0.0215,
         "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0283,
-        "content_cleanup_final": 0.0256,
-        "media_svg": 0.7671,
-        "youtube": 0.0228,
-        "content_assembly": 2.1524,
-        "monetization": 0.7239,
-        "quality_write": 0.0497
+        "internal_links": 0.0317,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.6197,
+        "youtube": 0.0112,
+        "content_assembly": 1.8355,
+        "monetization": 0.836,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Montenegro_479fb3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8498,
+      "phases": {
+        "preparation": 0.0998,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 0.0433,
+        "content_cleanup_final": 0.0608,
+        "media_svg": 0.9474,
+        "youtube": 0.0124,
+        "content_assembly": 2.4939,
+        "monetization": 0.0967,
+        "quality_write": 0.0939
       }
     },
     {
       "base_name": "Nauru_f648c7",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.9124,
+      "total_seconds": 3.5818,
       "phases": {
-        "preparation": 0.1002,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0396,
-        "content_cleanup_final": 0.0606,
-        "media_svg": 0.0817,
-        "youtube": 0.0186,
-        "content_assembly": 2.8589,
-        "monetization": 0.6565,
-        "quality_write": 0.0954
+        "preparation": 0.1589,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 0.0506,
+        "content_cleanup_final": 0.055,
+        "media_svg": 0.0921,
+        "youtube": 0.0329,
+        "content_assembly": 2.3906,
+        "monetization": 0.6871,
+        "quality_write": 0.1135
+      }
+    },
+    {
+      "base_name": "Nicaragua_481264",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7144,
+      "phases": {
+        "preparation": 0.0785,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0432,
+        "content_cleanup_final": 0.0632,
+        "media_svg": 0.7473,
+        "youtube": 0.0193,
+        "content_assembly": 2.5211,
+        "monetization": 0.1353,
+        "quality_write": 0.1059
       }
     },
     {
       "base_name": "Nigeria_9742d0_sacred_objects_displ_e8d455",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.828,
+      "total_seconds": 2.598,
       "phases": {
-        "preparation": 0.0182,
+        "preparation": 0.0226,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0194,
-        "content_cleanup_final": 0.0267,
-        "media_svg": 0.6834,
-        "youtube": 0.0132,
-        "content_assembly": 1.8583,
-        "monetization": 0.1538,
-        "quality_write": 0.0549
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 0.6301,
+        "youtube": 0.0125,
+        "content_assembly": 1.7149,
+        "monetization": 0.1248,
+        "quality_write": 0.042
       }
     },
     {
       "base_name": "North_Macedonia_cece1d",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.2216,
+      "total_seconds": 2.9744,
       "phases": {
-        "preparation": 0.096,
-        "content_cleanup_initial": 0.0013,
-        "internal_links": 0.0391,
-        "content_cleanup_final": 0.0449,
-        "media_svg": 0.1337,
-        "youtube": 0.0112,
-        "content_assembly": 2.6285,
-        "monetization": 0.1694,
-        "quality_write": 0.0975
+        "preparation": 0.0726,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0367,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 0.1273,
+        "youtube": 0.0155,
+        "content_assembly": 2.4266,
+        "monetization": 0.1398,
+        "quality_write": 0.1142
       }
     },
     {
-      "base_name": "Oman_c14c36",
+      "base_name": "Niger_6687e1",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.9055,
+      "total_seconds": 4.0195,
       "phases": {
-        "preparation": 0.0784,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0447,
-        "content_cleanup_final": 0.0474,
-        "media_svg": 0.7716,
-        "youtube": 0.01,
-        "content_assembly": 2.7298,
-        "monetization": 0.1172,
-        "quality_write": 0.1058
+        "preparation": 0.077,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0319,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 1.1904,
+        "youtube": 0.0173,
+        "content_assembly": 2.455,
+        "monetization": 0.0984,
+        "quality_write": 0.1071
       }
     },
     {
       "base_name": "Pakistan_82d220_fakir_khana_private_461f6f",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.9206,
+      "total_seconds": 2.7002,
       "phases": {
-        "preparation": 0.02,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0329,
-        "content_cleanup_final": 0.0263,
-        "media_svg": 0.6562,
-        "youtube": 0.0136,
-        "content_assembly": 1.9609,
-        "monetization": 0.1574,
-        "quality_write": 0.053
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0275,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.6277,
+        "youtube": 0.0108,
+        "content_assembly": 1.8178,
+        "monetization": 0.1284,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "Norway_988455",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1372,
+      "phases": {
+        "preparation": 0.0843,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0314,
+        "content_cleanup_final": 0.1016,
+        "media_svg": 0.9525,
+        "youtube": 0.0168,
+        "content_assembly": 2.7108,
+        "monetization": 0.1292,
+        "quality_write": 0.1095
+      }
+    },
+    {
+      "base_name": "Oman_c14c36",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7941,
+      "phases": {
+        "preparation": 0.0735,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.039,
+        "content_cleanup_final": 0.0485,
+        "media_svg": 0.9628,
+        "youtube": 0.0122,
+        "content_assembly": 2.4589,
+        "monetization": 0.11,
+        "quality_write": 0.0886
       }
     },
     {
       "base_name": "Panama_1e36b3",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.3673,
+      "total_seconds": 3.0128,
       "phases": {
-        "preparation": 0.0886,
+        "preparation": 0.0647,
         "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0528,
-        "content_cleanup_final": 0.0608,
-        "media_svg": 0.136,
-        "youtube": 0.0095,
-        "content_assembly": 2.6861,
-        "monetization": 0.1812,
-        "quality_write": 0.1516
+        "internal_links": 0.0384,
+        "content_cleanup_final": 0.0563,
+        "media_svg": 0.1299,
+        "youtube": 0.016,
+        "content_assembly": 2.4478,
+        "monetization": 0.1531,
+        "quality_write": 0.106
       }
     },
     {
-      "base_name": "Peru_36c572_moche_erotic_ceramic_1d8460",
-      "level": 2,
+      "base_name": "Palau_e5e0b6",
+      "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.2705,
+      "total_seconds": 3.6644,
       "phases": {
-        "preparation": 0.0256,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0255,
-        "content_cleanup_final": 0.0271,
-        "media_svg": 0.7173,
-        "youtube": 0.0144,
-        "content_assembly": 2.1389,
-        "monetization": 0.2032,
-        "quality_write": 0.1182
+        "preparation": 0.0655,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0298,
+        "content_cleanup_final": 0.032,
+        "media_svg": 0.8264,
+        "youtube": 0.008,
+        "content_assembly": 2.4951,
+        "monetization": 0.1195,
+        "quality_write": 0.0874
+      }
+    },
+    {
+      "base_name": "Papua_New_Guinea_90e80c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9092,
+      "phases": {
+        "preparation": 0.0632,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0342,
+        "content_cleanup_final": 0.0574,
+        "media_svg": 0.8912,
+        "youtube": 0.0167,
+        "content_assembly": 2.5923,
+        "monetization": 0.1525,
+        "quality_write": 0.101
       }
     },
     {
       "base_name": "Peru_36c572",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.8027,
+      "total_seconds": 3.0318,
       "phases": {
-        "preparation": 0.0828,
-        "content_cleanup_initial": 0.0013,
-        "internal_links": 0.0377,
-        "content_cleanup_final": 0.0733,
-        "media_svg": 0.1486,
-        "youtube": 0.0153,
-        "content_assembly": 3.0445,
-        "monetization": 0.1604,
-        "quality_write": 0.2388
+        "preparation": 0.0914,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0328,
+        "content_cleanup_final": 0.0637,
+        "media_svg": 0.1315,
+        "youtube": 0.0234,
+        "content_assembly": 2.4903,
+        "monetization": 0.1067,
+        "quality_write": 0.0911
+      }
+    },
+    {
+      "base_name": "Paraguay_71a452",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6969,
+      "phases": {
+        "preparation": 0.0819,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0292,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.9322,
+        "youtube": 0.0105,
+        "content_assembly": 2.4758,
+        "monetization": 0.0304,
+        "quality_write": 0.0956
+      }
+    },
+    {
+      "base_name": "Peru_36c572_moche_erotic_ceramic_1d8460",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5919,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.6008,
+        "youtube": 0.0086,
+        "content_assembly": 1.7512,
+        "monetization": 0.1302,
+        "quality_write": 0.042
       }
     },
     {
       "base_name": "Poland_5ff03b_project_riese_fact_l_fe8276",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.3363,
+      "total_seconds": 2.6856,
       "phases": {
-        "preparation": 0.0171,
+        "preparation": 0.017,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0308,
-        "content_cleanup_final": 0.0233,
-        "media_svg": 0.7134,
-        "youtube": 0.0118,
-        "content_assembly": 2.3246,
-        "monetization": 0.1604,
-        "quality_write": 0.0547
+        "internal_links": 0.035,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.6226,
+        "youtube": 0.009,
+        "content_assembly": 1.8097,
+        "monetization": 0.126,
+        "quality_write": 0.0405
       }
     },
     {
-      "base_name": "South_Korea_7536d5_commercial_curiosity_f58b3e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9876,
-      "phases": {
-        "preparation": 0.0297,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0538,
-        "content_cleanup_final": 0.02,
-        "media_svg": 0.6879,
-        "youtube": 0.0175,
-        "content_assembly": 1.9828,
-        "monetization": 0.1476,
-        "quality_write": 0.0476
-      }
-    },
-    {
-      "base_name": "South_Korea_7536d5",
+      "base_name": "Portugal_a49519",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.3376,
+      "total_seconds": 4.014,
       "phases": {
-        "preparation": 0.1072,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0684,
-        "content_cleanup_final": 0.056,
-        "media_svg": 0.094,
-        "youtube": 0.0095,
-        "content_assembly": 2.7482,
-        "monetization": 0.1371,
-        "quality_write": 0.1159
+        "preparation": 0.0747,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0323,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 1.0339,
+        "youtube": 0.0211,
+        "content_assembly": 2.5614,
+        "monetization": 0.1274,
+        "quality_write": 0.1106
       }
     },
     {
-      "base_name": "South_Korea_7536d5_jeju_stone_mythology_c616a0",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9137,
-      "phases": {
-        "preparation": 0.0259,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0542,
-        "content_cleanup_final": 0.0215,
-        "media_svg": 0.6672,
-        "youtube": 0.0097,
-        "content_assembly": 1.918,
-        "monetization": 0.165,
-        "quality_write": 0.0517
-      }
-    },
-    {
-      "base_name": "South_Korea_7536d5_shamanic_spirit_coll_17fb56",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7945,
-      "phases": {
-        "preparation": 0.0171,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0156,
-        "content_cleanup_final": 0.0194,
-        "media_svg": 0.6515,
-        "youtube": 0.0098,
-        "content_assembly": 1.8464,
-        "monetization": 0.1767,
-        "quality_write": 0.0578
-      }
-    },
-    {
-      "base_name": "Philippines_806736",
+      "base_name": "Moldova_9791bc",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.1751,
+      "total_seconds": 3.9121,
       "phases": {
-        "preparation": 0.0793,
+        "preparation": 0.0817,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0317,
-        "content_cleanup_final": 0.0592,
-        "media_svg": 0.0965,
-        "youtube": 0.021,
-        "content_assembly": 2.6805,
-        "monetization": 0.1051,
-        "quality_write": 0.1012
+        "internal_links": 0.0313,
+        "content_cleanup_final": 0.0468,
+        "media_svg": 1.1117,
+        "youtube": 0.0076,
+        "content_assembly": 2.4196,
+        "monetization": 0.1229,
+        "quality_write": 0.0898
       }
     },
     {
       "base_name": "Saint_Kitts_and_Nevi_a66de5",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.8894,
+      "total_seconds": 3.6957,
       "phases": {
-        "preparation": 0.071,
+        "preparation": 0.0934,
         "content_cleanup_initial": 0.0005,
-        "internal_links": 0.037,
-        "content_cleanup_final": 0.0379,
-        "media_svg": 0.7845,
-        "youtube": 0.0088,
-        "content_assembly": 2.6893,
-        "monetization": 0.1329,
-        "quality_write": 0.1275
+        "internal_links": 0.0348,
+        "content_cleanup_final": 0.0349,
+        "media_svg": 0.8533,
+        "youtube": 0.009,
+        "content_assembly": 2.4573,
+        "monetization": 0.1169,
+        "quality_write": 0.0956
       }
     },
     {
-      "base_name": "Saudi_Arabia_8bf7f8",
+      "base_name": "Philippines_806736",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.4558,
+      "total_seconds": 2.8728,
       "phases": {
-        "preparation": 0.0842,
+        "preparation": 0.0895,
         "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0425,
-        "content_cleanup_final": 0.0619,
-        "media_svg": 0.155,
-        "youtube": 0.0233,
-        "content_assembly": 2.8005,
-        "monetization": 0.1728,
-        "quality_write": 0.1149
+        "internal_links": 0.0294,
+        "content_cleanup_final": 0.0491,
+        "media_svg": 0.0728,
+        "youtube": 0.014,
+        "content_assembly": 2.4346,
+        "monetization": 0.0928,
+        "quality_write": 0.09
       }
     },
     {
-      "base_name": "Saudi_Arabia_8bf7f8_makkah_sacred_relics_83fb82",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8443,
-      "phases": {
-        "preparation": 0.0239,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0304,
-        "content_cleanup_final": 0.032,
-        "media_svg": 0.6602,
-        "youtube": 0.0132,
-        "content_assembly": 1.8955,
-        "monetization": 0.1419,
-        "quality_write": 0.0465
-      }
-    },
-    {
-      "base_name": "Saudi_Arabia_8bf7f8_hejaz_railway_ruins_835d37",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5524,
-      "phases": {
-        "preparation": 0.0168,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0345,
-        "content_cleanup_final": 0.0196,
-        "media_svg": 0.6753,
-        "youtube": 0.0174,
-        "content_assembly": 1.9357,
-        "monetization": 0.8094,
-        "quality_write": 0.0435
-      }
-    },
-    {
-      "base_name": "Saudi_Arabia_8bf7f8_private_museums_prov_7995b9",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8319,
-      "phases": {
-        "preparation": 0.0167,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0077,
-        "content_cleanup_final": 0.0319,
-        "media_svg": 0.6746,
-        "youtube": 0.0121,
-        "content_assembly": 1.8785,
-        "monetization": 0.1644,
-        "quality_write": 0.0456
-      }
-    },
-    {
-      "base_name": "Senegal_d8973b",
+      "base_name": "Saint_Lucia_85ac35",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.288,
+      "total_seconds": 3.4378,
       "phases": {
-        "preparation": 0.0706,
+        "preparation": 0.0809,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0302,
-        "content_cleanup_final": 0.0557,
-        "media_svg": 0.1287,
-        "youtube": 0.0192,
-        "content_assembly": 2.7585,
-        "monetization": 0.115,
-        "quality_write": 0.1095
+        "internal_links": 0.0393,
+        "content_cleanup_final": 0.0413,
+        "media_svg": 0.6611,
+        "youtube": 0.0148,
+        "content_assembly": 2.4231,
+        "monetization": 0.0406,
+        "quality_write": 0.1362
       }
     },
     {
       "base_name": "Senegal_d8973b_contested_relics_res_195021",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.8439,
+      "total_seconds": 2.7728,
       "phases": {
-        "preparation": 0.0199,
+        "preparation": 0.015,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0258,
-        "content_cleanup_final": 0.024,
-        "media_svg": 0.6532,
-        "youtube": 0.0153,
-        "content_assembly": 1.8981,
-        "monetization": 0.149,
-        "quality_write": 0.0583
-      }
-    },
-    {
-      "base_name": "Senegal_d8973b_goree_memory_and_myt_306307",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8301,
-      "phases": {
-        "preparation": 0.0193,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0209,
-        "content_cleanup_final": 0.0191,
-        "media_svg": 0.6644,
-        "youtube": 0.0109,
-        "content_assembly": 1.909,
-        "monetization": 0.1437,
-        "quality_write": 0.0423
-      }
-    },
-    {
-      "base_name": "Senegal_d8973b_ritual_masks_after_c_11d1ec",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7792,
-      "phases": {
-        "preparation": 0.0239,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0024,
-        "content_cleanup_final": 0.022,
-        "media_svg": 0.6814,
-        "youtube": 0.0125,
-        "content_assembly": 1.849,
-        "monetization": 0.1408,
-        "quality_write": 0.0471
-      }
-    },
-    {
-      "base_name": "Serbia_6d31bf",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5441,
-      "phases": {
-        "preparation": 0.1934,
-        "content_cleanup_initial": 0.0028,
-        "internal_links": 0.0525,
-        "content_cleanup_final": 0.074,
-        "media_svg": 0.1176,
-        "youtube": 0.0179,
-        "content_assembly": 2.8284,
-        "monetization": 0.1399,
-        "quality_write": 0.1177
-      }
-    },
-    {
-      "base_name": "Serbia_6d31bf_tito_gifts_ritual_1dc16e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9814,
-      "phases": {
-        "preparation": 0.0192,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.038,
-        "content_cleanup_final": 0.0179,
-        "media_svg": 0.6392,
-        "youtube": 0.0089,
-        "content_assembly": 2.0285,
-        "monetization": 0.1781,
-        "quality_write": 0.0513
-      }
-    },
-    {
-      "base_name": "Serbia_6d31bf_skull_tower_memorial_5e4f3d",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9951,
-      "phases": {
-        "preparation": 0.0257,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0355,
-        "content_cleanup_final": 0.0254,
-        "media_svg": 0.6624,
-        "youtube": 0.0098,
-        "content_assembly": 1.9962,
-        "monetization": 0.1814,
-        "quality_write": 0.0583
-      }
-    },
-    {
-      "base_name": "Serbia_6d31bf_tesla_museum_archive_f364c2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8927,
-      "phases": {
-        "preparation": 0.0211,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0034,
-        "content_cleanup_final": 0.0217,
-        "media_svg": 0.669,
-        "youtube": 0.0086,
-        "content_assembly": 1.9523,
-        "monetization": 0.1671,
-        "quality_write": 0.0492
-      }
-    },
-    {
-      "base_name": "Seychelles_3d2d7b",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.0819,
-      "phases": {
-        "preparation": 0.082,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.041,
-        "content_cleanup_final": 0.0583,
-        "media_svg": 0.9223,
-        "youtube": 0.014,
-        "content_assembly": 2.7471,
-        "monetization": 0.1126,
-        "quality_write": 0.104
+        "internal_links": 0.0254,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.6067,
+        "youtube": 0.0118,
+        "content_assembly": 1.9284,
+        "monetization": 0.1287,
+        "quality_write": 0.0411
       }
     },
     {
       "base_name": "Seychelles_3d2d7b_stone_of_possession_edd025",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 2.9637,
+      "total_seconds": 2.6137,
       "phases": {
-        "preparation": 0.0205,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.025,
-        "content_cleanup_final": 0.029,
-        "media_svg": 0.6893,
-        "youtube": 0.0104,
-        "content_assembly": 1.9809,
-        "monetization": 0.1538,
-        "quality_write": 0.0544
-      }
-    },
-    {
-      "base_name": "Seychelles_3d2d7b_coco_de_mer_curiosit_4cdbae",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9531,
-      "phases": {
-        "preparation": 0.0167,
+        "preparation": 0.0181,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0295,
-        "content_cleanup_final": 0.0231,
-        "media_svg": 0.665,
-        "youtube": 0.0165,
-        "content_assembly": 1.9839,
-        "monetization": 0.1627,
-        "quality_write": 0.0555
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.5946,
+        "youtube": 0.0081,
+        "content_assembly": 1.736,
+        "monetization": 0.1588,
+        "quality_write": 0.0503
       }
     },
     {
-      "base_name": "Seychelles_3d2d7b_seychelles_grigri_ob_15eb71",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7924,
-      "phases": {
-        "preparation": 0.0165,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0071,
-        "content_cleanup_final": 0.0109,
-        "media_svg": 0.7055,
-        "youtube": 0.0155,
-        "content_assembly": 1.8495,
-        "monetization": 0.1441,
-        "quality_write": 0.0426
-      }
-    },
-    {
-      "base_name": "Sierra_Leone_817b0d",
+      "base_name": "Seychelles_3d2d7b",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.1708,
+      "total_seconds": 3.9144,
       "phases": {
-        "preparation": 0.0836,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0465,
-        "content_cleanup_final": 0.0378,
-        "media_svg": 0.0883,
-        "youtube": 0.0088,
-        "content_assembly": 2.644,
-        "monetization": 0.1624,
-        "quality_write": 0.0989
-      }
-    },
-    {
-      "base_name": "Sierra_Leone_817b0d_charms_object_diaspo_1a183b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9619,
-      "phases": {
-        "preparation": 0.0224,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.027,
-        "content_cleanup_final": 0.0301,
-        "media_svg": 0.6438,
-        "youtube": 0.0123,
-        "content_assembly": 2.0107,
-        "monetization": 0.1603,
-        "quality_write": 0.0549
-      }
-    },
-    {
-      "base_name": "Sierra_Leone_817b0d_national_museum_mask_91ac0f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9844,
-      "phases": {
-        "preparation": 0.0248,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0309,
-        "content_cleanup_final": 0.0214,
-        "media_svg": 0.6957,
-        "youtube": 0.0116,
-        "content_assembly": 1.9799,
-        "monetization": 0.1614,
-        "quality_write": 0.0582
+        "preparation": 0.0789,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.059,
+        "content_cleanup_final": 0.0519,
+        "media_svg": 1.0427,
+        "youtube": 0.01,
+        "content_assembly": 2.4721,
+        "monetization": 0.1009,
+        "quality_write": 0.0978
       }
     },
     {
       "base_name": "Sierra_Leone_817b0d_railway_collection_s_20c8b9",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.0092,
+      "total_seconds": 2.664,
       "phases": {
-        "preparation": 0.0203,
+        "preparation": 0.0186,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.01,
-        "content_cleanup_final": 0.0266,
-        "media_svg": 0.7328,
-        "youtube": 0.0103,
-        "content_assembly": 1.9816,
-        "monetization": 0.1836,
-        "quality_write": 0.0437
-      }
-    },
-    {
-      "base_name": "Singapore_20c0b7",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3702,
-      "phases": {
-        "preparation": 0.0748,
-        "content_cleanup_initial": 0.0022,
-        "internal_links": 0.0544,
-        "content_cleanup_final": 0.0726,
-        "media_svg": 0.1497,
-        "youtube": 0.0161,
-        "content_assembly": 2.7708,
-        "monetization": 0.1142,
-        "quality_write": 0.1153
-      }
-    },
-    {
-      "base_name": "Singapore_20c0b7_zoological_specimen_145133",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9241,
-      "phases": {
-        "preparation": 0.0169,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0388,
-        "content_cleanup_final": 0.0298,
-        "media_svg": 0.6906,
-        "youtube": 0.0123,
-        "content_assembly": 1.9293,
-        "monetization": 0.1539,
-        "quality_write": 0.052
-      }
-    },
-    {
-      "base_name": "Singapore_20c0b7_collector_museums_ma_758f43",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1307,
-      "phases": {
-        "preparation": 0.0256,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0405,
-        "content_cleanup_final": 0.0317,
-        "media_svg": 0.6826,
-        "youtube": 0.0143,
-        "content_assembly": 2.0547,
-        "monetization": 0.2204,
-        "quality_write": 0.0606
-      }
-    },
-    {
-      "base_name": "Singapore_20c0b7_haw_par_villa_afterl_7ba848",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3381,
-      "phases": {
-        "preparation": 0.0244,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0096,
-        "content_cleanup_final": 0.0296,
-        "media_svg": 0.708,
-        "youtube": 0.0126,
-        "content_assembly": 2.3611,
-        "monetization": 0.1463,
-        "quality_write": 0.0453
-      }
-    },
-    {
-      "base_name": "Slovakia_b6c149",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.6195,
-      "phases": {
-        "preparation": 0.1405,
-        "content_cleanup_initial": 0.0014,
-        "internal_links": 0.0393,
-        "content_cleanup_final": 0.0683,
-        "media_svg": 0.1103,
-        "youtube": 0.0107,
-        "content_assembly": 3.0187,
-        "monetization": 0.1074,
-        "quality_write": 0.123
-      }
-    },
-    {
-      "base_name": "Slovakia_b6c149_mines_caves_bunkers_446e16",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0161,
-      "phases": {
-        "preparation": 0.0295,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0329,
-        "content_cleanup_final": 0.0191,
-        "media_svg": 0.8484,
-        "youtube": 0.0143,
-        "content_assembly": 1.8703,
-        "monetization": 0.153,
-        "quality_write": 0.0481
-      }
-    },
-    {
-      "base_name": "Slovakia_b6c149_mummies_crypts_human_bf2bca",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8485,
-      "phases": {
-        "preparation": 0.0177,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0182,
-        "content_cleanup_final": 0.013,
-        "media_svg": 0.6789,
-        "youtube": 0.013,
-        "content_assembly": 1.9014,
-        "monetization": 0.1554,
-        "quality_write": 0.0506
-      }
-    },
-    {
-      "base_name": "Slovakia_b6c149_prisons_outlaws_crim_bc4dff",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5344,
-      "phases": {
-        "preparation": 0.0235,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.004,
-        "content_cleanup_final": 0.0243,
-        "media_svg": 0.6706,
-        "youtube": 0.0114,
-        "content_assembly": 2.4818,
-        "monetization": 0.2474,
-        "quality_write": 0.0712
-      }
-    },
-    {
-      "base_name": "Slovenia_d1aa05",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 4.0103,
-      "phases": {
-        "preparation": 0.0916,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0401,
-        "content_cleanup_final": 0.0616,
-        "media_svg": 0.0973,
-        "youtube": 0.0147,
-        "content_assembly": 3.4006,
-        "monetization": 0.1844,
-        "quality_write": 0.1192
-      }
-    },
-    {
-      "base_name": "Slovenia_d1aa05_carnival_masks_folkl_f4eb43",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.6574,
-      "phases": {
-        "preparation": 0.0171,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0252,
-        "content_cleanup_final": 0.0144,
-        "media_svg": 0.7245,
-        "youtube": 0.0266,
-        "content_assembly": 2.6226,
-        "monetization": 0.1721,
-        "quality_write": 0.0547
-      }
-    },
-    {
-      "base_name": "Slovenia_d1aa05_museum_madness_asylu_9faa1b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2857,
-      "phases": {
-        "preparation": 0.028,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0327,
-        "content_cleanup_final": 0.0319,
-        "media_svg": 0.8293,
-        "youtube": 0.0175,
-        "content_assembly": 2.1404,
-        "monetization": 0.1535,
-        "quality_write": 0.0519
-      }
-    },
-    {
-      "base_name": "Slovenia_d1aa05_postojna_baby_dragon_eab437",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2295,
-      "phases": {
-        "preparation": 0.0226,
-        "content_cleanup_initial": 0.0013,
-        "internal_links": 0.0063,
-        "content_cleanup_final": 0.0337,
-        "media_svg": 0.7587,
-        "youtube": 0.017,
-        "content_assembly": 2.1576,
-        "monetization": 0.1699,
-        "quality_write": 0.0624
-      }
-    },
-    {
-      "base_name": "Solomon_Islands_6f943d",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3009,
-      "phases": {
-        "preparation": 0.0976,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0149,
-        "content_cleanup_final": 0.0363,
-        "media_svg": 0.1466,
-        "youtube": 0.0109,
-        "content_assembly": 2.8194,
-        "monetization": 0.0544,
-        "quality_write": 0.1204
-      }
-    },
-    {
-      "base_name": "Solomon_Islands_6f943d_ancestral_skulls_rep_bc580f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7606,
-      "phases": {
-        "preparation": 0.0272,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0195,
-        "content_cleanup_final": 0.0187,
-        "media_svg": 0.7247,
-        "youtube": 0.0089,
-        "content_assembly": 2.4885,
-        "monetization": 0.4093,
-        "quality_write": 0.0633
-      }
-    },
-    {
-      "base_name": "Solomon_Islands_6f943d_shark_reliquaries_sh_f76817",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7703,
-      "phases": {
-        "preparation": 0.0168,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0141,
-        "content_cleanup_final": 0.0296,
-        "media_svg": 0.7266,
-        "youtube": 0.0094,
-        "content_assembly": 2.7629,
-        "monetization": 0.1604,
-        "quality_write": 0.0502
-      }
-    },
-    {
-      "base_name": "Solomon_Islands_6f943d_vilu_war_museum_reli_8af47f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.8603,
-      "phases": {
-        "preparation": 0.0287,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0041,
-        "content_cleanup_final": 0.0296,
-        "media_svg": 0.7633,
-        "youtube": 0.0156,
-        "content_assembly": 2.7671,
-        "monetization": 0.1972,
-        "quality_write": 0.0542
-      }
-    },
-    {
-      "base_name": "Somalia_4dfdf1_laas_geel_rock_art_bd80ab",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2302,
-      "phases": {
-        "preparation": 0.0234,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0359,
-        "content_cleanup_final": 0.0229,
-        "media_svg": 0.7138,
-        "youtube": 0.0099,
-        "content_assembly": 2.2121,
-        "monetization": 0.1608,
-        "quality_write": 0.0508
+        "internal_links": 0.0298,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.6348,
+        "youtube": 0.0157,
+        "content_assembly": 1.7619,
+        "monetization": 0.1376,
+        "quality_write": 0.041
       }
     },
     {
       "base_name": "Somalia_4dfdf1",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.3321,
+      "total_seconds": 3.7452,
       "phases": {
-        "preparation": 0.1469,
-        "content_cleanup_initial": 0.0019,
-        "internal_links": 0.0755,
-        "content_cleanup_final": 0.0782,
-        "media_svg": 0.5721,
-        "youtube": 0.0182,
-        "content_assembly": 3.126,
-        "monetization": 0.1627,
-        "quality_write": 0.1505
-      }
-    },
-    {
-      "base_name": "Somalia_4dfdf1_amulets_and_sound_ar_e6c81d",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.355,
-      "phases": {
-        "preparation": 0.0259,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0306,
-        "content_cleanup_final": 0.0193,
-        "media_svg": 0.6535,
-        "youtube": 0.0097,
-        "content_assembly": 2.3435,
-        "monetization": 0.2111,
-        "quality_write": 0.0612
-      }
-    },
-    {
-      "base_name": "Somalia_4dfdf1_museums_after_confli_339ce4",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3403,
-      "phases": {
-        "preparation": 0.0232,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0169,
-        "content_cleanup_final": 0.0331,
-        "media_svg": 0.7489,
-        "youtube": 0.0114,
-        "content_assembly": 2.2553,
-        "monetization": 0.19,
-        "quality_write": 0.0612
-      }
-    },
-    {
-      "base_name": "South_Africa_3b27c8_healing_collections_afefc1",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.297,
-      "phases": {
-        "preparation": 0.0304,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0483,
-        "content_cleanup_final": 0.0246,
-        "media_svg": 0.7536,
-        "youtube": 0.011,
-        "content_assembly": 2.2109,
-        "monetization": 0.1615,
-        "quality_write": 0.0562
-      }
-    },
-    {
-      "base_name": "South_Africa_3b27c8",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.811,
-      "phases": {
-        "preparation": 0.1153,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0459,
-        "content_cleanup_final": 0.0652,
-        "media_svg": 0.1051,
-        "youtube": 0.0228,
-        "content_assembly": 3.1657,
-        "monetization": 0.1532,
-        "quality_write": 0.1372
-      }
-    },
-    {
-      "base_name": "South_Africa_3b27c8_medical_museums_spec_c85a5f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4146,
-      "phases": {
-        "preparation": 0.0215,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0276,
-        "content_cleanup_final": 0.0154,
-        "media_svg": 0.7256,
-        "youtube": 0.0122,
-        "content_assembly": 2.3873,
-        "monetization": 0.1798,
-        "quality_write": 0.0447
-      }
-    },
-    {
-      "base_name": "South_Africa_3b27c8_owl_house_authorship_87f940",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3729,
-      "phases": {
-        "preparation": 0.0185,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0184,
-        "content_cleanup_final": 0.048,
-        "media_svg": 0.7687,
-        "youtube": 0.014,
-        "content_assembly": 2.3048,
-        "monetization": 0.1531,
-        "quality_write": 0.0468
-      }
-    },
-    {
-      "base_name": "South_Sudan_80ac9c",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7275,
-      "phases": {
-        "preparation": 0.0884,
-        "content_cleanup_initial": 0.0015,
-        "internal_links": 0.0469,
-        "content_cleanup_final": 0.0577,
-        "media_svg": 0.1074,
-        "youtube": 0.0168,
-        "content_assembly": 3.1519,
-        "monetization": 0.1508,
-        "quality_write": 0.106
-      }
-    },
-    {
-      "base_name": "South_Sudan_80ac9c_national_archives_me_8b7d6a",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0941,
-      "phases": {
-        "preparation": 0.0202,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0275,
-        "content_cleanup_final": 0.0198,
-        "media_svg": 0.7639,
-        "youtube": 0.011,
-        "content_assembly": 2.0159,
-        "monetization": 0.1829,
-        "quality_write": 0.0525
-      }
-    },
-    {
-      "base_name": "South_Sudan_80ac9c_national_museum_proj_7a86e7",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9613,
-      "phases": {
-        "preparation": 0.0274,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0191,
-        "content_cleanup_final": 0.0217,
-        "media_svg": 0.6653,
-        "youtube": 0.0137,
-        "content_assembly": 1.9909,
-        "monetization": 0.1707,
-        "quality_write": 0.0522
-      }
-    },
-    {
-      "base_name": "South_Sudan_80ac9c_ngundeng_prophets_ro_13ae2c",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0344,
-      "phases": {
-        "preparation": 0.0192,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0043,
-        "content_cleanup_final": 0.0156,
-        "media_svg": 0.68,
-        "youtube": 0.0144,
-        "content_assembly": 2.1035,
-        "monetization": 0.1542,
-        "quality_write": 0.0429
+        "preparation": 0.0894,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0412,
+        "content_cleanup_final": 0.0588,
+        "media_svg": 0.6462,
+        "youtube": 0.0103,
+        "content_assembly": 2.6866,
+        "monetization": 0.1112,
+        "quality_write": 0.1009
       }
     },
     {
       "base_name": "Spain_20a8df_private_curiosity_mu_5e9cd6",
       "level": 2,
       "outcome": "rebuilt",
-      "total_seconds": 3.0355,
+      "total_seconds": 2.8173,
       "phases": {
-        "preparation": 0.0305,
+        "preparation": 0.0253,
         "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0451,
-        "content_cleanup_final": 0.0365,
-        "media_svg": 0.6895,
-        "youtube": 0.0098,
-        "content_assembly": 1.9827,
-        "monetization": 0.1877,
-        "quality_write": 0.0531
-      }
-    },
-    {
-      "base_name": "Spain_20a8df_spain_mummies_ethics_be5f4d",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0957,
-      "phases": {
-        "preparation": 0.0292,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0309,
-        "content_cleanup_final": 0.0248,
-        "media_svg": 0.7182,
-        "youtube": 0.009,
-        "content_assembly": 2.0072,
-        "monetization": 0.2072,
-        "quality_write": 0.0689
+        "internal_links": 0.0288,
+        "content_cleanup_final": 0.0366,
+        "media_svg": 0.6934,
+        "youtube": 0.0163,
+        "content_assembly": 1.8275,
+        "monetization": 0.1389,
+        "quality_write": 0.0501
       }
     },
     {
       "base_name": "Spain_20a8df",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.4977,
+      "total_seconds": 4.7605,
       "phases": {
-        "preparation": 0.1022,
-        "content_cleanup_initial": 0.0014,
-        "internal_links": 0.041,
-        "content_cleanup_final": 0.061,
-        "media_svg": 1.1706,
-        "youtube": 0.0189,
-        "content_assembly": 2.7633,
-        "monetization": 0.1562,
-        "quality_write": 0.183
-      }
-    },
-    {
-      "base_name": "Spain_20a8df_zugarramurdi_witch_t_b500fc",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2063,
-      "phases": {
-        "preparation": 0.0167,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0172,
-        "content_cleanup_final": 0.0232,
-        "media_svg": 0.7315,
-        "youtube": 0.0113,
-        "content_assembly": 2.1806,
-        "monetization": 0.1755,
-        "quality_write": 0.0501
-      }
-    },
-    {
-      "base_name": "Sri_Lanka_db33ad_ambalangoda_demon_ma_6ff091",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3945,
-      "phases": {
-        "preparation": 0.0199,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0386,
-        "content_cleanup_final": 0.0323,
-        "media_svg": 0.8741,
-        "youtube": 0.0123,
-        "content_assembly": 2.1696,
-        "monetization": 0.1889,
-        "quality_write": 0.0584
-      }
-    },
-    {
-      "base_name": "Sri_Lanka_db33ad",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7355,
-      "phases": {
-        "preparation": 0.0952,
-        "content_cleanup_initial": 0.001,
-        "internal_links": 0.0498,
-        "content_cleanup_final": 0.094,
-        "media_svg": 0.0935,
-        "youtube": 0.0187,
-        "content_assembly": 3.0881,
-        "monetization": 0.1698,
-        "quality_write": 0.1254
-      }
-    },
-    {
-      "base_name": "Sri_Lanka_db33ad_anatomy_zoology_coll_985fac",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0102,
-      "phases": {
-        "preparation": 0.0256,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0303,
-        "content_cleanup_final": 0.0254,
-        "media_svg": 0.7546,
-        "youtube": 0.0106,
-        "content_assembly": 1.9814,
-        "monetization": 0.141,
-        "quality_write": 0.0411
-      }
-    },
-    {
-      "base_name": "Sri_Lanka_db33ad_tsunami_museums_memo_105186",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9959,
-      "phases": {
-        "preparation": 0.0175,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0122,
-        "content_cleanup_final": 0.0163,
-        "media_svg": 0.6823,
-        "youtube": 0.0169,
-        "content_assembly": 2.0424,
-        "monetization": 0.1573,
-        "quality_write": 0.0505
+        "preparation": 0.092,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0523,
+        "content_cleanup_final": 0.0507,
+        "media_svg": 1.4159,
+        "youtube": 0.0121,
+        "content_assembly": 2.7689,
+        "monetization": 0.2312,
+        "quality_write": 0.1366
       }
     },
     {
       "base_name": "Sudan_1193ba",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.9011,
+      "total_seconds": 3.8901,
       "phases": {
-        "preparation": 0.0851,
+        "preparation": 0.0636,
         "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0301,
-        "content_cleanup_final": 0.037,
-        "media_svg": 0.7966,
-        "youtube": 0.0162,
-        "content_assembly": 2.7828,
-        "monetization": 0.0451,
-        "quality_write": 0.1077
-      }
-    },
-    {
-      "base_name": "Sudan_1193ba_khalifa_house_mahdis_7bae2d",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5436,
-      "phases": {
-        "preparation": 0.0189,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0234,
-        "content_cleanup_final": 0.0312,
-        "media_svg": 0.6881,
-        "youtube": 0.0108,
-        "content_assembly": 1.9529,
-        "monetization": 0.7541,
-        "quality_write": 0.0639
-      }
-    },
-    {
-      "base_name": "Sudan_1193ba_national_museum_mumm_534c7f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8273,
-      "phases": {
-        "preparation": 0.0222,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0239,
-        "content_cleanup_final": 0.0155,
-        "media_svg": 0.6616,
-        "youtube": 0.0114,
-        "content_assembly": 1.8798,
-        "monetization": 0.1658,
-        "quality_write": 0.0466
-      }
-    },
-    {
-      "base_name": "Sudan_1193ba_regional_museums_liv_93eda9",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8846,
-      "phases": {
-        "preparation": 0.0284,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0092,
-        "content_cleanup_final": 0.0193,
-        "media_svg": 0.6787,
-        "youtube": 0.0105,
-        "content_assembly": 1.9516,
-        "monetization": 0.1445,
-        "quality_write": 0.042
-      }
-    },
-    {
-      "base_name": "Suriname_b17fc6_fort_museums_dark_he_6f3334",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9951,
-      "phases": {
-        "preparation": 0.0215,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0201,
-        "content_cleanup_final": 0.0296,
-        "media_svg": 0.6794,
-        "youtube": 0.0097,
-        "content_assembly": 2.0383,
-        "monetization": 0.1545,
-        "quality_write": 0.0415
-      }
-    },
-    {
-      "base_name": "Suriname_b17fc6",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3007,
-      "phases": {
-        "preparation": 0.0985,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0285,
-        "content_cleanup_final": 0.0471,
-        "media_svg": 0.0989,
-        "youtube": 0.0229,
-        "content_assembly": 2.7885,
-        "monetization": 0.1076,
-        "quality_write": 0.1083
-      }
-    },
-    {
-      "base_name": "Suriname_b17fc6_koto_dress_hidden_la_3164aa",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9538,
-      "phases": {
-        "preparation": 0.0221,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0212,
-        "content_cleanup_final": 0.0417,
-        "media_svg": 0.6707,
-        "youtube": 0.0088,
-        "content_assembly": 1.9438,
-        "monetization": 0.1703,
-        "quality_write": 0.0744
-      }
-    },
-    {
-      "base_name": "Suriname_b17fc6_maroon_community_mus_de2f49",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8819,
-      "phases": {
-        "preparation": 0.021,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0099,
-        "content_cleanup_final": 0.0232,
-        "media_svg": 0.6699,
-        "youtube": 0.01,
-        "content_assembly": 1.9572,
-        "monetization": 0.1417,
-        "quality_write": 0.0486
-      }
-    },
-    {
-      "base_name": "Sweden_72ddd2_afu_ufo_archive_8f8c1b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8806,
-      "phases": {
-        "preparation": 0.0262,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0175,
-        "content_cleanup_final": 0.0333,
-        "media_svg": 0.668,
-        "youtube": 0.0182,
-        "content_assembly": 1.9132,
-        "monetization": 0.1488,
-        "quality_write": 0.0548
+        "internal_links": 0.0296,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.9568,
+        "youtube": 0.0154,
+        "content_assembly": 2.6577,
+        "monetization": 0.0311,
+        "quality_write": 0.1023
       }
     },
     {
       "base_name": "Sweden_72ddd2",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.1536,
+      "total_seconds": 4.276,
       "phases": {
-        "preparation": 0.0831,
-        "content_cleanup_initial": 0.0011,
-        "internal_links": 0.0323,
-        "content_cleanup_final": 0.0244,
-        "media_svg": 1.1233,
-        "youtube": 0.0171,
-        "content_assembly": 2.6315,
-        "monetization": 0.1442,
-        "quality_write": 0.0966
-      }
-    },
-    {
-      "base_name": "Sweden_72ddd2_swedish_folklore_mag_1769af",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9537,
-      "phases": {
-        "preparation": 0.0203,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0203,
-        "content_cleanup_final": 0.0305,
-        "media_svg": 0.6866,
-        "youtube": 0.0105,
-        "content_assembly": 1.9926,
-        "monetization": 0.1378,
-        "quality_write": 0.0547
-      }
-    },
-    {
-      "base_name": "Sweden_72ddd2_viking_artefact_myst_b0fa10",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9704,
-      "phases": {
-        "preparation": 0.0174,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0116,
-        "content_cleanup_final": 0.0234,
-        "media_svg": 0.6626,
-        "youtube": 0.0105,
-        "content_assembly": 2.0334,
-        "monetization": 0.1523,
-        "quality_write": 0.0587
+        "preparation": 0.0955,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0357,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 1.4385,
+        "youtube": 0.0092,
+        "content_assembly": 2.435,
+        "monetization": 0.1149,
+        "quality_write": 0.1213
       }
     },
     {
       "base_name": "Switzerland_77dcd8",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.8995,
+      "total_seconds": 3.71,
       "phases": {
-        "preparation": 0.0952,
+        "preparation": 0.0859,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0273,
-        "content_cleanup_final": 0.0321,
-        "media_svg": 0.8378,
-        "youtube": 0.0114,
-        "content_assembly": 2.6582,
-        "monetization": 0.1336,
-        "quality_write": 0.1036
-      }
-    },
-    {
-      "base_name": "Switzerland_77dcd8_witch_museums_03c5bc",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0161,
-      "phases": {
-        "preparation": 0.0252,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0303,
-        "content_cleanup_final": 0.0373,
-        "media_svg": 0.6909,
-        "youtube": 0.0088,
-        "content_assembly": 2.0139,
-        "monetization": 0.1543,
-        "quality_write": 0.055
-      }
-    },
-    {
-      "base_name": "Switzerland_77dcd8_giger_alien_art_a2f241",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9146,
-      "phases": {
-        "preparation": 0.0233,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0263,
-        "content_cleanup_final": 0.0225,
-        "media_svg": 0.6754,
-        "youtube": 0.0102,
-        "content_assembly": 1.9613,
-        "monetization": 0.1433,
-        "quality_write": 0.0519
-      }
-    },
-    {
-      "base_name": "Switzerland_77dcd8_medical_wax_models_7d40cb",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8925,
-      "phases": {
-        "preparation": 0.0209,
-        "content_cleanup_initial": 0.0009,
-        "internal_links": 0.0125,
-        "content_cleanup_final": 0.0315,
-        "media_svg": 0.668,
-        "youtube": 0.0195,
-        "content_assembly": 1.9197,
-        "monetization": 0.1626,
-        "quality_write": 0.0569
-      }
-    },
-    {
-      "base_name": "Syria_3ed104",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1131,
-      "phases": {
-        "preparation": 0.0755,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0327,
-        "content_cleanup_final": 0.0251,
-        "media_svg": 0.0881,
-        "youtube": 0.0228,
-        "content_assembly": 2.6491,
-        "monetization": 0.1214,
-        "quality_write": 0.0981
-      }
-    },
-    {
-      "base_name": "Syria_3ed104_bimaristan_medical_h_e03986",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9378,
-      "phases": {
-        "preparation": 0.0207,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0192,
-        "content_cleanup_final": 0.0245,
-        "media_svg": 0.6898,
-        "youtube": 0.0149,
-        "content_assembly": 1.9736,
-        "monetization": 0.1478,
-        "quality_write": 0.0471
-      }
-    },
-    {
-      "base_name": "Syria_3ed104_damascus_museum_coll_7a97b8",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8673,
-      "phases": {
-        "preparation": 0.0162,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0285,
-        "content_cleanup_final": 0.0265,
-        "media_svg": 0.6641,
-        "youtube": 0.0138,
-        "content_assembly": 1.9146,
-        "monetization": 0.1533,
-        "quality_write": 0.05
-      }
-    },
-    {
-      "base_name": "Syria_3ed104_palmyra_heritage_mem_55af0e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8905,
-      "phases": {
-        "preparation": 0.0239,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0067,
-        "content_cleanup_final": 0.0241,
-        "media_svg": 0.6392,
-        "youtube": 0.0111,
-        "content_assembly": 1.9656,
-        "monetization": 0.1594,
-        "quality_write": 0.0603
-      }
-    },
-    {
-      "base_name": "Tajikistan_279c77",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0542,
-      "phases": {
-        "preparation": 0.0813,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0312,
-        "content_cleanup_final": 0.0212,
-        "media_svg": 0.0941,
-        "youtube": 0.009,
-        "content_assembly": 2.6027,
-        "monetization": 0.1171,
-        "quality_write": 0.097
-      }
-    },
-    {
-      "base_name": "Tajikistan_279c77_iskodar_mummies_313f40",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8556,
-      "phases": {
-        "preparation": 0.0201,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0248,
-        "content_cleanup_final": 0.0201,
-        "media_svg": 0.6793,
-        "youtube": 0.0094,
-        "content_assembly": 1.9005,
-        "monetization": 0.155,
-        "quality_write": 0.0462
-      }
-    },
-    {
-      "base_name": "Tajikistan_279c77_ajina_tepe_buddha_fe126f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9101,
-      "phases": {
-        "preparation": 0.027,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0231,
-        "content_cleanup_final": 0.0232,
-        "media_svg": 0.6585,
-        "youtube": 0.0145,
-        "content_assembly": 1.9732,
-        "monetization": 0.1434,
-        "quality_write": 0.0468
-      }
-    },
-    {
-      "base_name": "Tajikistan_279c77_panjakent_silk_road_58d862",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9921,
-      "phases": {
-        "preparation": 0.0177,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0066,
-        "content_cleanup_final": 0.0483,
-        "media_svg": 0.6828,
-        "youtube": 0.0103,
-        "content_assembly": 2.0229,
-        "monetization": 0.1496,
-        "quality_write": 0.0537
-      }
-    },
-    {
-      "base_name": "Thailand_a2b7c1",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2841,
-      "phases": {
-        "preparation": 0.0908,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0384,
-        "content_cleanup_final": 0.0353,
-        "media_svg": 0.092,
-        "youtube": 0.0101,
-        "content_assembly": 2.741,
-        "monetization": 0.1455,
-        "quality_write": 0.1305
-      }
-    },
-    {
-      "base_name": "Thailand_a2b7c1_erawan_museum_archit_9a0d14",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3657,
-      "phases": {
-        "preparation": 0.0185,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.034,
-        "content_cleanup_final": 0.0307,
-        "media_svg": 0.7013,
-        "youtube": 0.0119,
-        "content_assembly": 2.3559,
-        "monetization": 0.1656,
-        "quality_write": 0.0475
-      }
-    },
-    {
-      "base_name": "Thailand_a2b7c1_house_of_opium_histo_a4ed97",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3545,
-      "phases": {
-        "preparation": 0.0216,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0285,
-        "content_cleanup_final": 0.0426,
-        "media_svg": 0.7868,
-        "youtube": 0.0153,
-        "content_assembly": 2.2529,
-        "monetization": 0.1604,
-        "quality_write": 0.0457
-      }
-    },
-    {
-      "base_name": "Thailand_a2b7c1_siriraj_medical_muse_8ff577",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1248,
-      "phases": {
-        "preparation": 0.0325,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0054,
-        "content_cleanup_final": 0.0342,
-        "media_svg": 0.8571,
-        "youtube": 0.0115,
-        "content_assembly": 1.9549,
-        "monetization": 0.1722,
-        "quality_write": 0.0566
+        "internal_links": 0.0257,
+        "content_cleanup_final": 0.0331,
+        "media_svg": 0.9642,
+        "youtube": 0.0091,
+        "content_assembly": 2.4076,
+        "monetization": 0.0933,
+        "quality_write": 0.0909
       }
     },
     {
       "base_name": "Timor-Leste_2d79f6",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.5929,
+      "total_seconds": 3.4898,
       "phases": {
-        "preparation": 0.0822,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0235,
-        "content_cleanup_final": 0.0267,
-        "media_svg": 0.7534,
-        "youtube": 0.0123,
-        "content_assembly": 2.5649,
-        "monetization": 0.0383,
-        "quality_write": 0.0914
-      }
-    },
-    {
-      "base_name": "Timor-Leste_2d79f6_uma_lulik_ed41fc",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9161,
-      "phases": {
-        "preparation": 0.0218,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0204,
-        "content_cleanup_final": 0.0294,
-        "media_svg": 0.6722,
-        "youtube": 0.0104,
-        "content_assembly": 1.9493,
-        "monetization": 0.1671,
-        "quality_write": 0.0452
-      }
-    },
-    {
-      "base_name": "Timor-Leste_2d79f6_tais_textiles_1244b2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9759,
-      "phases": {
-        "preparation": 0.0167,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0247,
-        "content_cleanup_final": 0.0353,
-        "media_svg": 0.7115,
-        "youtube": 0.0152,
-        "content_assembly": 1.9536,
-        "monetization": 0.1677,
-        "quality_write": 0.0507
-      }
-    },
-    {
-      "base_name": "Timor-Leste_2d79f6_resistance_archive_ae47a9",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4582,
-      "phases": {
-        "preparation": 0.0236,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0038,
-        "content_cleanup_final": 0.0221,
-        "media_svg": 0.738,
-        "youtube": 0.0112,
-        "content_assembly": 2.5715,
-        "monetization": 0.0321,
-        "quality_write": 0.0555
-      }
-    },
-    {
-      "base_name": "Togo_30949d",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.9409,
-      "phases": {
-        "preparation": 0.1004,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0306,
-        "content_cleanup_final": 0.024,
-        "media_svg": 0.0954,
-        "youtube": 0.0126,
-        "content_assembly": 3.428,
-        "monetization": 0.1315,
-        "quality_write": 0.1181
-      }
-    },
-    {
-      "base_name": "Togo_30949d_palais_lome_8df362",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7322,
-      "phases": {
-        "preparation": 0.0212,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.03,
-        "content_cleanup_final": 0.0282,
-        "media_svg": 0.8787,
-        "youtube": 0.0179,
-        "content_assembly": 2.5571,
-        "monetization": 0.1459,
-        "quality_write": 0.0528
-      }
-    },
-    {
-      "base_name": "Togo_30949d_akodessewa_market_71c90f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4302,
-      "phases": {
-        "preparation": 0.0238,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0399,
-        "content_cleanup_final": 0.0311,
-        "media_svg": 0.8147,
-        "youtube": 0.016,
-        "content_assembly": 2.2846,
-        "monetization": 0.1658,
-        "quality_write": 0.0538
-      }
-    },
-    {
-      "base_name": "Togo_30949d_national_museum_togo_3c0125",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3552,
-      "phases": {
-        "preparation": 0.0342,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0122,
-        "content_cleanup_final": 0.0399,
-        "media_svg": 0.7593,
+        "preparation": 0.0835,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0347,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.8816,
         "youtube": 0.0096,
-        "content_assembly": 2.2842,
-        "monetization": 0.1672,
-        "quality_write": 0.0478
-      }
-    },
-    {
-      "base_name": "Tonga_e8a123",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.759,
-      "phases": {
-        "preparation": 0.1004,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.047,
-        "content_cleanup_final": 0.0316,
-        "media_svg": 0.1655,
-        "youtube": 0.0243,
-        "content_assembly": 3.1393,
-        "monetization": 0.1468,
-        "quality_write": 0.1038
-      }
-    },
-    {
-      "base_name": "Tonga_e8a123_haamonga_monument_c73367",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4364,
-      "phases": {
-        "preparation": 0.0196,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0228,
-        "content_cleanup_final": 0.0301,
-        "media_svg": 0.7189,
-        "youtube": 0.0131,
-        "content_assembly": 2.3664,
-        "monetization": 0.2053,
-        "quality_write": 0.0599
-      }
-    },
-    {
-      "base_name": "Tonga_e8a123_tongan_collections_78a4a2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5586,
-      "phases": {
-        "preparation": 0.0236,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0307,
-        "content_cleanup_final": 0.0376,
-        "media_svg": 0.8166,
-        "youtube": 0.0119,
-        "content_assembly": 2.3779,
-        "monetization": 0.188,
-        "quality_write": 0.0719
-      }
-    },
-    {
-      "base_name": "Tonga_e8a123_royal_tombs_traditio_a94038",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4135,
-      "phases": {
-        "preparation": 0.0275,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0077,
-        "content_cleanup_final": 0.0193,
-        "media_svg": 0.7153,
-        "youtube": 0.0091,
-        "content_assembly": 2.4057,
-        "monetization": 0.172,
-        "quality_write": 0.0564
-      }
-    },
-    {
-      "base_name": "Trinidad_and_Tobago_a73120",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7734,
-      "phases": {
-        "preparation": 0.1028,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0384,
-        "content_cleanup_final": 0.0457,
-        "media_svg": 0.1541,
-        "youtube": 0.0156,
-        "content_assembly": 3.1588,
-        "monetization": 0.1528,
-        "quality_write": 0.1047
-      }
-    },
-    {
-      "base_name": "Trinidad_and_Tobago_a73120_folklore_legends_1f35f4",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4797,
-      "phases": {
-        "preparation": 0.0312,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0472,
-        "content_cleanup_final": 0.0412,
-        "media_svg": 0.7138,
-        "youtube": 0.0147,
-        "content_assembly": 2.3588,
-        "monetization": 0.2162,
-        "quality_write": 0.0554
-      }
-    },
-    {
-      "base_name": "Trinidad_and_Tobago_a73120_chacachacare_heritag_240f2e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4318,
-      "phases": {
-        "preparation": 0.0222,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0227,
-        "content_cleanup_final": 0.0363,
-        "media_svg": 0.8848,
-        "youtube": 0.0129,
-        "content_assembly": 2.2566,
-        "monetization": 0.1438,
-        "quality_write": 0.0522
-      }
-    },
-    {
-      "base_name": "Trinidad_and_Tobago_a73120_pitch_lake_curiosity_a0d3ba",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3808,
-      "phases": {
-        "preparation": 0.0266,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0071,
-        "content_cleanup_final": 0.015,
-        "media_svg": 0.7726,
-        "youtube": 0.0142,
-        "content_assembly": 2.2579,
-        "monetization": 0.2331,
-        "quality_write": 0.0537
-      }
-    },
-    {
-      "base_name": "Tunisia_edf404_djerba_folklore_8aedca",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4121,
-      "phases": {
-        "preparation": 0.0289,
-        "content_cleanup_initial": 0.0011,
-        "internal_links": 0.0473,
-        "content_cleanup_final": 0.0394,
-        "media_svg": 0.71,
-        "youtube": 0.0125,
-        "content_assembly": 2.3171,
-        "monetization": 0.1903,
-        "quality_write": 0.0655
+        "content_assembly": 2.3317,
+        "monetization": 0.0319,
+        "quality_write": 0.092
       }
     },
     {
       "base_name": "Tunisia_edf404",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.6156,
+      "total_seconds": 3.946,
       "phases": {
-        "preparation": 0.1003,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0495,
-        "content_cleanup_final": 0.037,
-        "media_svg": 1.1411,
-        "youtube": 0.0088,
-        "content_assembly": 3.0164,
-        "monetization": 0.1366,
-        "quality_write": 0.1254
-      }
-    },
-    {
-      "base_name": "Tunisia_edf404_bardo_ancient_artefa_239764",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2857,
-      "phases": {
-        "preparation": 0.0271,
+        "preparation": 0.0915,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0265,
-        "content_cleanup_final": 0.0331,
-        "media_svg": 0.7809,
-        "youtube": 0.028,
-        "content_assembly": 2.1616,
-        "monetization": 0.1735,
-        "quality_write": 0.0546
-      }
-    },
-    {
-      "base_name": "Tunisia_edf404_tunisian_symbolic_ob_ab9954",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0743,
-      "phases": {
-        "preparation": 0.0318,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0154,
-        "content_cleanup_final": 0.0373,
-        "media_svg": 0.6991,
-        "youtube": 0.0109,
-        "content_assembly": 2.055,
-        "monetization": 0.1718,
-        "quality_write": 0.0523
+        "internal_links": 0.0315,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 1.0717,
+        "youtube": 0.0139,
+        "content_assembly": 2.4526,
+        "monetization": 0.1746,
+        "quality_write": 0.0862
       }
     },
     {
       "base_name": "Turkey_d7153e",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.2825,
+      "total_seconds": 4.16,
       "phases": {
-        "preparation": 0.1002,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.048,
-        "content_cleanup_final": 0.0308,
-        "media_svg": 1.065,
-        "youtube": 0.0144,
-        "content_assembly": 2.7967,
-        "monetization": 0.1295,
-        "quality_write": 0.0972
-      }
-    },
-    {
-      "base_name": "Turkey_d7153e_avanos_hair_museum_860c71",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.998,
-      "phases": {
-        "preparation": 0.0173,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.03,
-        "content_cleanup_final": 0.0221,
-        "media_svg": 0.7001,
-        "youtube": 0.0109,
-        "content_assembly": 1.9986,
-        "monetization": 0.152,
-        "quality_write": 0.0666
-      }
-    },
-    {
-      "base_name": "Turkey_d7153e_museum_of_innocence_9b4af2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9901,
-      "phases": {
-        "preparation": 0.0203,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0241,
-        "content_cleanup_final": 0.016,
-        "media_svg": 0.6891,
-        "youtube": 0.0095,
-        "content_assembly": 2.0481,
-        "monetization": 0.1397,
-        "quality_write": 0.0428
-      }
-    },
-    {
-      "base_name": "Turkey_d7153e_cappadocia_undergrou_64e895",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.093,
-      "phases": {
-        "preparation": 0.019,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.004,
-        "content_cleanup_final": 0.0279,
-        "media_svg": 0.7255,
-        "youtube": 0.0142,
-        "content_assembly": 2.0334,
-        "monetization": 0.2117,
-        "quality_write": 0.057
-      }
-    },
-    {
-      "base_name": "Turkmenistan_1f8dc1",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5083,
-      "phases": {
-        "preparation": 0.0832,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0339,
-        "content_cleanup_final": 0.0418,
-        "media_svg": 0.1498,
-        "youtube": 0.0162,
-        "content_assembly": 2.9363,
-        "monetization": 0.1296,
-        "quality_write": 0.1163
-      }
-    },
-    {
-      "base_name": "Turkmenistan_1f8dc1_koytendag_wonders_e4772f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.4295,
-      "phases": {
-        "preparation": 0.0378,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0326,
-        "content_cleanup_final": 0.0317,
-        "media_svg": 0.6958,
-        "youtube": 0.0111,
-        "content_assembly": 2.4048,
-        "monetization": 0.1582,
-        "quality_write": 0.0569
-      }
-    },
-    {
-      "base_name": "Turkmenistan_1f8dc1_gonur_depe_archaeolo_44332d",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2356,
-      "phases": {
-        "preparation": 0.0299,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0242,
-        "content_cleanup_final": 0.0257,
-        "media_svg": 0.8683,
-        "youtube": 0.011,
-        "content_assembly": 2.0709,
-        "monetization": 0.1468,
-        "quality_write": 0.0583
-      }
-    },
-    {
-      "base_name": "Turkmenistan_1f8dc1_turkmen_carpet_tradi_cac03a",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1096,
-      "phases": {
-        "preparation": 0.0296,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0089,
-        "content_cleanup_final": 0.033,
-        "media_svg": 0.8444,
-        "youtube": 0.0101,
-        "content_assembly": 1.9548,
-        "monetization": 0.1807,
-        "quality_write": 0.0476
-      }
-    },
-    {
-      "base_name": "Tuvalu_9a2248",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2731,
-      "phases": {
-        "preparation": 0.0896,
-        "content_cleanup_initial": 0.0009,
-        "internal_links": 0.0262,
-        "content_cleanup_final": 0.0514,
-        "media_svg": 0.1482,
-        "youtube": 0.0171,
-        "content_assembly": 2.716,
-        "monetization": 0.1194,
-        "quality_write": 0.1044
-      }
-    },
-    {
-      "base_name": "Tuvalu_9a2248_tuvalu_archives_042260",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1547,
-      "phases": {
-        "preparation": 0.0203,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0243,
-        "content_cleanup_final": 0.0354,
-        "media_svg": 0.6777,
-        "youtube": 0.015,
-        "content_assembly": 2.1104,
-        "monetization": 0.2062,
-        "quality_write": 0.0649
-      }
-    },
-    {
-      "base_name": "Tuvalu_9a2248_tuvalu_folklore_795b26",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.041,
-      "phases": {
-        "preparation": 0.0236,
+        "preparation": 0.0911,
         "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0211,
-        "content_cleanup_final": 0.03,
-        "media_svg": 0.6892,
-        "youtube": 0.0094,
-        "content_assembly": 2.0627,
-        "monetization": 0.1552,
-        "quality_write": 0.0493
-      }
-    },
-    {
-      "base_name": "Tuvalu_9a2248_tuvalu_artefacts_2a5dce",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0576,
-      "phases": {
-        "preparation": 0.0264,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.006,
-        "content_cleanup_final": 0.0419,
-        "media_svg": 0.7317,
-        "youtube": 0.0088,
-        "content_assembly": 2.0467,
-        "monetization": 0.1411,
-        "quality_write": 0.0543
-      }
-    },
-    {
-      "base_name": "Ukraine_c951ec",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2098,
-      "phases": {
-        "preparation": 0.0785,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0322,
-        "content_cleanup_final": 0.0317,
-        "media_svg": 0.1583,
-        "youtube": 0.0195,
-        "content_assembly": 2.6709,
-        "monetization": 0.1207,
-        "quality_write": 0.0975
-      }
-    },
-    {
-      "base_name": "Ukraine_c951ec_hutsul_magic_38550b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9959,
-      "phases": {
-        "preparation": 0.0252,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0374,
-        "content_cleanup_final": 0.0383,
-        "media_svg": 0.6825,
-        "youtube": 0.0087,
-        "content_assembly": 1.9963,
-        "monetization": 0.1563,
-        "quality_write": 0.051
-      }
-    },
-    {
-      "base_name": "Ukraine_c951ec_chornobyl_memory_211bd4",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0156,
-      "phases": {
-        "preparation": 0.0176,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0226,
-        "content_cleanup_final": 0.0332,
-        "media_svg": 0.7019,
-        "youtube": 0.0113,
-        "content_assembly": 2.0169,
-        "monetization": 0.159,
-        "quality_write": 0.0526
-      }
-    },
-    {
-      "base_name": "Ukraine_c951ec_pysanka_collections_f2c78a",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7991,
-      "phases": {
-        "preparation": 0.0313,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.006,
-        "content_cleanup_final": 0.022,
-        "media_svg": 0.6721,
-        "youtube": 0.0143,
-        "content_assembly": 1.8337,
-        "monetization": 0.173,
-        "quality_write": 0.0462
-      }
-    },
-    {
-      "base_name": "United_Arab_Emirates_c92b89",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.162,
-      "phases": {
-        "preparation": 0.0902,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0349,
-        "content_cleanup_final": 0.0326,
-        "media_svg": 0.1334,
-        "youtube": 0.0155,
-        "content_assembly": 2.5725,
-        "monetization": 0.1795,
-        "quality_write": 0.103
-      }
-    },
-    {
-      "base_name": "United_Arab_Emirates_c92b89_falconry_heritage_b3c4ec",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9925,
-      "phases": {
-        "preparation": 0.0186,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0278,
-        "content_cleanup_final": 0.0233,
-        "media_svg": 0.6959,
-        "youtube": 0.0092,
-        "content_assembly": 1.9977,
-        "monetization": 0.1685,
-        "quality_write": 0.0512
-      }
-    },
-    {
-      "base_name": "United_Arab_Emirates_c92b89_al_ain_archaeology_2f96a6",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0133,
-      "phases": {
-        "preparation": 0.0221,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0186,
-        "content_cleanup_final": 0.0238,
-        "media_svg": 0.7126,
-        "youtube": 0.0133,
-        "content_assembly": 1.9969,
-        "monetization": 0.1757,
-        "quality_write": 0.0499
-      }
-    },
-    {
-      "base_name": "United_Arab_Emirates_c92b89_coffee_museum_cultur_64fa48",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0634,
-      "phases": {
-        "preparation": 0.0166,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0041,
-        "content_cleanup_final": 0.03,
-        "media_svg": 0.6942,
-        "youtube": 0.0212,
-        "content_assembly": 2.0796,
-        "monetization": 0.1615,
-        "quality_write": 0.0554
+        "internal_links": 0.0312,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 1.1482,
+        "youtube": 0.0149,
+        "content_assembly": 2.5353,
+        "monetization": 0.2016,
+        "quality_write": 0.1099
       }
     },
     {
       "base_name": "United_Kingdom_d25561",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.3986,
+      "total_seconds": 3.2702,
       "phases": {
-        "preparation": 0.0752,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0374,
-        "content_cleanup_final": 0.0641,
-        "media_svg": 0.0884,
-        "youtube": 0.0222,
-        "content_assembly": 2.8543,
-        "monetization": 0.1416,
-        "quality_write": 0.1146
-      }
-    },
-    {
-      "base_name": "United_Kingdom_d25561_curiosity_collecting_61616c",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9028,
-      "phases": {
-        "preparation": 0.0194,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0243,
-        "content_cleanup_final": 0.0215,
-        "media_svg": 0.6619,
-        "youtube": 0.0186,
-        "content_assembly": 1.9392,
-        "monetization": 0.1547,
-        "quality_write": 0.063
-      }
-    },
-    {
-      "base_name": "United_Kingdom_d25561_medical_museum_ethic_183cd6",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9503,
-      "phases": {
-        "preparation": 0.0256,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0291,
-        "content_cleanup_final": 0.0328,
-        "media_svg": 0.7013,
-        "youtube": 0.0084,
-        "content_assembly": 1.9419,
-        "monetization": 0.1594,
-        "quality_write": 0.051
-      }
-    },
-    {
-      "base_name": "United_Kingdom_d25561_witchcraft_lived_bel_c2c84b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9994,
-      "phases": {
-        "preparation": 0.0191,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0073,
-        "content_cleanup_final": 0.0314,
-        "media_svg": 0.7011,
-        "youtube": 0.0097,
-        "content_assembly": 2.0173,
-        "monetization": 0.1565,
-        "quality_write": 0.0566
-      }
-    },
-    {
-      "base_name": "Uganda_e92904_buganda_royal_object_f74455",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8189,
-      "phases": {
-        "preparation": 0.0244,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0329,
-        "content_cleanup_final": 0.0275,
-        "media_svg": 0.6693,
-        "youtube": 0.0088,
-        "content_assembly": 1.8659,
-        "monetization": 0.1435,
-        "quality_write": 0.0459
+        "preparation": 0.0801,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0372,
+        "content_cleanup_final": 0.0666,
+        "media_svg": 0.0899,
+        "youtube": 0.0126,
+        "content_assembly": 2.6302,
+        "monetization": 0.2297,
+        "quality_write": 0.1233
       }
     },
     {
       "base_name": "Uganda_e92904",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.8351,
+      "total_seconds": 4.0945,
       "phases": {
-        "preparation": 0.08,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0409,
-        "content_cleanup_final": 0.0226,
-        "media_svg": 0.8216,
-        "youtube": 0.0088,
-        "content_assembly": 2.6461,
-        "monetization": 0.1153,
-        "quality_write": 0.0992
-      }
-    },
-    {
-      "base_name": "Uganda_e92904_national_museum_coll_b1c73f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.974,
-      "phases": {
-        "preparation": 0.0273,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0269,
-        "content_cleanup_final": 0.0293,
-        "media_svg": 0.6562,
-        "youtube": 0.014,
-        "content_assembly": 1.9978,
-        "monetization": 0.1591,
-        "quality_write": 0.0628
-      }
-    },
-    {
-      "base_name": "Uganda_e92904_prehistoric_artefact_82e8d7",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9279,
-      "phases": {
-        "preparation": 0.0174,
+        "preparation": 0.1094,
         "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0168,
-        "content_cleanup_final": 0.0311,
-        "media_svg": 0.6916,
-        "youtube": 0.0118,
-        "content_assembly": 1.9408,
-        "monetization": 0.1639,
-        "quality_write": 0.0541
-      }
-    },
-    {
-      "base_name": "Tanzania_7e380b",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0318,
-      "phases": {
-        "preparation": 0.0948,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0328,
-        "content_cleanup_final": 0.0227,
-        "media_svg": 0.088,
-        "youtube": 0.0131,
-        "content_assembly": 2.5647,
-        "monetization": 0.1254,
-        "quality_write": 0.0898
-      }
-    },
-    {
-      "base_name": "Tanzania_7e380b_house_wonders_coloni_c786ef",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0636,
-      "phases": {
-        "preparation": 0.0192,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0328,
-        "content_cleanup_final": 0.0261,
-        "media_svg": 0.8436,
-        "youtube": 0.0106,
-        "content_assembly": 1.9436,
-        "monetization": 0.1442,
-        "quality_write": 0.0433
-      }
-    },
-    {
-      "base_name": "Tanzania_7e380b_olduvai_laetoli_orig_5c2ef1",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9824,
-      "phases": {
-        "preparation": 0.0213,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0343,
-        "content_cleanup_final": 0.0162,
-        "media_svg": 0.7137,
-        "youtube": 0.0119,
-        "content_assembly": 1.9758,
-        "monetization": 0.1608,
-        "quality_write": 0.0479
-      }
-    },
-    {
-      "base_name": "Tanzania_7e380b_ritual_objects_inter_972231",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8934,
-      "phases": {
-        "preparation": 0.028,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0057,
-        "content_cleanup_final": 0.0149,
-        "media_svg": 0.6738,
-        "youtube": 0.0084,
-        "content_assembly": 1.9696,
-        "monetization": 0.1396,
-        "quality_write": 0.0528
-      }
-    },
-    {
-      "base_name": "United_States_f5f19f_ufo_cryptid_museums_b0923c",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8852,
-      "phases": {
-        "preparation": 0.0218,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0308,
-        "content_cleanup_final": 0.017,
-        "media_svg": 0.6897,
-        "youtube": 0.0086,
-        "content_assembly": 1.8965,
-        "monetization": 0.1756,
-        "quality_write": 0.0448
+        "internal_links": 0.0355,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 1.0325,
+        "youtube": 0.0156,
+        "content_assembly": 2.6816,
+        "monetization": 0.1055,
+        "quality_write": 0.0918
       }
     },
     {
       "base_name": "United_States_f5f19f",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.898,
+      "total_seconds": 4.2918,
       "phases": {
-        "preparation": 0.081,
+        "preparation": 0.1431,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0404,
-        "content_cleanup_final": 0.0623,
-        "media_svg": 0.7549,
-        "youtube": 0.0115,
-        "content_assembly": 2.6867,
-        "monetization": 0.1633,
-        "quality_write": 0.0973
-      }
-    },
-    {
-      "base_name": "United_States_f5f19f_medical_museums_ethi_9e604a",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9637,
-      "phases": {
-        "preparation": 0.0277,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0224,
-        "content_cleanup_final": 0.021,
-        "media_svg": 0.6513,
-        "youtube": 0.0204,
-        "content_assembly": 1.9805,
-        "monetization": 0.1776,
-        "quality_write": 0.0623
-      }
-    },
-    {
-      "base_name": "United_States_f5f19f_tragic_history_touri_273587",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2125,
-      "phases": {
-        "preparation": 0.0253,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0137,
-        "content_cleanup_final": 0.0255,
-        "media_svg": 0.6899,
-        "youtube": 0.0108,
-        "content_assembly": 2.2546,
-        "monetization": 0.1525,
-        "quality_write": 0.0396
-      }
-    },
-    {
-      "base_name": "Uruguay_66b989_death_trauma_museum_935914",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.243,
-      "phases": {
-        "preparation": 0.0219,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0234,
-        "content_cleanup_final": 0.0342,
-        "media_svg": 0.7438,
-        "youtube": 0.0092,
-        "content_assembly": 2.1943,
-        "monetization": 0.1584,
-        "quality_write": 0.0574
-      }
-    },
-    {
-      "base_name": "Uruguay_66b989",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7355,
-      "phases": {
-        "preparation": 0.0834,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0463,
-        "content_cleanup_final": 0.0669,
-        "media_svg": 0.1464,
-        "youtube": 0.0202,
-        "content_assembly": 3.2153,
-        "monetization": 0.0392,
-        "quality_write": 0.117
-      }
-    },
-    {
-      "base_name": "Uruguay_66b989_private_collections_a12a22",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.9655,
-      "phases": {
-        "preparation": 0.0227,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0286,
-        "content_cleanup_final": 0.0176,
-        "media_svg": 0.7226,
-        "youtube": 0.0143,
-        "content_assembly": 1.9471,
-        "monetization": 0.1701,
-        "quality_write": 0.0422
-      }
-    },
-    {
-      "base_name": "Uruguay_66b989_castillo_pittamiglio_8f029b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.8343,
-      "phases": {
-        "preparation": 0.0188,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0028,
-        "content_cleanup_final": 0.0239,
-        "media_svg": 0.6594,
-        "youtube": 0.0105,
-        "content_assembly": 1.918,
-        "monetization": 0.1533,
-        "quality_write": 0.0471
-      }
-    },
-    {
-      "base_name": "Uzbekistan_db800e",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.1577,
-      "phases": {
-        "preparation": 0.0843,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0438,
-        "content_cleanup_final": 0.0415,
-        "media_svg": 0.0854,
-        "youtube": 0.0108,
-        "content_assembly": 2.6391,
-        "monetization": 0.1397,
-        "quality_write": 0.1125
-      }
-    },
-    {
-      "base_name": "Uzbekistan_db800e_ossuaries_amulets_be_2128a4",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.6489,
-      "phases": {
-        "preparation": 0.017,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0288,
-        "content_cleanup_final": 0.0141,
-        "media_svg": 0.6743,
-        "youtube": 0.0103,
-        "content_assembly": 2.6302,
-        "monetization": 0.2134,
-        "quality_write": 0.0604
-      }
-    },
-    {
-      "base_name": "Uzbekistan_db800e_prisons_repression_m_8724f9",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.6657,
-      "phases": {
-        "preparation": 0.0231,
-        "content_cleanup_initial": 0.001,
-        "internal_links": 0.045,
-        "content_cleanup_final": 0.0174,
-        "media_svg": 0.8284,
-        "youtube": 0.0196,
-        "content_assembly": 2.4978,
-        "monetization": 0.1819,
-        "quality_write": 0.0515
-      }
-    },
-    {
-      "base_name": "Uzbekistan_db800e_savitsky_forbidden_a_5521ee",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5673,
-      "phases": {
-        "preparation": 0.0187,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0043,
-        "content_cleanup_final": 0.0247,
-        "media_svg": 0.988,
-        "youtube": 0.0271,
-        "content_assembly": 2.3002,
-        "monetization": 0.1621,
-        "quality_write": 0.0419
-      }
-    },
-    {
-      "base_name": "Vanuatu_d16ad2",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7292,
-      "phases": {
-        "preparation": 0.111,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0355,
-        "content_cleanup_final": 0.0502,
-        "media_svg": 0.1659,
-        "youtube": 0.0107,
-        "content_assembly": 3.07,
-        "monetization": 0.1582,
-        "quality_write": 0.1273
-      }
-    },
-    {
-      "base_name": "Vanuatu_d16ad2_ancestral_effigies_r_1b3d67",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3406,
-      "phases": {
-        "preparation": 0.0239,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0248,
-        "content_cleanup_final": 0.0185,
-        "media_svg": 0.7362,
-        "youtube": 0.0145,
-        "content_assembly": 2.2799,
-        "monetization": 0.1766,
-        "quality_write": 0.0655
-      }
-    },
-    {
-      "base_name": "Vanuatu_d16ad2_national_museum_coll_b1c73f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.256,
-      "phases": {
-        "preparation": 0.0383,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0303,
-        "content_cleanup_final": 0.0189,
-        "media_svg": 0.7775,
-        "youtube": 0.0155,
-        "content_assembly": 2.0938,
-        "monetization": 0.2059,
-        "quality_write": 0.075
-      }
-    },
-    {
-      "base_name": "Vanuatu_d16ad2_sacred_sites_archaeo_f2335f",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2479,
-      "phases": {
-        "preparation": 0.0242,
-        "content_cleanup_initial": 0.0002,
-        "internal_links": 0.0041,
-        "content_cleanup_final": 0.0237,
-        "media_svg": 0.7843,
-        "youtube": 0.0093,
-        "content_assembly": 2.1936,
-        "monetization": 0.1616,
-        "quality_write": 0.0469
+        "internal_links": 0.0334,
+        "content_cleanup_final": 0.0551,
+        "media_svg": 0.9045,
+        "youtube": 0.0109,
+        "content_assembly": 2.8903,
+        "monetization": 0.1645,
+        "quality_write": 0.0892
       }
     },
     {
       "base_name": "Venezuela_9d4ac4",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.2439,
+      "total_seconds": 4.2663,
       "phases": {
-        "preparation": 0.1064,
-        "content_cleanup_initial": 0.0012,
-        "internal_links": 0.0639,
-        "content_cleanup_final": 0.0825,
-        "media_svg": 0.8619,
-        "youtube": 0.0164,
-        "content_assembly": 2.9271,
-        "monetization": 0.0764,
-        "quality_write": 0.1082
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4_dreaming_stones_art_0fbb48",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 4.9176,
-      "phases": {
-        "preparation": 0.0318,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0545,
-        "content_cleanup_final": 0.0281,
-        "media_svg": 0.7206,
-        "youtube": 0.0141,
-        "content_assembly": 2.2163,
-        "monetization": 1.7846,
-        "quality_write": 0.0673
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4_museum_sciences_rema_41e700",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3732,
-      "phases": {
-        "preparation": 0.0172,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0322,
-        "content_cleanup_final": 0.0397,
-        "media_svg": 0.6492,
-        "youtube": 0.0114,
-        "content_assembly": 2.39,
-        "monetization": 0.1796,
-        "quality_write": 0.0535
-      }
-    },
-    {
-      "base_name": "Venezuela_9d4ac4_sacred_museum_caraca_04ff07",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.9921,
-      "phases": {
-        "preparation": 0.0382,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0086,
-        "content_cleanup_final": 0.0208,
-        "media_svg": 0.8347,
-        "youtube": 0.0209,
-        "content_assembly": 2.3856,
-        "monetization": 0.6251,
-        "quality_write": 0.0576
-      }
-    },
-    {
-      "base_name": "Vietnam_681101",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.7007,
-      "phases": {
-        "preparation": 0.1393,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0496,
-        "content_cleanup_final": 0.0407,
-        "media_svg": 0.1081,
-        "youtube": 0.0206,
-        "content_assembly": 3.113,
-        "monetization": 0.0984,
-        "quality_write": 0.1306
-      }
-    },
-    {
-      "base_name": "Vietnam_681101_hoa_lo_prison_8664a2",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2826,
-      "phases": {
-        "preparation": 0.0184,
-        "content_cleanup_initial": 0.0007,
-        "internal_links": 0.0297,
-        "content_cleanup_final": 0.0247,
-        "media_svg": 0.7326,
-        "youtube": 0.0109,
-        "content_assembly": 2.2549,
-        "monetization": 0.1637,
-        "quality_write": 0.047
-      }
-    },
-    {
-      "base_name": "Vietnam_681101_traditional_medicine_53ff5e",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.3089,
-      "phases": {
-        "preparation": 0.0308,
+        "preparation": 0.1099,
         "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0375,
-        "content_cleanup_final": 0.0403,
-        "media_svg": 0.7806,
-        "youtube": 0.0112,
-        "content_assembly": 2.2037,
-        "monetization": 0.145,
-        "quality_write": 0.0594
-      }
-    },
-    {
-      "base_name": "Vietnam_681101_war_remnants_collect_032429",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.441,
-      "phases": {
-        "preparation": 0.0308,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0048,
-        "content_cleanup_final": 0.0249,
-        "media_svg": 0.6929,
-        "youtube": 0.0115,
-        "content_assembly": 2.2574,
-        "monetization": 0.3549,
-        "quality_write": 0.0635
-      }
-    },
-    {
-      "base_name": "Yemen_ac33d6",
-      "level": 1,
-      "outcome": "rebuilt",
-      "total_seconds": 3.5712,
-      "phases": {
-        "preparation": 0.0842,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0399,
-        "content_cleanup_final": 0.0269,
-        "media_svg": 0.1043,
-        "youtube": 0.0146,
-        "content_assembly": 3.1012,
-        "monetization": 0.096,
-        "quality_write": 0.1037
-      }
-    },
-    {
-      "base_name": "Yemen_ac33d6_yemeni_manuscripts_004bd8",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.2858,
-      "phases": {
-        "preparation": 0.0271,
-        "content_cleanup_initial": 0.0004,
-        "internal_links": 0.0346,
-        "content_cleanup_final": 0.0399,
-        "media_svg": 0.9292,
-        "youtube": 0.0213,
-        "content_assembly": 2.0187,
-        "monetization": 0.1591,
-        "quality_write": 0.0554
-      }
-    },
-    {
-      "base_name": "Yemen_ac33d6_national_museum_reli_441dc0",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0297,
-      "phases": {
-        "preparation": 0.0341,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0397,
-        "content_cleanup_final": 0.0372,
-        "media_svg": 0.7012,
-        "youtube": 0.0176,
-        "content_assembly": 2.003,
-        "monetization": 0.146,
-        "quality_write": 0.0501
-      }
-    },
-    {
-      "base_name": "Zambia_dcf25e_livingstone_archaeol_1eaf40",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 2.7615,
-      "phases": {
-        "preparation": 0.0216,
-        "content_cleanup_initial": 0.0003,
-        "internal_links": 0.0253,
-        "content_cleanup_final": 0.035,
-        "media_svg": 0.6771,
-        "youtube": 0.0133,
-        "content_assembly": 1.8135,
-        "monetization": 0.1277,
-        "quality_write": 0.0476
+        "internal_links": 0.034,
+        "content_cleanup_final": 0.0509,
+        "media_svg": 0.9763,
+        "youtube": 0.0184,
+        "content_assembly": 2.8673,
+        "monetization": 0.1109,
+        "quality_write": 0.0981
       }
     },
     {
       "base_name": "Zambia_dcf25e",
       "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 3.4918,
+      "total_seconds": 3.7427,
       "phases": {
-        "preparation": 0.079,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.0366,
-        "content_cleanup_final": 0.0299,
-        "media_svg": 0.7216,
-        "youtube": 0.0088,
-        "content_assembly": 2.4093,
-        "monetization": 0.1159,
-        "quality_write": 0.0902
+        "preparation": 0.1191,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0297,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.9447,
+        "youtube": 0.0174,
+        "content_assembly": 2.4104,
+        "monetization": 0.1122,
+        "quality_write": 0.0881
       }
     },
     {
-      "base_name": "Yemen_ac33d6_sanaa_living_heritag_bf921b",
-      "level": 2,
+      "base_name": "Zimbabwe_5922f5",
+      "level": 1,
       "outcome": "rebuilt",
-      "total_seconds": 4.9787,
+      "total_seconds": 3.4313,
       "phases": {
-        "preparation": 0.0192,
-        "content_cleanup_initial": 0.0008,
-        "internal_links": 0.0076,
-        "content_cleanup_final": 0.0386,
-        "media_svg": 0.6657,
-        "youtube": 0.0135,
-        "content_assembly": 1.9766,
-        "monetization": 2.2027,
-        "quality_write": 0.0542
-      }
-    },
-    {
-      "base_name": "Zambia_dcf25e_lusaka_witchcraft_co_10d00b",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0822,
-      "phases": {
-        "preparation": 0.0167,
-        "content_cleanup_initial": 0.0005,
-        "internal_links": 0.0156,
-        "content_cleanup_final": 0.0232,
-        "media_svg": 0.7277,
-        "youtube": 0.0118,
-        "content_assembly": 2.1176,
-        "monetization": 0.1241,
-        "quality_write": 0.0449
-      }
-    },
-    {
-      "base_name": "Zambia_dcf25e_missionary_relics_ar_a1f449",
-      "level": 2,
-      "outcome": "rebuilt",
-      "total_seconds": 3.0427,
-      "phases": {
-        "preparation": 0.027,
-        "content_cleanup_initial": 0.0006,
-        "internal_links": 0.009,
-        "content_cleanup_final": 0.0373,
-        "media_svg": 0.7255,
-        "youtube": 0.0163,
-        "content_assembly": 2.0463,
-        "monetization": 0.1392,
-        "quality_write": 0.0415
+        "preparation": 0.1054,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.037,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.8229,
+        "youtube": 0.0095,
+        "content_assembly": 2.279,
+        "monetization": 0.056,
+        "quality_write": 0.0997
       }
     }
   ],
@@ -4173,47 +1980,47 @@
     "workers_raw": "auto",
     "max_workers": 3,
     "progress_interval_seconds": 60.0,
-    "queued_rebuild_pages": 224,
-    "reused_pages": 548,
-    "rebuilt_pages": 224,
+    "queued_rebuild_pages": 95,
+    "reused_pages": 677,
+    "rebuilt_pages": 95,
     "error_pages": 0,
-    "page_work_wall_seconds": 375.9326,
-    "rebuilt_pages_per_minute": 35.7511,
-    "queued_rebuild_pages_per_minute": 35.7511,
-    "apparent_page_work_speedup": 2.0086,
+    "page_work_wall_seconds": 241.4184,
+    "rebuilt_pages_per_minute": 23.6105,
+    "queued_rebuild_pages_per_minute": 23.6105,
+    "apparent_page_work_speedup": 1.3832,
     "youtube_cache_prepare": {
       "entries": 47950,
       "updated": true,
-      "elapsed_seconds": 4.8161
+      "elapsed_seconds": 4.5139
     },
     "process_worker_diagnostics": {
-      "completed_pages": 224,
-      "successful_pages": 224,
+      "completed_pages": 95,
+      "successful_pages": 95,
       "failed_pages": 0,
       "worker_summary": {
-        "24416": {
-          "pages": 75,
-          "successes": 75,
+        "14392": {
+          "pages": 33,
+          "successes": 33,
           "failures": 0,
-          "total_worker_seconds": 260.4628,
-          "max_worker_seconds": 9.1242,
-          "last_base_name": "Zambia_dcf25e_missionary_relics_ar_a1f449"
+          "total_worker_seconds": 114.5441,
+          "max_worker_seconds": 6.1955,
+          "last_base_name": "Venezuela_9d4ac4"
         },
-        "24736": {
-          "pages": 75,
-          "successes": 75,
+        "28940": {
+          "pages": 30,
+          "successes": 30,
           "failures": 0,
-          "total_worker_seconds": 253.6555,
-          "max_worker_seconds": 7.1127,
-          "last_base_name": "Yemen_ac33d6_sanaa_living_heritag_bf921b"
+          "total_worker_seconds": 114.3906,
+          "max_worker_seconds": 9.012,
+          "last_base_name": "Zimbabwe_5922f5"
         },
-        "27352": {
-          "pages": 74,
-          "successes": 74,
+        "7092": {
+          "pages": 32,
+          "successes": 32,
           "failures": 0,
-          "total_worker_seconds": 253.2769,
-          "max_worker_seconds": 6.3208,
-          "last_base_name": "Zambia_dcf25e_lusaka_witchcraft_co_10d00b"
+          "total_worker_seconds": 109.9526,
+          "max_worker_seconds": 6.1136,
+          "last_base_name": "Zambia_dcf25e"
         }
       },
       "slowest_worker_pages": [
@@ -4221,110 +2028,110 @@
           "base_name": "DR_Congo_b690cb_ishango_bone_mystery_06cb4b",
           "level": 2,
           "success": true,
-          "worker_pid": 24416,
-          "worker_duration_seconds": 9.1242,
-          "total_seconds": 9.0732,
-          "worker_started_at_utc": "2026-07-25T11:42:16.390092Z",
-          "worker_finished_at_utc": "2026-07-25T11:42:25.463296Z",
+          "worker_pid": 28940,
+          "worker_duration_seconds": 9.012,
+          "total_seconds": 8.9693,
+          "worker_started_at_utc": "2026-07-25T16:33:06.942217Z",
+          "worker_finished_at_utc": "2026-07-25T16:33:15.911516Z",
           "result_merge_seconds": 0.0
         },
         {
-          "base_name": "The_Bahamas_f765dc",
+          "base_name": "Belgium_5cb4c9",
           "level": 1,
           "success": true,
-          "worker_pid": 24736,
-          "worker_duration_seconds": 7.1127,
-          "total_seconds": 7.0535,
-          "worker_started_at_utc": "2026-07-25T11:41:52.272955Z",
-          "worker_finished_at_utc": "2026-07-25T11:41:59.326538Z",
+          "worker_pid": 28940,
+          "worker_duration_seconds": 6.7227,
+          "total_seconds": 6.6722,
+          "worker_started_at_utc": "2026-07-25T16:32:48.448362Z",
+          "worker_finished_at_utc": "2026-07-25T16:32:55.120653Z",
           "result_merge_seconds": 0.0
         },
         {
           "base_name": "Armenia_5f4599_armenian_archaeologi_b86097",
           "level": 2,
           "success": true,
-          "worker_pid": 24416,
-          "worker_duration_seconds": 7.0923,
-          "total_seconds": 7.0387,
-          "worker_started_at_utc": "2026-07-25T11:41:48.461248Z",
-          "worker_finished_at_utc": "2026-07-25T11:41:55.500073Z",
+          "worker_pid": 14392,
+          "worker_duration_seconds": 6.1955,
+          "total_seconds": 6.1433,
+          "worker_started_at_utc": "2026-07-25T16:32:45.367699Z",
+          "worker_finished_at_utc": "2026-07-25T16:32:51.511045Z",
           "result_merge_seconds": 0.0
         },
         {
-          "base_name": "The_Bahamas_f765dc_pirates_nassau_fact_c4787f",
+          "base_name": "Bosnia_and_Herzegovi_552c9f_war_childhood_object_be0df0",
           "level": 2,
           "success": true,
-          "worker_pid": 27352,
-          "worker_duration_seconds": 6.3208,
-          "total_seconds": 6.2751,
-          "worker_started_at_utc": "2026-07-25T11:41:55.470686Z",
-          "worker_finished_at_utc": "2026-07-25T11:42:01.745827Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Yemen_ac33d6_sanaa_living_heritag_bf921b",
-          "level": 2,
-          "success": true,
-          "worker_pid": 24736,
-          "worker_duration_seconds": 5.0307,
-          "total_seconds": 4.9787,
-          "worker_started_at_utc": "2026-07-25T11:46:01.405111Z",
-          "worker_finished_at_utc": "2026-07-25T11:46:06.383892Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Venezuela_9d4ac4_dreaming_stones_art_0fbb48",
-          "level": 2,
-          "success": true,
-          "worker_pid": 27352,
-          "worker_duration_seconds": 4.9905,
-          "total_seconds": 4.9176,
-          "worker_started_at_utc": "2026-07-25T11:45:47.971133Z",
-          "worker_finished_at_utc": "2026-07-25T11:45:52.888767Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Liberia_1ed5dd",
-          "level": 1,
-          "success": true,
-          "worker_pid": 27352,
-          "worker_duration_seconds": 4.9859,
-          "total_seconds": 4.9278,
-          "worker_started_at_utc": "2026-07-25T11:42:33.660464Z",
-          "worker_finished_at_utc": "2026-07-25T11:42:38.588306Z",
-          "result_merge_seconds": 0.0
-        },
-        {
-          "base_name": "Tunisia_edf404",
-          "level": 1,
-          "success": true,
-          "worker_pid": 27352,
-          "worker_duration_seconds": 4.6678,
-          "total_seconds": 4.6156,
-          "worker_started_at_utc": "2026-07-25T11:44:50.625648Z",
-          "worker_finished_at_utc": "2026-07-25T11:44:55.241287Z",
+          "worker_pid": 7092,
+          "worker_duration_seconds": 6.1136,
+          "total_seconds": 6.0516,
+          "worker_started_at_utc": "2026-07-25T16:32:51.660875Z",
+          "worker_finished_at_utc": "2026-07-25T16:32:57.712571Z",
           "result_merge_seconds": 0.0
         },
         {
           "base_name": "Spain_20a8df",
           "level": 1,
           "success": true,
-          "worker_pid": 24736,
-          "worker_duration_seconds": 4.5673,
-          "total_seconds": 4.4977,
-          "worker_started_at_utc": "2026-07-25T11:43:53.303144Z",
-          "worker_finished_at_utc": "2026-07-25T11:43:57.800895Z",
+          "worker_pid": 28940,
+          "worker_duration_seconds": 4.8219,
+          "total_seconds": 4.7605,
+          "worker_started_at_utc": "2026-07-25T16:34:22.387294Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:27.147816Z",
           "result_merge_seconds": 0.0
         },
         {
-          "base_name": "Iceland_b3c92e",
+          "base_name": "United_States_f5f19f",
           "level": 1,
           "success": true,
-          "worker_pid": 24736,
-          "worker_duration_seconds": 4.5187,
-          "total_seconds": 4.4537,
-          "worker_started_at_utc": "2026-07-25T11:42:27.865321Z",
-          "worker_finished_at_utc": "2026-07-25T11:42:32.319076Z",
+          "worker_pid": 28940,
+          "worker_duration_seconds": 4.3378,
+          "total_seconds": 4.2918,
+          "worker_started_at_utc": "2026-07-25T16:34:35.197594Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:39.489424Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Sweden_72ddd2",
+          "level": 1,
+          "success": true,
+          "worker_pid": 7092,
+          "worker_duration_seconds": 4.3207,
+          "total_seconds": 4.276,
+          "worker_started_at_utc": "2026-07-25T16:34:25.588814Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:29.864821Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Venezuela_9d4ac4",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14392,
+          "worker_duration_seconds": 4.3177,
+          "total_seconds": 4.2663,
+          "worker_started_at_utc": "2026-07-25T16:34:35.964561Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:40.230959Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Turkey_d7153e",
+          "level": 1,
+          "success": true,
+          "worker_pid": 28940,
+          "worker_duration_seconds": 4.2096,
+          "total_seconds": 4.16,
+          "worker_started_at_utc": "2026-07-25T16:34:30.979495Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:35.139617Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Norway_988455",
+          "level": 1,
+          "success": true,
+          "worker_pid": 14392,
+          "worker_duration_seconds": 4.189,
+          "total_seconds": 4.1372,
+          "worker_started_at_utc": "2026-07-25T16:34:00.067344Z",
+          "worker_finished_at_utc": "2026-07-25T16:34:04.204607Z",
           "result_merge_seconds": 0.0
         }
       ]

@@ -275,9 +275,9 @@ image: /assets/images/Sierra_Leone_817b0d_railway_collection_s_20c8b9-Illustrati
 <section class="related-reports-section related-reports-section-closest">
 <h3>Closest pages</h3>
 <ul>
-<li><a href="{{ '/where-sierra-leone-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Sierra Leone Keeps Its Strangest...</span><span class="article-branch-link-heading">Where Sierra Leone Keeps Its Strangest Stories</span></a></li>
 <li><a href="{{ '/object-diaspora/' | relative_url }}"><span class="article-branch-link-short">Object Diaspora</span><span class="article-branch-link-heading">Why Sierra Leone&#x27;s Charms Are Overseas</span></a></li>
 <li><a href="{{ '/museum-masks/' | relative_url }}"><span class="article-branch-link-short">Museum Masks</span><span class="article-branch-link-heading">What Sierra Leone&#x27;s Masks Really Mean</span></a></li>
+<li><a href="{{ '/where-sierra-leone-keeps-its-strangest/' | relative_url }}"><span class="article-branch-link-short">Where Sierra Leone Keeps Its Strangest...</span><span class="article-branch-link-heading">Where Sierra Leone Keeps Its Strangest Stories</span></a></li>
 </ul>
 </section>
 </div>

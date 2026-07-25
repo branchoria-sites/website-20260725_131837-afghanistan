@@ -1145,6 +1145,10 @@ sibling_links:
   title: Curious Austria
   permalink: /why-does-austria-preserve-such-strange/
   short_title: Curious Austria
+- basename: Iceland_b3c92e
+  title: Curious Iceland
+  permalink: /why-does-iceland-museumise-the/
+  short_title: Curious Iceland
 - basename: Germany_17d53e
   title: Strange Germany
   permalink: /why-germanys-strangest-museums-feel-so/
@@ -1252,7 +1256,7 @@ Access arrangements and opening days can vary, particularly outside the main sea
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jz4gdotFs4k" title="Relief Map Montenegro, Cetinje, Montenegro | 360° | Balkan" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jz4gdotFs4k" target="_blank" rel="noopener noreferrer">Relief Map Montenegro, Cetinje, Montenegro | 360° | Balkan</a></p><p class="youtube-embed-meta">Channel: REiSREPORT 360º</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jz4gdotFs4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jz4gdotFs4k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oYJkEGkI34M" title="Our Lady of the Rocks | Montenegro’s Floating Church Surprise" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oYJkEGkI34M" target="_blank" rel="noopener noreferrer">Our Lady of the Rocks | Montenegro’s Floating Church Surprise</a></p><p class="youtube-embed-meta">Channel: Travel: The Good, The Bad &amp; The Funny</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oYJkEGkI34M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oYJkEGkI34M">Open on YouTube</a></p></div></div></div>
 
 ## Cetinje’s enormous relief map
 
@@ -1316,7 +1320,7 @@ For readers interested in dark tourism, Jusovača is a useful example of the bou
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/89nmRbT6j4s" title="Montenegro Top Attractions - Lipa Cave #cave #nature #montenegro #travel" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=89nmRbT6j4s" target="_blank" rel="noopener noreferrer">Montenegro Top Attractions - Lipa Cave #cave #nature #montenegro #travel</a></p><p class="youtube-embed-meta">Channel: Staying Local</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=89nmRbT6j4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=89nmRbT6j4s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P1Ov7FfnLDU" title="Naval Heritage Collection Porto Montenegro" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P1Ov7FfnLDU" target="_blank" rel="noopener noreferrer">Naval Heritage Collection Porto Montenegro</a></p><p class="youtube-embed-meta">Channel: Porto Montenegro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P1Ov7FfnLDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P1Ov7FfnLDU">Open on YouTube</a></p></div></div></div>
 
 ## Lapidariums, grave goods and stones with afterlives
 
@@ -1330,7 +1334,7 @@ These are conventional archaeological institutions, not mystery museums. Their r
 
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oYJkEGkI34M" title="Our Lady of the Rocks | Montenegro’s Floating Church Surprise" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oYJkEGkI34M" target="_blank" rel="noopener noreferrer">Our Lady of the Rocks | Montenegro’s Floating Church Surprise</a></p><p class="youtube-embed-meta">Channel: Travel: The Good, The Bad &amp; The Funny</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oYJkEGkI34M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oYJkEGkI34M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/89nmRbT6j4s" title="Montenegro Top Attractions - Lipa Cave #cave #nature #montenegro #travel" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=89nmRbT6j4s" target="_blank" rel="noopener noreferrer">Montenegro Top Attractions - Lipa Cave #cave #nature #montenegro #travel</a></p><p class="youtube-embed-meta">Channel: Staying Local</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=89nmRbT6j4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=89nmRbT6j4s">Open on YouTube</a></p></div></div></div>
 
 ## What Montenegro largely does not have
 
