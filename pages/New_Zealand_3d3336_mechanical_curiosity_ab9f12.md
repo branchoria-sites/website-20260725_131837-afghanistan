@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: New_Zealand_3d3336_mechanical_curiosity_ab9f12
 parent_basename: New_Zealand_3d3336

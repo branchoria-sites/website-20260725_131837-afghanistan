@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Guyana_bc88a2_ritual_ancestral_col_82f0b8
 parent_basename: Guyana_bc88a2

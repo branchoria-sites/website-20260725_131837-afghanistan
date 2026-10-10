@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Solomon_Islands_6f943d_vilu_war_museum_reli_8af47f
 parent_basename: Solomon_Islands_6f943d

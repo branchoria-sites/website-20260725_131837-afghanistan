@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Lithuania_74a788_soviet_bunkers_surve_271099
 parent_basename: Lithuania_74a788

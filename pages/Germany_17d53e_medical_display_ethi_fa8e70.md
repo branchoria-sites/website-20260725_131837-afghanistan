@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Germany_17d53e_medical_display_ethi_fa8e70
 parent_basename: Germany_17d53e

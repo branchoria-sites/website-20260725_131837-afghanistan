@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Japan_fcf29f_yokai_collections_e4707c
 parent_basename: Japan_fcf29f

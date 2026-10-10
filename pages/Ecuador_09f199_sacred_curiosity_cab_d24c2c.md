@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Ecuador_09f199_sacred_curiosity_cab_d24c2c
 parent_basename: Ecuador_09f199

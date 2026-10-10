@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Equatorial_Guinea_ae2c01_fang_reliquary_guard_02818a
 parent_basename: Equatorial_Guinea_ae2c01

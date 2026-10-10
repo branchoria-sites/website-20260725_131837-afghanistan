@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Vanuatu_d16ad2_sacred_sites_archaeo_f2335f
 parent_basename: Vanuatu_d16ad2

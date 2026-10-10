@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Kyrgyzstan_c78791_rukh_ordo_centre_95d549
 parent_basename: Kyrgyzstan_c78791

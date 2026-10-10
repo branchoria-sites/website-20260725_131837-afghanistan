@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: South_Korea_7536d5_shamanic_spirit_coll_17fb56
 parent_basename: South_Korea_7536d5

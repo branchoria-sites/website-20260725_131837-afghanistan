@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Burkina_Faso_f61e5f_public_museums_herit_b7708a
 parent_basename: Burkina_Faso_f61e5f
