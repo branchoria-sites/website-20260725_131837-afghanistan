@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Kyrgyzstan_c78791_sulaiman_too_museum_b17cb3
 parent_basename: Kyrgyzstan_c78791

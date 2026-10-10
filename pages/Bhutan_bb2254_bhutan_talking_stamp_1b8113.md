@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Bhutan_bb2254_bhutan_talking_stamp_1b8113
 parent_basename: Bhutan_bb2254

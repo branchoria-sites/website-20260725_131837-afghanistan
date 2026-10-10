@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Poland_5ff03b_skull_chapel_devotio_d9d08c
 parent_basename: Poland_5ff03b

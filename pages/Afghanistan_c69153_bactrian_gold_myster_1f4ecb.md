@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Afghanistan_c69153_bactrian_gold_myster_1f4ecb
 parent_basename: Afghanistan_c69153

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Colombia_2f7373_san_bernardo_mummies_737188
 parent_basename: Colombia_2f7373

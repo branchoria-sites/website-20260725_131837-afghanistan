@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Cameroon_73a7dd_foumban_royal_museum_92f09c
 parent_basename: Cameroon_73a7dd

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Senegal_d8973b_contested_relics_res_195021
 parent_basename: Senegal_d8973b

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Egypt_1c39ab_sacred_animal_mummie_cc1295
 parent_basename: Egypt_1c39ab
