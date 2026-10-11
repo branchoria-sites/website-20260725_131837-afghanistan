@@ -2052,4 +2052,3 @@ Together they form a curiosity landscape defined less by the supernatural than b
 
 66.<a id="endnote-66"></a>
    Source: theguardian.com  
-   Link:https://www.theguardian.com/g2/story/0%2C3604%2C398808%2C00.html  
