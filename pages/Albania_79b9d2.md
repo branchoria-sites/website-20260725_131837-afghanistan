@@ -1919,7 +1919,6 @@ This gives Albania a distinctive place in Europe’s strange-history landscape. 
 34.<a id="endnote-34"></a>
    Source: persee.fr  
    Title: imea 1000 1000 2004 act 4 1 998  
-   Link:https://www.persee.fr/doc/imea_1000-1000_2004_act  
 
 35.<a id="endnote-35"></a>
    Source: en.ata.gov.al  
