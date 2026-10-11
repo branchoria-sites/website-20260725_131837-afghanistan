@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Afghanistan_c69153_kabul_museum_surviva_0ee781
 parent_basename: Afghanistan_c69153

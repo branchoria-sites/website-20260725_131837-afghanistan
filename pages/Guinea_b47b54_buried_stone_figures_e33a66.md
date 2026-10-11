@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Guinea_b47b54_buried_stone_figures_e33a66
 parent_basename: Guinea_b47b54

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Bulgaria_5c7772_baba_vanga_museums_a271db
 parent_basename: Bulgaria_5c7772

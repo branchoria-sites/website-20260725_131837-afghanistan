@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 18:13:00'
 level: 2
 basename: Seychelles_3d2d7b_stone_of_possession_edd025
 parent_basename: Seychelles_3d2d7b

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Senegal_d8973b_ritual_masks_after_c_11d1ec
 parent_basename: Senegal_d8973b

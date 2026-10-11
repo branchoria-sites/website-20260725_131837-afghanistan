@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Gambia_7c3997_stone_circles_burial_68c6ba
 parent_basename: Gambia_7c3997

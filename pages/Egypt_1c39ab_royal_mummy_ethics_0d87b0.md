@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Egypt_1c39ab_royal_mummy_ethics_0d87b0
 parent_basename: Egypt_1c39ab

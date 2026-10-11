@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Ethiopia_3d91f7_lucy_human_origins_ba1073
 parent_basename: Ethiopia_3d91f7

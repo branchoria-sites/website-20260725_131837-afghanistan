@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Ireland_eb2131_dublin_curiosity_cab_262797
 parent_basename: Ireland_eb2131

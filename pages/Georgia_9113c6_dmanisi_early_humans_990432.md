@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 18:13:00'
 level: 2
 basename: Georgia_9113c6_dmanisi_early_humans_990432
 parent_basename: Georgia_9113c6

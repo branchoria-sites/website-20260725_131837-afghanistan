@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Panama_1e36b3_mola_museum_guna_tex_a6d429
 parent_basename: Panama_1e36b3

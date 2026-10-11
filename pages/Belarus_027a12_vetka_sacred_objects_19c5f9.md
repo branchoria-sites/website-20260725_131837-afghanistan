@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Belarus_027a12_vetka_sacred_objects_19c5f9
 parent_basename: Belarus_027a12

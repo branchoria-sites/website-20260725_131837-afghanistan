@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Eritrea_18740a_war_relics_and_tanks_69faa2
 parent_basename: Eritrea_18740a

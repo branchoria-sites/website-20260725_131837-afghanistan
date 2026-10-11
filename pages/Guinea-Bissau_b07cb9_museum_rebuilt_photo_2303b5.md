@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Guinea-Bissau_b07cb9_museum_rebuilt_photo_2303b5
 parent_basename: Guinea-Bissau_b07cb9

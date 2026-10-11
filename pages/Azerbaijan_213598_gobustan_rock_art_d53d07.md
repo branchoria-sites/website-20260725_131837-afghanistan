@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Azerbaijan_213598_gobustan_rock_art_d53d07
 parent_basename: Azerbaijan_213598

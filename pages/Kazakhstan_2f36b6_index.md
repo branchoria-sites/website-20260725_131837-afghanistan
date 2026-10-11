@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 title: What Makes Kazakhstan's History So Strange? Sub-Topic Index
 title_full: What Makes Kazakhstan's History So Strange? Sub-Topic Index
 display_title: Sub-Topic Index

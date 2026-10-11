@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Thailand_a2b7c1_erawan_museum_archit_9a0d14
 parent_basename: Thailand_a2b7c1

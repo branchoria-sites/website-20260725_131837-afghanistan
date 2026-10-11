@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Bulgaria_5c7772_socialist_bulgaria_m_f31c4a
 parent_basename: Bulgaria_5c7772

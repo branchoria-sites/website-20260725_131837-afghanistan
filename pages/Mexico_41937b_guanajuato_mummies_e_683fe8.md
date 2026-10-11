@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Mexico_41937b_guanajuato_mummies_e_683fe8
 parent_basename: Mexico_41937b

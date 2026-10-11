@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Kazakhstan_2f36b6_alzhir_memorial_hist_cd77d0
 parent_basename: Kazakhstan_2f36b6

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-25 13:32:38'
 level: 2
 basename: Syria_3ed104_damascus_museum_coll_7a97b8
 parent_basename: Syria_3ed104
