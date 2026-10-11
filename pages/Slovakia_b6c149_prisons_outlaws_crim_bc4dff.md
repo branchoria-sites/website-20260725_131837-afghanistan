@@ -22,7 +22,7 @@ permalink: /crime-sites/
 sidebar_expanded_urls:
 - /where-slovakia-keeps-its-strangest/
 nav_short_title: Crime Sites
-title: When Does Dark History Become Entertainment?
+title: "When Does Dark History Become Entertainment? - Slovakia"
 title_full: When Does Dark History Become Entertainment? | Strange Slovakia
 display_title_short: Crime Sites
 display_title: Crime Sites

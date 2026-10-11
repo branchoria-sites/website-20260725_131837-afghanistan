@@ -22,7 +22,7 @@ permalink: /dark-tourism/
 sidebar_expanded_urls:
 - /united-states/
 nav_short_title: Dark Tourism
-title: When Does Dark History Become Entertainment?
+title: "When Does Dark History Become Entertainment? - United States"
 title_full: When Does Dark History Become Entertainment? | Strange America
 display_title_short: Dark Tourism
 display_title: Dark Tourism
