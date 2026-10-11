@@ -22,7 +22,7 @@ permalink: /spirit-traditions/
 sidebar_expanded_urls:
 - /what-makes-south-koreas-museums-so/
 nav_short_title: Spirit Traditions
-title: Can a Museum Preserve a Living Ritual?
+title: "Can a Museum Preserve a Living Ritual? - South Korea"
 title_full: Can a Museum Preserve a Living Ritual? | Curious South Korea
 display_title_short: Spirit Traditions
 display_title: Spirit Traditions

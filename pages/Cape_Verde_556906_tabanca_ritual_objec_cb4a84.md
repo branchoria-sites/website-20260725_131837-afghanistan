@@ -22,7 +22,7 @@ permalink: /tabanca/
 sidebar_expanded_urls:
 - /where-cape-verde-keeps-its-strangest/
 nav_short_title: Tabanca
-title: Can a Museum Preserve a Living Ritual?
+title: "Can a Museum Preserve a Living Ritual? - Cape Verde"
 title_full: Can a Museum Preserve a Living Ritual? | Cape Verde Curiosities
 display_title_short: Tabanca
 display_title: Tabanca
